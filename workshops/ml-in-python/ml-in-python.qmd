@@ -7,4 +7,4 @@ This two hour workshop, suitable for those with a basic working knowledge of Pyt
 - [Kaggle Tutorial](https://www.kaggle.com/code/crimsoneer/eh-python-ml-tutorial/notebook)
 - [Kaggle Tutorial (Solution)](https://www.kaggle.com/code/crimsoneer/eh-python-ml-tutorial-complete)
 - [Github Repo](https://github.com/AndreasThinks/python-ml-tutorial)
-- [Slides](assets/applied-ml-present.html)
+- <a href=slides/applied-ml-present.html download>Slides</a>

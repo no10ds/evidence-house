@@ -18,6 +18,13 @@ website:
       - href: workshops.qmd
         text: Workshops
       - playbook/playbook.qmd
+    tools:
+      - icon: twitter
+        href: https://twitter.com/evidence_house
+      - icon: linkedin
+        href: https://www.linkedin.com/company/evidence-house/
+      - icon: github
+        href: https://github.com/no10ds/
 
 format:
   html:

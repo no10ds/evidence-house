@@ -6,11 +6,10 @@ These hackathons should focus on bringing together data and expertise from withi
 
 This playbook walks you through the key steps in running a hackathon. It is a set of guidelines/patterns that have proved effective, so feel free to vary according to your needs!
 
-<aside>
-⚠️  **Do I really need a hackathon?** Before you start planning, make sure a hackathon is the right answer to your challenge: they are open, collaborative events, that aim to **rapidly crowd-source technical solutions** to a specific theme or question. Do you have a narrow question (such as linking two datasets or forecasting an outcome), or a digital solution already in mind (like a new digital platform for your staff)? Consider a sprint or project instead!
- A**s a rule of thumb, if you already have a good idea what your winning entry might look like, then a hackathon probably isn’t the most effective way of getting to it**
-
-</aside>
+::: {.callout-caution}
+## Is a hackathon the right solution for you?
+Before you start planning, make sure a hackathon is the right answer to your challenge: they are open, collaborative events, that aim to **rapidly crowd-source technical solutions** to a specific theme or question. Do you have a narrow question (such as linking two datasets or forecasting an outcome), or a digital solution already in mind (like a new digital platform for your staff)? Consider a sprint or project instead! **As a rule of thumb, if you already have a good idea what your winning entry might look like, then a hackathon probably isn’t the most effective way of getting to it**
+:::
 
 # Master Checklist
 
@@ -26,10 +25,9 @@ In a rush? Make sure you have the below done!
 - [ ]  An analytical environment where people can collaborate and work on their data (ideally using R, Python, or other open source tooling in line with best practice around [government analysis](https://analysisfunction.civilservice.gov.uk/support/reproducible-analytical-pipelines/))
 - [ ]  An end of hack event/panel with prizes and next steps!
 
-<aside>
-🔥 We’ve found a **strong panel of senior judges** and **well laid out venue for your event** are those tasks that are most crucial to do early: **no matter how exciting your theme is, you’re not going to find a room for a hundred participants to hack in or be able to book a minister for an afternoon of judging if you ask from one week to the next!** Make sure secure a spacious venue with a layout that suits your participants, and a mix of technical participants with the senior and technical “oomph” to judge and energise as early as you can.
-
-</aside>
+::: {.callout-note}
+We’ve found a **strong panel of senior judges** and **well laid out venue for your event** are those tasks that are most crucial to do early: **no matter how exciting your theme is, you’re not going to find a room for a hundred participants to hack in or be able to book a minister for an afternoon of judging if you ask from one week to the next!** Make sure secure a spacious venue with a layout that suits your participants, and a mix of technical participants with the senior and technical “oomph” to judge and energise as early as you can.
+:::
 
 # Before the Event
 
@@ -146,10 +144,9 @@ For your participants, that should include a chatroom/collaboration space. While
 
 It's also a good time to consider how you're going to share and publise your progress more widely - consider live-streaming your keynote speeches, or providing a Twitter hashtag!
 
-<aside>
-📚 The less time your participants spend confused, the more time they can spend tackling problems, so **use your tools to make their life as easy as possible!** From time-tables to data catalogues, research papers and contact points, equip your participants as best they can to make an impact
-
-</aside>
+::: {.callout-tip}
+The less time your participants spend confused, the more time they can spend tackling problems, so **use your tools to make their life as easy as possible!** From time-tables to data catalogues, research papers and contact points, equip your participants as best they can to make an impact
+:::
 
 ## Location
 
@@ -271,10 +268,9 @@ Identify your ideal judging panel early, and make sure they have the time to com
 - A senior technical champion: Someone with a grip on the technical challenges, and just how your solution addresses them - for example, a Head of Data Science/infrastructure
 - An external guest: An inspiring external guest with domain knowledge or an understanding of the challenges the sector faces can add some useful diversity and context - for instance, this might be a senior representative from a private sector partner, or a charity working on the problem
 
-<aside>
-⚠️ **Excellent judges can make or break a hackathon, so take care of your panel!** You should have a panel of eminent, inspirational experts that will wow and inspire, have the technical chops to challenge your participants and the strategic vision to know which nascent prototype will grow a product that drives large scale change. **Pick them wisely, and make sure your participants know just how lucky they are to have them.**
-
-</aside>
+::: {.callout-important}
+**Excellent judges can make or break a hackathon, so take care of your panel!** You should have a panel of eminent, inspirational experts that will wow and inspire, have the technical chops to challenge your participants and the strategic vision to know which nascent prototype will grow a product that drives large scale change. **Pick them wisely, and make sure your participants know just how lucky they are to have them.**
+:::
 
 ### Identifying Winners
 

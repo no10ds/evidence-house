@@ -184,20 +184,30 @@ ul.task-list li input[type="checkbox"] {
 </nav>
     </div>
 <!-- main -->
-<main class="content page-columns page-full" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 
 
-<section id="the-hackathon-playbook" class="level1 unnumbered page-columns page-full">
+<section id="the-hackathon-playbook" class="level1 unnumbered">
 <h1 class="unnumbered">The Hackathon Playbook</h1>
 <p><em><a href="https://tips.hackathon.com/article/what-is-a-hackathon">A hackathon is an event that brings together experts and creates a collaborative environment for solving a certain problem.</a></em> This playbook is focused on <strong><em>data-driven, technical</em></strong> hackathons that aim to produce novel digital tools and prototypes, rather than non-technical events, such as those hosted by <a href="https://openpolicy.blog.gov.uk/about/">Policy Lab</a>, which focus on ideation and systems thinking.</p>
 <p>These hackathons should focus on bringing together data and expertise from within and across departments, linking together disparate datasets in novel ways to generate impactive insights or identify opportunities to improve government through technology and automation.</p>
 <p>This playbook walks you through the key steps in running a hackathon. It is a set of guidelines/patterns that have proved effective, so feel free to vary according to your needs!</p>
-<aside>
-<p>⚠️ <strong>Do I really need a hackathon?</strong> Before you start planning, make sure a hackathon is the right answer to your challenge: they are open, collaborative events, that aim to <strong>rapidly crowd-source technical solutions</strong> to a specific theme or question. Do you have a narrow question (such as linking two datasets or forecasting an outcome), or a digital solution already in mind (like a new digital platform for your staff)? Consider a sprint or project instead! A<strong>s a rule of thumb, if you already have a good idea what your winning entry might look like, then a hackathon probably isn’t the most effective way of getting to it</strong></p>
-</aside>
+<div class="callout callout-style-default callout-caution callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Is a hackathon the right solution for you?
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Before you start planning, make sure a hackathon is the right answer to your challenge: they are open, collaborative events, that aim to <strong>rapidly crowd-source technical solutions</strong> to a specific theme or question. Do you have a narrow question (such as linking two datasets or forecasting an outcome), or a digital solution already in mind (like a new digital platform for your staff)? Consider a sprint or project instead! <strong>As a rule of thumb, if you already have a good idea what your winning entry might look like, then a hackathon probably isn’t the most effective way of getting to it</strong></p>
+</div>
+</div>
 </section>
-<section id="master-checklist" class="level1 page-columns page-full">
+<section id="master-checklist" class="level1">
 <h1>Master Checklist</h1>
 <p>In a rush? Make sure you have the below done!</p>
 <ul class="task-list">
@@ -211,11 +221,21 @@ ul.task-list li input[type="checkbox"] {
 <li><input type="checkbox">An analytical environment where people can collaborate and work on their data (ideally using R, Python, or other open source tooling in line with best practice around <a href="https://analysisfunction.civilservice.gov.uk/support/reproducible-analytical-pipelines/">government analysis</a>)</li>
 <li><input type="checkbox">An end of hack event/panel with prizes and next steps!</li>
 </ul>
-<aside>
-<p>🔥 We’ve found a <strong>strong panel of senior judges</strong> and <strong>well laid out venue for your event</strong> are those tasks that are most crucial to do early: <strong>no matter how exciting your theme is, you’re not going to find a room for a hundred participants to hack in or be able to book a minister for an afternoon of judging if you ask from one week to the next!</strong> Make sure secure a spacious venue with a layout that suits your participants, and a mix of technical participants with the senior and technical “oomph” to judge and energise as early as you can.</p>
-</aside>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Note
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>We’ve found a <strong>strong panel of senior judges</strong> and <strong>well laid out venue for your event</strong> are those tasks that are most crucial to do early: <strong>no matter how exciting your theme is, you’re not going to find a room for a hundred participants to hack in or be able to book a minister for an afternoon of judging if you ask from one week to the next!</strong> Make sure secure a spacious venue with a layout that suits your participants, and a mix of technical participants with the senior and technical “oomph” to judge and energise as early as you can.</p>
+</div>
+</div>
 </section>
-<section id="before-the-event" class="level1 page-columns page-full">
+<section id="before-the-event" class="level1">
 <h1>Before the Event</h1>
 <section id="identifying-a-challenge" class="level2">
 <h2 class="anchored" data-anchor-id="identifying-a-challenge">Identifying a Challenge</h2>
@@ -290,7 +310,7 @@ ul.task-list li input[type="checkbox"] {
 <p>If you’re struggling to complete your DPIA, don’t be ask to reach out for help! Over time, we’ll aim to put together a database of best practice and template examples.</p>
 </section>
 </section>
-<section id="tooling" class="level2 page-columns page-full">
+<section id="tooling" class="level2">
 <h2 class="anchored" data-anchor-id="tooling">Tooling</h2>
 <p>The exact nature of your tooling will depend on what is available internally, and the sensitivity of your data. At a minimum, this should provide collaborative access to open-source, reproducible analytical tools (such as R and/or Python) in line with <a href="https://www.gov.uk/guidance/choose-tools-and-infrastructure-to-make-better-use-of-your-data">government analytics guidance</a>, either locally or in the cloud.</p>
 <p>If such tooling is not available internally, you may be able to seek support for a temporary solution through your internal technical team or 10DS.</p>
@@ -308,14 +328,24 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="physical">Physical</h3>
 <p>Where a cloud solution is not feasible, you may wish to consider a “local” solution. At it’s most basic, this could involve installing Anaconda or R Studio on secure laptops provided for the event, but depending on local availability, you may be able to build a more sophisticated local analytics environment - for example, by hosting notebooks through <a href="https://jupyter.org/hub">JupyterHub</a> and version control through <a href="https://about.gitlab.com/">GitLab</a> on a local server.</p>
 </section>
-<section id="collaboration-and-social-tools" class="level3 page-columns page-full">
+<section id="collaboration-and-social-tools" class="level3">
 <h3 class="anchored" data-anchor-id="collaboration-and-social-tools">Collaboration and Social Tools</h3>
 <p>The point of a hackathon is to collaborate and show off your work, so make sure you have digital tools to do just that.</p>
 <p>For your participants, that should include a chatroom/collaboration space. While this is normally <a href="https://slack.com/">Slack</a> or <a href="https://www.microsoft.com/en-gb/microsoft-teams/group-chat-software">Teams</a>, there are plenty of other more unique options, such as <a href="https://www.gather.town/">Gather.Town</a>. You may wish to also provide a central location to store key documents, such as <a href="https://www.dropbox.com/home">Dropbox</a> or <a href="https://www.notion.so/">Notion</a>, as well as a version controlled code repository, such as <a href="https://github.com/">GitHub</a> or <a href="https://about.gitlab.com/">GitLab</a>.</p>
 <p>It’s also a good time to consider how you’re going to share and publise your progress more widely - consider live-streaming your keynote speeches, or providing a Twitter hashtag!</p>
-<aside>
-<p>📚 The less time your participants spend confused, the more time they can spend tackling problems, so <strong>use your tools to make their life as easy as possible!</strong> From time-tables to data catalogues, research papers and contact points, equip your participants as best they can to make an impact</p>
-</aside>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>The less time your participants spend confused, the more time they can spend tackling problems, so <strong>use your tools to make their life as easy as possible!</strong> From time-tables to data catalogues, research papers and contact points, equip your participants as best they can to make an impact</p>
+</div>
+</div>
 </section>
 </section>
 <section id="location" class="level2">
@@ -371,7 +401,7 @@ ul.task-list li input[type="checkbox"] {
 </section>
 </section>
 </section>
-<section id="during-the-event" class="level1 page-columns page-full">
+<section id="during-the-event" class="level1">
 <h1>During the Event</h1>
 <section id="welcome" class="level2">
 <h2 class="anchored" data-anchor-id="welcome">Welcome</h2>
@@ -422,10 +452,10 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p>We also recommend that, if time, the people that give this talk on how to present drop in with each team to give feedback on their developing presentations ahead of any final panel.</p>
 </section>
-<section id="ending-your-event" class="level2 page-columns page-full">
+<section id="ending-your-event" class="level2">
 <h2 class="anchored" data-anchor-id="ending-your-event">Ending your Event</h2>
 <p>A strong finish is crucial to a good hackathon: it gives your participants a chance to take a breather, reflect, and show off what they’ve accomplished to senior champions, hopefully starting the road to meaningful change.</p>
-<section id="your-judges" class="level3 page-columns page-full">
+<section id="your-judges" class="level3">
 <h3 class="anchored" data-anchor-id="your-judges">Your Judges</h3>
 <p>Identify your ideal judging panel early, and make sure they have the time to commit to your event - this isn’t something where you can sneak in half-way through! We’d recommend a diverse, senior panel that can understand the technical challenges your participants have overcome, as well as what it might be able to achieve in the wider context… for example, here is a good example of a three person panel:</p>
 <ul>
@@ -433,9 +463,19 @@ ul.task-list li input[type="checkbox"] {
 <li>A senior technical champion: Someone with a grip on the technical challenges, and just how your solution addresses them - for example, a Head of Data Science/infrastructure</li>
 <li>An external guest: An inspiring external guest with domain knowledge or an understanding of the challenges the sector faces can add some useful diversity and context - for instance, this might be a senior representative from a private sector partner, or a charity working on the problem</li>
 </ul>
-<aside>
-<p>⚠️ <strong>Excellent judges can make or break a hackathon, so take care of your panel!</strong> You should have a panel of eminent, inspirational experts that will wow and inspire, have the technical chops to challenge your participants and the strategic vision to know which nascent prototype will grow a product that drives large scale change. <strong>Pick them wisely, and make sure your participants know just how lucky they are to have them.</strong></p>
-</aside>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Important
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><strong>Excellent judges can make or break a hackathon, so take care of your panel!</strong> You should have a panel of eminent, inspirational experts that will wow and inspire, have the technical chops to challenge your participants and the strategic vision to know which nascent prototype will grow a product that drives large scale change. <strong>Pick them wisely, and make sure your participants know just how lucky they are to have them.</strong></p>
+</div>
+</div>
 </section>
 <section id="identifying-winners" class="level3">
 <h3 class="anchored" data-anchor-id="identifying-winners">Identifying Winners</h3>

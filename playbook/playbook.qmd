@@ -1,4 +1,7 @@
-# The Hackathon Playbook {.unnumbered}
+---
+title: "The Hackathon Playbook"
+---
+
 
 *[A hackathon is an event that brings together experts and creates a collaborative environment for solving a certain problem.](https://tips.hackathon.com/article/what-is-a-hackathon)* This playbook is focused on ***data-driven, technical*** hackathons that aim to produce novel digital tools and prototypes, rather than non-technical events, such as those hosted by [Policy Lab](https://openpolicy.blog.gov.uk/about/), which focus on ideation and systems thinking.
 

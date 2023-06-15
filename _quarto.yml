@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: output
+
+website:
+  favicon: logo.png
+  twitter-card: true
+  title: "Evidence House"
+  open-graph: true
+  navbar:
+    logo: "logo.png"
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: newsletters.qmd
+        text: News
+      - href: workshops.qmd
+        text: Workshops
+      - playbook/playbook.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

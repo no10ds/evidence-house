@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/newsletters.html",
+    "items": [
+      "/newsletters/1/1-news-from-the-house.html"
+    ]
+  },
+  {
+    "listing": "/workshops/ml-in-python/workshops.html",
+    "items": []
+  },
+  {
+    "listing": "/workshops.html",
+    "items": [
+      "/workshops/ml-in-python/ml-in-python.html"
+    ]
+  }
+]

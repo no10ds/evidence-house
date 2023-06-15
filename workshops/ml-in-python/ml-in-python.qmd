@@ -1,0 +1,10 @@
+---
+title: "Introduction to Machine Learning in Python"
+---
+
+This two hour workshop, suitable for those with a basic working knowledge of Python or R, aims to provide a quick introduction of applied machine learning approaches.
+
+- [Kaggle Tutorial](https://www.kaggle.com/code/crimsoneer/eh-python-ml-tutorial/notebook)
+- [Kaggle Tutorial (Solution)](https://www.kaggle.com/code/crimsoneer/eh-python-ml-tutorial-complete)
+- [Github Repo](https://github.com/AndreasThinks/python-ml-tutorial)
+- [Slides](assets/applied-ml-present.html)

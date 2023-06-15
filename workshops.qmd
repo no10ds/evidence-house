@@ -1,0 +1,11 @@
+---
+format: html
+listing:
+  contents: workshops
+  type: table
+  filter-ui: [title]
+  sort:
+    - "date"
+    - "title desc"
+---
+

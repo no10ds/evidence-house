@@ -5,8 +5,9 @@ listing:
     - "events/*/*-event.qmd"
   type: table
   filter-ui: [title]
+  fields: [date, title]
   sort:
-    - "date"
+    - "date desc"
     - "title desc"
 ---
 

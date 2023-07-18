@@ -130,7 +130,7 @@
     "href": "newsletters.html",
     "title": "Evidence House",
     "section": "",
-    "text": "News from the House - Volume 1\n\n\n\n\n\n\n\n\n\n\n\n\nJun 1, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "No matching items"
   },
   {
     "objectID": "events/gen-ai-hack/llm-hack-event.html",
@@ -144,7 +144,7 @@
     "href": "events/gen-ai-hack/llm-hack-event.html#key-challenges",
     "title": "Generative AI Hack",
     "section": "Key Challenges",
-    "text": "Key Challenges\n\nHow could generative AI be used…\n\n… to ensure the most important legislation is passed and delivered?\n… to make the most complex parts of government policy making more efficient?\n… to equip government with the best people and tools to be effective?\n… to help government communicate with the public, and help the public communicate with government?"
+    "text": "Key Challenges\n\nHow could generative AI be used…\n\nThe Ministerial Box - How could generative AI be used to make sure the most senior decisions makers have the best information, to make the best decisions?\nFrom Idea to Policy - How could generative AI be used to ensure the most important legislation is passed and delivered?\nThe Best People, Best Equipped - How could generative AI be used.ould generative AI be used to ensure the most important legislation is passed and delivered?\nConversational Government - How could generative AI be used to help government communicate with the public, and help the public communicate with government?"
   },
   {
     "objectID": "events/gen-ai-hack/llm-hack-event.html#agenda",
@@ -158,14 +158,14 @@
     "href": "events/gen-ai-hack/llm-hack-event.html#datasets",
     "title": "Generative AI Hack",
     "section": "Datasets",
-    "text": "Datasets\nResources"
+    "text": "Datasets\nDatasets"
   },
   {
     "objectID": "events/gen-ai-hack/llm-hack-event.html#resources",
     "href": "events/gen-ai-hack/llm-hack-event.html#resources",
     "title": "Generative AI Hack",
     "section": "Resources",
-    "text": "Resources\nDatasets"
+    "text": "Resources\nResources"
   },
   {
     "objectID": "events/gen-ai-hack/resources.html",
@@ -193,7 +193,7 @@
     "href": "events/gen-ai-hack/data.html",
     "title": "Evidence House",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nCategories\n\n\n\n\n\n\nWebsite Feedback\n\n\ncommunication\n\n\n\n\nTwitter Heatwave Data\n\n\ncommunication\n\n\n\n\nTwitter Emergency Alert Data\n\n\ncommunication\n\n\n\n\nSynthetic Write-around\n\n\npolicy,legislation\n\n\n\n\nPolicy Papers\n\n\npolicy,legislation\n\n\n\n\nGuidance and Regulation\n\n\npolicy\n\n\n\n\nGovernment Tenders\n\n\nbest equipped\n\n\n\n\nGovernment Contracts\n\n\nbest equipped\n\n\n\n\nEvaluations\n\n\nmost effective\n\n\n\n\nEmergency Alert Articles\n\n\ncommunication\n\n\n\n\nCivil Service Jobs\n\n\nbest equipped\n\n\n\n\nBills in Parliament\n\n\nlegislation\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nCategories\n\n\n\n\n\n\nBills in Parliament\n\n\nlegislation\n\n\n\n\nCivil Service Jobs\n\n\nbest equipped\n\n\n\n\nCommittee Correspondence\n\n\npolicy\n\n\n\n\nEmergency Alert Articles\n\n\ncommunication\n\n\n\n\nEvaluations\n\n\nmost effective\n\n\n\n\nGovernment Contracts\n\n\nbest equipped\n\n\n\n\nGovernment Tenders\n\n\nbest equipped\n\n\n\n\nGuidance and Regulation\n\n\npolicy\n\n\n\n\nPolicy Papers\n\n\npolicy,legislation\n\n\n\n\nSynthetic Write-around\n\n\npolicy,legislation\n\n\n\n\nTwitter Emergency Alert Data\n\n\ncommunication\n\n\n\n\nTwitter Heatwave Data\n\n\ncommunication\n\n\n\n\nWebsite Feedback\n\n\ncommunication\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "events/gen-ai-hack/data/heatwave-twitter.html",
@@ -215,6 +215,13 @@
     "title": "Evaluations",
     "section": "",
     "text": "An extract of government evaluations (ETF)"
+  },
+  {
+    "objectID": "events/gen-ai-hack/data/correspondence.html",
+    "href": "events/gen-ai-hack/data/correspondence.html",
+    "title": "Committee Correspondence",
+    "section": "",
+    "text": "Correspondence from various public committees\nhttps://committees.parliament.uk/committee/127/public-accounts-committee/publications/3/correspondence/"
   },
   {
     "objectID": "events/gen-ai-hack/data/alert-articles.html",
@@ -294,34 +301,6 @@
     "text": "No matching items"
   },
   {
-    "objectID": "newsletters/1/1-news-from-the-house.html",
-    "href": "newsletters/1/1-news-from-the-house.html",
-    "title": "News from the House - Volume 1",
-    "section": "",
-    "text": "Welcome to the first issue of our Evidence House newsletter. In this issue, you’ll hear about our big launch event, our firsth hackathons, and exciting opportunities."
-  },
-  {
-    "objectID": "newsletters/1/1-news-from-the-house.html#what-have-we-been-up-to",
-    "href": "newsletters/1/1-news-from-the-house.html#what-have-we-been-up-to",
-    "title": "News from the House - Volume 1",
-    "section": "What have we been up to?",
-    "text": "What have we been up to?\n\nSince launch\nFirst, a word from our sponsors INSERT PM VIDEO When we launched in January, we couldn’t have predicted the rate at which Evidence House would capture imaginations.\nWe now have a thriving community of over 350 engineers, developers and analysts from across government, and growing fast.\nThrough our hackathons they have generated an incredible array of insights and solutions, with some highly promising ones being developed further as a result. And we’re just getting started.\nThe coming weeks will see us launch some hugely exciting events and provide secondment and L&D opportunities to our amazing community.\nIf you’re a Civil Servant that wants to deliver real impact at pace, upgrade your technical skills and take your career to the next level then join us today by clicking this link.\nSince Launching • 350 active members and growing • 130 have taken part in hackathons • 100 upskilled in python, machine learning and more • 5 secondments created (to develop products spun out from our hackathons) • 10 projects under development\n\n\nCongratjulations ot our winners!\n\n\n\nCongratulations to the winning teams of our March and May hackathons! We were delighted to welcome both teams to Downing Street to present their projects to a range of senior stakeholders and Ministers, all of whom were impressed by the work they have done. Collectively their work has the potential to: • Save thousands of people a year from the financial ruin and heartbreak that fraud leaves in its wake, by providing an SMS service that detects dodgy URLs • Help expedite our asylum decision making process, ensuring we can uphold our duty to support people in dire need"
-  },
-  {
-    "objectID": "newsletters/1/1-news-from-the-house.html#coming-up",
-    "href": "newsletters/1/1-news-from-the-house.html#coming-up",
-    "title": "News from the House - Volume 1",
-    "section": "Coming Up",
-    "text": "Coming Up\n\nFrom Hackathon to Delivery - the Fraud Delivery Sprint\nDelivering the results of our hackathon Secondments Do you want to help bring some of our amazing hackathon outputs to life? We are thrilled to announce that our friends in the NCA are offering 5 x 2-month secondments to help develop and implement some of the outputs of our march hackathon, which tackled serious fraud using open source data.\n\n\nNo10 Innovation Fellowships\nIt’s a ting that has happened, come take part\n\n\nOther Opportunities\n\n13th June Bootcamp – upskilling members in Python, machine learning and randomised evaluation\nJuly – AI workshop for departmental directors of analysis, perm secs and ministers\nJuly – Generative AI hack summer showcase\nAugust – Summer party\n\n\n\nUpdates from our friends\n\nWe work with partners throughout government. Here is fun things they’re doing\n\n\nthe ONS are building a ting\nThe PSFA has a thing too\nCDDO are probably doing something"
-  },
-  {
-    "objectID": "newsletters/1/1-news-from-the-house.html#stay-in-touch",
-    "href": "newsletters/1/1-news-from-the-house.html#stay-in-touch",
-    "title": "News from the House - Volume 1",
-    "section": "Stay in touch!",
-    "text": "Stay in touch!\nWe hope you found this useful! Sign up for updates here, or follow us on Slack, Twitter and LinkedIn"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Evidence House",
@@ -333,6 +312,6 @@
     "href": "events.html",
     "title": "Evidence House",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJun 23, 2023\n\n\nIntroduction to Machine Learning in Python\n\n\n\n\n\n\n\nJul 26, 2023\n\n\nGenerative AI Hack\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\nJul 26, 2023\n\n\nGenerative AI Hack\n\n\n\n\nJun 23, 2023\n\n\nIntroduction to Machine Learning in Python\n\n\n\n\n\n\nNo matching items"
   }
 ]

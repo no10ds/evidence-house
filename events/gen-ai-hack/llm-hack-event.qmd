@@ -9,15 +9,15 @@ Our three day, summer flagship [Generative AI Hackatahon](https://www.eventbrite
 
 ### How could generative AI be used...
 
-- ... to ensure the most important [**legislation**](challenges/legislation.qmd) is passed and delivered?
-- ... to make the most complex parts of [**government policy making**](challenges/policy.qmd) more efficient?
-- ... to equip government with the [**best people and tools**](challenges/equipped.qmd) to be effective?
-- ... to help government [**communicate**](challenges/communicate.qmd) with the public, and help the public communicate with government?
+- **The Ministerial Box -** How could generative AI be used to make sure the most senior decisions makers have the best information, to make the best decisions?
+- **From Idea to Policy -** How could generative AI be used to ensure the most important [**legislation**](challenges/legislation.qmd) is passed and delivered?
+- **The Best People, Best Equipped -** How could generative AI be used.ould generative AI be used to ensure the most important [**legislation**](challenges/legislation.qmd) is passed and delivered?
+- **Conversational Government -** How could generative AI be used to help government [**communicate**](challenges/communicate.qmd) with the public, and help the public communicate with government?
 
 ## Agenda
 
 ## Datasets
-[Resources](resources.qmd)
+[Datasets](data.qmd)
 
 ## Resources
-[Datasets](data.qmd)
+[Resources](resources.qmd)

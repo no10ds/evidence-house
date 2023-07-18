@@ -1,6 +1,7 @@
 ---
 title: "News from the House - Volume 1"
 date: 2023-06-01
+draft: true
 toc: true
 toc-depth: 3
 toc-expand: true
@@ -10,7 +11,14 @@ format: html
 ![](assets/banner.jpg)
 :::
 
-Welcome to the first issue of our Evidence House newsletter. In this issue, you'll hear about our big launch event, our firsth hackathons, and exciting opportunities.
+# Introduction
+When we launched in January, we couldn't have predicted the speed at which Evidence House would capture imaginations and take on a life of its own. I could not be more proud of this program.
+We now have a thriving community of more than 400 engineers, developers and analysts from across government, and the movement is growing fast. Our half day skills bootcamps have delivered free training in a range of topics including python coding and evaluation skills to 70 people in the past week alone!
+Through our hackathons, Evidence Housers have already generated an array of fascinating insights and promising solutions. Many of those with practical
+applications are being developed further for delivery into departments, with the expectation that they will have real world impact.
+We’re just getting started. This summer will see us mobilise our community on an even larger scale, collaborate across sectors and provide secondment and L&D opportunities to colleagues in every corner of government. If you’re a Civil Servant and want to deliver impact at pace, upgrade your technical skills and take your career to the next level, join us today.
+
+*Dr. Laura Gilbert, Chief Analyst and Director of Data Science, 10 Downing Street*
 
 ::: {.callout-tip}
 ## What is this?

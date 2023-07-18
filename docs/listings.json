@@ -1,25 +1,24 @@
 [
   {
     "listing": "/newsletters.html",
-    "items": [
-      "/newsletters/1/1-news-from-the-house.html"
-    ]
+    "items": []
   },
   {
     "listing": "/events/gen-ai-hack/data.html",
     "items": [
-      "/events/gen-ai-hack/data/website-feedback.html",
-      "/events/gen-ai-hack/data/heatwave-twitter.html",
-      "/events/gen-ai-hack/data/alert-twitter.html",
-      "/events/gen-ai-hack/data/writearound.html",
-      "/events/gen-ai-hack/data/policy-papers.html",
-      "/events/gen-ai-hack/data/regulations.html",
-      "/events/gen-ai-hack/data/tenders.html",
-      "/events/gen-ai-hack/data/contracts.html",
-      "/events/gen-ai-hack/data/evaluations.html",
-      "/events/gen-ai-hack/data/alert-articles.html",
+      "/events/gen-ai-hack/data/bills.html",
       "/events/gen-ai-hack/data/cs-jobs.html",
-      "/events/gen-ai-hack/data/bills.html"
+      "/events/gen-ai-hack/data/correspondence.html",
+      "/events/gen-ai-hack/data/alert-articles.html",
+      "/events/gen-ai-hack/data/evaluations.html",
+      "/events/gen-ai-hack/data/contracts.html",
+      "/events/gen-ai-hack/data/tenders.html",
+      "/events/gen-ai-hack/data/regulations.html",
+      "/events/gen-ai-hack/data/policy-papers.html",
+      "/events/gen-ai-hack/data/writearound.html",
+      "/events/gen-ai-hack/data/alert-twitter.html",
+      "/events/gen-ai-hack/data/heatwave-twitter.html",
+      "/events/gen-ai-hack/data/website-feedback.html"
     ]
   },
   {
@@ -29,8 +28,8 @@
   {
     "listing": "/events.html",
     "items": [
-      "/events/ml-in-python/ml-in-python-event.html",
-      "/events/gen-ai-hack/llm-hack-event.html"
+      "/events/gen-ai-hack/llm-hack-event.html",
+      "/events/ml-in-python/ml-in-python-event.html"
     ]
   }
 ]

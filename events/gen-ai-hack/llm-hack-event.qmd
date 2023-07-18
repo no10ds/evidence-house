@@ -1,0 +1,23 @@
+---
+title: "Generative AI Hack"
+date: 2023-07-26
+---
+
+Our three day, summer flagship [Generative AI Hackatahon](https://www.eventbrite.com/e/evidence-house-generative-ai-hackathon-tickets-666698642587?aff=oddtdtcreator)
+
+## Key Challenges
+
+### How could generative AI be used...
+
+- ... to ensure the most important [**legislation**](challenges/legislation.qmd) is passed and delivered?
+- ... to make the most complex parts of [**government policy making**](challenges/policy.qmd) more efficient?
+- ... to equip government with the [**best people and tools**](challenges/equipped.qmd) to be effective?
+- ... to help government [**communicate**](challenges/communicate.qmd) with the public, and help the public communicate with government?
+
+## Agenda
+
+## Datasets
+[Resources](resources.qmd)
+
+## Resources
+[Datasets](data.qmd)

@@ -1,0 +1,11 @@
+---
+format: html
+listing:
+  contents: "../assets/gen-ai-hack/data"
+  categories: true
+  type: table
+  filter-ui: [title]
+  sort:
+    - "title desc"
+---
+

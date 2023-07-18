@@ -15,8 +15,8 @@ website:
         text: Home
       - href: newsletters.qmd
         text: News
-      - href: workshops.qmd
-        text: Workshops
+      - href: events.qmd
+        text: Events
       - playbook/playbook.qmd
     tools:
       - icon: twitter

@@ -126,13 +126,6 @@
     "text": "Lessons for next time\nIf the event went well, somebody will probably be asked to run it again next year…so make sure they’re not starting from square 1! Store notes, lessons learnt and outputs in a repository, and make sure it’s accessible… the better your documentation, the less you’ll be asked back to run it all over again."
   },
   {
-    "objectID": "workshops.html",
-    "href": "workshops.html",
-    "title": "Evidence House",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nIntroduction to Machine Learning in Python\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "newsletters.html",
     "href": "newsletters.html",
     "title": "Evidence House",
@@ -140,11 +133,165 @@
     "text": "News from the House - Volume 1\n\n\n\n\n\n\n\n\n\n\n\n\nJun 1, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "workshops/ml-in-python/ml-in-python.html",
-    "href": "workshops/ml-in-python/ml-in-python.html",
+    "objectID": "events/gen-ai-hack/llm-hack-event.html",
+    "href": "events/gen-ai-hack/llm-hack-event.html",
+    "title": "Generative AI Hack",
+    "section": "",
+    "text": "Our three day, summer flagship Generative AI Hackatahon"
+  },
+  {
+    "objectID": "events/gen-ai-hack/llm-hack-event.html#key-challenges",
+    "href": "events/gen-ai-hack/llm-hack-event.html#key-challenges",
+    "title": "Generative AI Hack",
+    "section": "Key Challenges",
+    "text": "Key Challenges\n\nHow could generative AI be used…\n\n… to ensure the most important legislation is passed and delivered?\n… to make the most complex parts of government policy making more efficient?\n… to equip government with the best people and tools to be effective?\n… to help government communicate with the public, and help the public communicate with government?"
+  },
+  {
+    "objectID": "events/gen-ai-hack/llm-hack-event.html#agenda",
+    "href": "events/gen-ai-hack/llm-hack-event.html#agenda",
+    "title": "Generative AI Hack",
+    "section": "Agenda",
+    "text": "Agenda"
+  },
+  {
+    "objectID": "events/gen-ai-hack/llm-hack-event.html#datasets",
+    "href": "events/gen-ai-hack/llm-hack-event.html#datasets",
+    "title": "Generative AI Hack",
+    "section": "Datasets",
+    "text": "Datasets\nResources"
+  },
+  {
+    "objectID": "events/gen-ai-hack/llm-hack-event.html#resources",
+    "href": "events/gen-ai-hack/llm-hack-event.html#resources",
+    "title": "Generative AI Hack",
+    "section": "Resources",
+    "text": "Resources\nDatasets"
+  },
+  {
+    "objectID": "events/gen-ai-hack/resources.html",
+    "href": "events/gen-ai-hack/resources.html",
+    "title": "Generative AI Resources",
+    "section": "",
+    "text": "LLM University"
+  },
+  {
+    "objectID": "events/gen-ai-hack/timetable.html#day-2",
+    "href": "events/gen-ai-hack/timetable.html#day-2",
+    "title": "Timetable",
+    "section": "Day 2",
+    "text": "Day 2"
+  },
+  {
+    "objectID": "events/gen-ai-hack/timetable.html#day-3",
+    "href": "events/gen-ai-hack/timetable.html#day-3",
+    "title": "Timetable",
+    "section": "Day 3",
+    "text": "Day 3"
+  },
+  {
+    "objectID": "events/gen-ai-hack/data.html",
+    "href": "events/gen-ai-hack/data.html",
+    "title": "Evidence House",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nCategories\n\n\n\n\n\n\nWebsite Feedback\n\n\ncommunication\n\n\n\n\nTwitter Heatwave Data\n\n\ncommunication\n\n\n\n\nTwitter Emergency Alert Data\n\n\ncommunication\n\n\n\n\nSynthetic Write-around\n\n\npolicy,legislation\n\n\n\n\nPolicy Papers\n\n\npolicy,legislation\n\n\n\n\nGuidance and Regulation\n\n\npolicy\n\n\n\n\nGovernment Tenders\n\n\nbest equipped\n\n\n\n\nGovernment Contracts\n\n\nbest equipped\n\n\n\n\nEvaluations\n\n\nmost effective\n\n\n\n\nEmergency Alert Articles\n\n\ncommunication\n\n\n\n\nCivil Service Jobs\n\n\nbest equipped\n\n\n\n\nBills in Parliament\n\n\nlegislation\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "events/gen-ai-hack/data/heatwave-twitter.html",
+    "href": "events/gen-ai-hack/data/heatwave-twitter.html",
+    "title": "Twitter Heatwave Data",
+    "section": "",
+    "text": "Tweets relating to the heatwave"
+  },
+  {
+    "objectID": "events/gen-ai-hack/data/alert-twitter.html",
+    "href": "events/gen-ai-hack/data/alert-twitter.html",
+    "title": "Twitter Emergency Alert Data",
+    "section": "",
+    "text": "Tweets relating to the emergency alert system"
+  },
+  {
+    "objectID": "events/gen-ai-hack/data/evaluations.html",
+    "href": "events/gen-ai-hack/data/evaluations.html",
+    "title": "Evaluations",
+    "section": "",
+    "text": "An extract of government evaluations (ETF)"
+  },
+  {
+    "objectID": "events/gen-ai-hack/data/alert-articles.html",
+    "href": "events/gen-ai-hack/data/alert-articles.html",
+    "title": "Emergency Alert Articles",
+    "section": "",
+    "text": "Press articles relating to the emergency alert system"
+  },
+  {
+    "objectID": "events/gen-ai-hack/data/contracts.html",
+    "href": "events/gen-ai-hack/data/contracts.html",
+    "title": "Government Contracts",
+    "section": "",
+    "text": "An extract of government contracts"
+  },
+  {
+    "objectID": "events/gen-ai-hack/data/cs-jobs.html",
+    "href": "events/gen-ai-hack/data/cs-jobs.html",
+    "title": "Civil Service Jobs",
+    "section": "",
+    "text": "A data extract from civil service jobs"
+  },
+  {
+    "objectID": "events/gen-ai-hack/data/tenders.html",
+    "href": "events/gen-ai-hack/data/tenders.html",
+    "title": "Government Tenders",
+    "section": "",
+    "text": "An extract of government tenders"
+  },
+  {
+    "objectID": "events/gen-ai-hack/data/writearound.html",
+    "href": "events/gen-ai-hack/data/writearound.html",
+    "title": "Synthetic Write-around",
+    "section": "",
+    "text": "A synthetic write-around"
+  },
+  {
+    "objectID": "events/gen-ai-hack/data/bills.html",
+    "href": "events/gen-ai-hack/data/bills.html",
+    "title": "Bills in Parliament",
+    "section": "",
+    "text": "2000 bills and how long they took to go through parliament"
+  },
+  {
+    "objectID": "events/gen-ai-hack/data/website-feedback.html",
+    "href": "events/gen-ai-hack/data/website-feedback.html",
+    "title": "Website Feedback",
+    "section": "",
+    "text": "Customer feedback on a website"
+  },
+  {
+    "objectID": "events/gen-ai-hack/data/regulations.html",
+    "href": "events/gen-ai-hack/data/regulations.html",
+    "title": "Guidance and Regulation",
+    "section": "",
+    "text": "Guidance and Regulation"
+  },
+  {
+    "objectID": "events/gen-ai-hack/data/policy-papers.html",
+    "href": "events/gen-ai-hack/data/policy-papers.html",
+    "title": "Policy Papers",
+    "section": "",
+    "text": "Policy papers and consultations"
+  },
+  {
+    "objectID": "events/ml-in-python/ml-in-python-event.html",
+    "href": "events/ml-in-python/ml-in-python-event.html",
     "title": "Introduction to Machine Learning in Python",
     "section": "",
     "text": "This two hour workshop, suitable for those with a basic working knowledge of Python or R, aims to provide a quick introduction of applied machine learning approaches.\n\nKaggle Tutorial\nKaggle Tutorial (Solution)\nGithub Repo\nSlides"
+  },
+  {
+    "objectID": "assets/gen-ai-hack/data/data.html",
+    "href": "assets/gen-ai-hack/data/data.html",
+    "title": "Evidence House",
+    "section": "",
+    "text": "No matching items"
   },
   {
     "objectID": "newsletters/1/1-news-from-the-house.html",
@@ -180,5 +327,12 @@
     "title": "Evidence House",
     "section": "",
     "text": "Evidence House is a Downing Street-led initiative, working with collaborators including ONS Data Science Campus, Evaluation Task Force, Modernisation and Reform Unit, Go Science and National Situation Centre. It aims to crowdsource, research, develop and deliver solutions to wicked cross-cutting problems in government, through thorough problem profiling, exploration and data mining, getting to the evidence-informed heart of issues."
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Evidence House",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nJun 23, 2023\n\n\nIntroduction to Machine Learning in Python\n\n\n\n\n\n\n\nJul 26, 2023\n\n\nGenerative AI Hack\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

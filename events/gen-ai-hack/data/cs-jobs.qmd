@@ -1,0 +1,7 @@
+---
+title: "Civil Service Jobs"
+categories:
+    - best equipped
+---
+
+A data extract from civil service jobs

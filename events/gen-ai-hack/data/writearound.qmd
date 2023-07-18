@@ -1,0 +1,8 @@
+---
+title: "Synthetic Write-around"
+categories:
+    - policy
+    - legislation
+---
+
+A synthetic write-around

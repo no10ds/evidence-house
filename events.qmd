@@ -1,7 +1,8 @@
 ---
 format: html
 listing:
-  contents: workshops
+  contents: 
+    - "events/*/*-event.qmd"
   type: table
   filter-ui: [title]
   sort:

@@ -4,4 +4,4 @@ categories:
     - policy
 ---
 
-[Guidance and Regulation](https://www.gov.uk/search/guidance-and-regulation)
+A list of all [Guidance and Regulation](https://www.gov.uk/search/guidance-and-regulation) is available on Gov.uk

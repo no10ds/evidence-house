@@ -2,4 +2,8 @@
 title: "Generative AI Resources"
 ---
 
-LLM University
+## On Large Language Models
+- [LLM University (from Cohere)](https://docs.cohere.com/docs/llmu)
+
+## NLP
+- [Huggingface Courses](https://huggingface.co/learn)

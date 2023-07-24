@@ -7,6 +7,8 @@ Welcome to the homepage for the flagship Evidence House Generative AI Hackathon!
 
 Keep an eye on this page, as well as [our Slack channel](https://govdatascience.slack.com/archives/C04V76C0YR1), for updates and announcements.
 
+
+
 ## Key Challenges
 #### How could generative AI be used...
 
@@ -20,8 +22,8 @@ Keep an eye on this page, as well as [our Slack channel](https://govdatascience.
 
 ## Agenda
 - On [Day 1](day_1.qmd), you'll meet your teams, hear from different problem owners and be introduced to the tools you'll be using
-- On [Day 2](day_1.qmd), we'll leave you alone to get hacking (with a few distractions to keep everyone having fun)
-- On [Day 3](day_1.qmd), it's presentation time! We'll give you some space to finish your presentations, and then it's time for the semi-finals and big showcase!
+- On [Day 2](day_2.qmd), we'll leave you alone to get hacking (with a few distractions to keep everyone having fun)
+- On [Day 3](day_3.qmd), it's presentation time! We'll give you some space to finish your presentations, and then it's time for the semi-finals and big showcase!
 
 ## Teams
 We'll be announcing your team shortly - keep an eye on this page!
@@ -31,3 +33,6 @@ We'll be announcing your team shortly - keep an eye on this page!
 
 ## Resources
 [Resources](resources.qmd)
+
+## Tools
+[Tools and IT](tools.qmd)

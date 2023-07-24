@@ -5,4 +5,4 @@ categories:
     - legislation
 ---
 
-A synthetic write-around
+A synthetic write-around is available for government - please check on the Slack channel.

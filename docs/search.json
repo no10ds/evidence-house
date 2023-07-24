@@ -133,6 +133,27 @@
     "text": "No matching items"
   },
   {
+    "objectID": "events/gen-ai-hack/day_3.html#collaboratory",
+    "href": "events/gen-ai-hack/day_3.html#collaboratory",
+    "title": "Tools",
+    "section": "Collaboratory",
+    "text": "Collaboratory"
+  },
+  {
+    "objectID": "events/gen-ai-hack/day_3.html#azure",
+    "href": "events/gen-ai-hack/day_3.html#azure",
+    "title": "Tools",
+    "section": "Azure",
+    "text": "Azure"
+  },
+  {
+    "objectID": "events/gen-ai-hack/day_3.html#power-apps",
+    "href": "events/gen-ai-hack/day_3.html#power-apps",
+    "title": "Tools",
+    "section": "Power Apps",
+    "text": "Power Apps"
+  },
+  {
     "objectID": "events/gen-ai-hack/llm-hack-event.html",
     "href": "events/gen-ai-hack/llm-hack-event.html",
     "title": "Generative AI Hack",
@@ -175,11 +196,32 @@
     "text": "Resources\nResources"
   },
   {
+    "objectID": "events/gen-ai-hack/llm-hack-event.html#tools",
+    "href": "events/gen-ai-hack/llm-hack-event.html#tools",
+    "title": "Generative AI Hack",
+    "section": "Tools",
+    "text": "Tools\nTools and IT"
+  },
+  {
     "objectID": "events/gen-ai-hack/resources.html",
     "href": "events/gen-ai-hack/resources.html",
     "title": "Generative AI Resources",
     "section": "",
-    "text": "LLM University"
+    "text": "LLM University (from Cohere)"
+  },
+  {
+    "objectID": "events/gen-ai-hack/resources.html#on-large-language-models",
+    "href": "events/gen-ai-hack/resources.html#on-large-language-models",
+    "title": "Generative AI Resources",
+    "section": "",
+    "text": "LLM University (from Cohere)"
+  },
+  {
+    "objectID": "events/gen-ai-hack/resources.html#nlp",
+    "href": "events/gen-ai-hack/resources.html#nlp",
+    "title": "Generative AI Resources",
+    "section": "NLP",
+    "text": "NLP\n\nHuggingface Courses"
   },
   {
     "objectID": "events/gen-ai-hack/timetable.html#day-2",
@@ -200,14 +242,14 @@
     "href": "events/gen-ai-hack/data.html",
     "title": "Evidence House",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nCategories\n\n\n\n\n\n\nBills in Parliament\n\n\nlegislation\n\n\n\n\nCivil Service Jobs\n\n\nbest equipped\n\n\n\n\nCommittee Correspondence\n\n\npolicy\n\n\n\n\nEmergency Alert Articles\n\n\ncommunication\n\n\n\n\nEvaluations\n\n\nmost effective\n\n\n\n\nGovernment Contracts\n\n\nbest equipped\n\n\n\n\nGovernment Tenders\n\n\nbest equipped\n\n\n\n\nGuidance and Regulation\n\n\npolicy\n\n\n\n\nPolicy Papers\n\n\npolicy,legislation\n\n\n\n\nSynthetic Write-around\n\n\npolicy,legislation\n\n\n\n\nTwitter Emergency Alert Data\n\n\ncommunication\n\n\n\n\nTwitter Heatwave Data\n\n\ncommunication\n\n\n\n\nWebsite Feedback\n\n\ncommunication\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nCategories\n\n\n\n\n\n\nBills in Parliament\n\n\nlegislation\n\n\n\n\nCivil Service Jobs\n\n\nbest equipped\n\n\n\n\nCommittee Correspondence\n\n\npolicy\n\n\n\n\nEmergency Alert Articles\n\n\ncommunication\n\n\n\n\nEvaluations\n\n\nmost effective\n\n\n\n\nGovernment Contracts\n\n\nprocurement\n\n\n\n\nGovernment Tenders\n\n\nprocurement\n\n\n\n\nGuidance and Regulation\n\n\npolicy\n\n\n\n\nPolicy Papers\n\n\npolicy,legislation\n\n\n\n\nSynthetic Write-around\n\n\npolicy,legislation\n\n\n\n\nTwitter Emergency Alert Data\n\n\ncommunication\n\n\n\n\nTwitter Heatwave Data\n\n\ncommunication\n\n\n\n\nWebsite Feedback\n\n\ncommunication\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "events/gen-ai-hack/data/heatwave-twitter.html",
     "href": "events/gen-ai-hack/data/heatwave-twitter.html",
     "title": "Twitter Heatwave Data",
     "section": "",
-    "text": "Tweets relating to the heatwave"
+    "text": "For this event, we have obtained an extract of around 2000 tweets from twitter with the keyword “heatwave” over the past 14 days, as well as media analysis of key reports."
   },
   {
     "objectID": "events/gen-ai-hack/data/alert-twitter.html",
@@ -242,7 +284,7 @@
     "href": "events/gen-ai-hack/data/contracts.html",
     "title": "Government Contracts",
     "section": "",
-    "text": "An extract of government contracts"
+    "text": "Government contracts are listed online via Contracts Finder. They can be queried through a RESTful API, or bulk archives can be downloaded."
   },
   {
     "objectID": "events/gen-ai-hack/data/cs-jobs.html",
@@ -256,14 +298,14 @@
     "href": "events/gen-ai-hack/data/tenders.html",
     "title": "Government Tenders",
     "section": "",
-    "text": "An extract of government tenders"
+    "text": "Government tenders are published via Public Sector notices.\nFull data is available to download."
   },
   {
     "objectID": "events/gen-ai-hack/data/writearound.html",
     "href": "events/gen-ai-hack/data/writearound.html",
     "title": "Synthetic Write-around",
     "section": "",
-    "text": "A synthetic write-around"
+    "text": "A synthetic write-around is available for government - please check on the Slack channel."
   },
   {
     "objectID": "events/gen-ai-hack/data/bills.html",
@@ -284,14 +326,77 @@
     "href": "events/gen-ai-hack/data/regulations.html",
     "title": "Guidance and Regulation",
     "section": "",
-    "text": "Guidance and Regulation"
+    "text": "A list of all Guidance and Regulation is available on Gov.uk"
   },
   {
     "objectID": "events/gen-ai-hack/data/policy-papers.html",
     "href": "events/gen-ai-hack/data/policy-papers.html",
     "title": "Policy Papers",
     "section": "",
-    "text": "Policy papers and consultations"
+    "text": "Policy papers and consultations are published and publicly available via Gov.uk."
+  },
+  {
+    "objectID": "events/gen-ai-hack/day_2.html#collaboratory",
+    "href": "events/gen-ai-hack/day_2.html#collaboratory",
+    "title": "Tools",
+    "section": "Collaboratory",
+    "text": "Collaboratory"
+  },
+  {
+    "objectID": "events/gen-ai-hack/day_2.html#azure",
+    "href": "events/gen-ai-hack/day_2.html#azure",
+    "title": "Tools",
+    "section": "Azure",
+    "text": "Azure"
+  },
+  {
+    "objectID": "events/gen-ai-hack/day_2.html#power-apps",
+    "href": "events/gen-ai-hack/day_2.html#power-apps",
+    "title": "Tools",
+    "section": "Power Apps",
+    "text": "Power Apps"
+  },
+  {
+    "objectID": "events/gen-ai-hack/day_1.html#collaboratory",
+    "href": "events/gen-ai-hack/day_1.html#collaboratory",
+    "title": "Tools",
+    "section": "Collaboratory",
+    "text": "Collaboratory"
+  },
+  {
+    "objectID": "events/gen-ai-hack/day_1.html#azure",
+    "href": "events/gen-ai-hack/day_1.html#azure",
+    "title": "Tools",
+    "section": "Azure",
+    "text": "Azure"
+  },
+  {
+    "objectID": "events/gen-ai-hack/day_1.html#power-apps",
+    "href": "events/gen-ai-hack/day_1.html#power-apps",
+    "title": "Tools",
+    "section": "Power Apps",
+    "text": "Power Apps"
+  },
+  {
+    "objectID": "events/gen-ai-hack/tools.html#collaboratory",
+    "href": "events/gen-ai-hack/tools.html#collaboratory",
+    "title": "Tools",
+    "section": "Collaboratory",
+    "text": "Collaboratory"
+  },
+  {
+    "objectID": "events/gen-ai-hack/tools.html#azure",
+    "href": "events/gen-ai-hack/tools.html#azure",
+    "title": "Tools",
+    "section": "Azure",
+    "text": "Azure"
+  },
+  {
+    "objectID": "events/gen-ai-hack/tools.html#power-apps",
+    "href": "events/gen-ai-hack/tools.html#power-apps",
+    "title": "Tools",
+    "section": "Power Apps",
+    "text": "Power Apps"
   },
   {
     "objectID": "events/ml-in-python/ml-in-python-event.html",

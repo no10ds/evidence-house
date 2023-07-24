@@ -5,4 +5,4 @@ categories:
     - legislation
 ---
 
-[Policy papers and consultations](https://www.gov.uk/search/policy-papers-and-consultations)
+[Policy papers and consultations](https://www.gov.uk/search/policy-papers-and-consultations) are published and publicly available via Gov.uk.

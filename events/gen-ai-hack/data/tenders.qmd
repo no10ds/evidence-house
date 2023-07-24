@@ -1,7 +1,9 @@
 ---
 title: "Government Tenders"
 categories:
-    - best equipped
+    - procurement
 ---
 
-An extract of government tenders
+Government tenders are published via [Public Sector notices.](https://www.find-tender.service.gov.uk/) 
+
+Full data is [available to download.](https://www.find-tender.service.gov.uk/Developer/Documentation)

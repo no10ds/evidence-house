@@ -1,7 +1,7 @@
 ---
 title: "Government Contracts"
 categories:
-    - best equipped
+    - procurement
 ---
 
-An extract of government contracts
+Government contracts are listed online via Contracts Finder. [They can be queried through a RESTful API, or bulk archives can be downloaded.](https://www.gov.uk/government/publications/open-standards-for-government/open-contracting-data-standard-profile)

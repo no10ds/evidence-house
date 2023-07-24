@@ -3,18 +3,28 @@ title: "Generative AI Hack"
 date: 2023-07-26
 ---
 
-Our three day, summer flagship [Generative AI Hackatahon](https://www.eventbrite.com/e/evidence-house-generative-ai-hackathon-tickets-666698642587?aff=oddtdtcreator)
+Welcome to the homepage for the flagship Evidence House Generative AI Hackathon!
+
+Keep an eye on this page, as well as [our Slack channel](https://govdatascience.slack.com/archives/C04V76C0YR1), for updates and announcements.
 
 ## Key Challenges
+#### How could generative AI be used...
 
-### How could generative AI be used...
-
-- **The Ministerial Box -** How could generative AI be used to make sure the most senior decisions makers have the best information, to make the best decisions?
-- **From Idea to Policy -** How could generative AI be used to ensure the most important [**legislation**](challenges/legislation.qmd) is passed and delivered?
-- **The Best People, Best Equipped -** How could generative AI be used.ould generative AI be used to ensure the most important [**legislation**](challenges/legislation.qmd) is passed and delivered?
-- **Conversational Government -** How could generative AI be used to help government [**communicate**](challenges/communicate.qmd) with the public, and help the public communicate with government?
+- [**The Ministerial Box :**](challenges/legislation.qmd) To make sure the most senior decisions makers have the best information, to make the best decisions?
+- [**Evaluation and Delivery :**](challenges/legislation.qmd) To help government know what works, and use it to deliver on what matters?
+- [**From Idea to Legislation :**](challenges/legislation.qmd) To ensure the most important legislation is passed and delivered?
+- [**Customer Service :**](challenges/legislation.qmd) To ensure government can best respond to questions from the public?
+- [**Communications and Analysis :**](challenges/legislation.qmd) To help government identify, understand and respond to emerging issues?
+- [**Procurement :**](challenges/legislation.qmd) To make sure government is best equipped with the best tools available?
+- [**Skills :**](challenges/legislation.qmd) To help government make sure it has the best people with the skills they most need?
 
 ## Agenda
+- On [Day 1](day_1.qmd), you'll meet your teams, hear from different problem owners and be introduced to the tools you'll be using
+- On [Day 2](day_1.qmd), we'll leave you alone to get hacking (with a few distractions to keep everyone having fun)
+- On [Day 3](day_1.qmd), it's presentation time! We'll give you some space to finish your presentations, and then it's time for the semi-finals and big showcase!
+
+## Teams
+We'll be announcing your team shortly - keep an eye on this page!
 
 ## Datasets
 [Datasets](data.qmd)

@@ -1,7 +1,7 @@
 ---
 title: "Evaluations"
 categories:
-    - most effective
+    - evaluation
 ---
 
 An extract of government evaluations (ETF)

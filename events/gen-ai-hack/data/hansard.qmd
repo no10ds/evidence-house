@@ -1,6 +1,8 @@
 ---
 title: "Hansard"
-categories: legislation, decision making
+categories:
+    - legislation
+    - decision making
 ---
 
 Hansard, the official report of all Parliamentary debates, [stores all information on debates in Parliament, as far back as 1805.](https://hansard.parliament.uk/)

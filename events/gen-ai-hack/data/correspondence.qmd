@@ -1,8 +1,14 @@
 ---
 title: "Committee Correspondence"
-categories: policy
+categories:
+    - policy
+    - S3
 ---
 
-Correspondence from various public committees
+Correspondence from Parliament Committees are stored, retained and publicly available.
 
-https://committees.parliament.uk/committee/127/public-accounts-committee/publications/3/correspondence/
+As an example, here is the [publication page](https://committees.parliament.uk/committee/127/public-accounts-committee/publications/) of the Public Accounts Committee, and their [Correspondence](https://committees.parliament.uk/committee/127/public-accounts-committee/publications/3/correspondence/).
+
+This is [available through an API.](https://committees-api.parliament.uk/index.html)
+
+**An extract of this correspondence is available through S3 as pac-correspondence**

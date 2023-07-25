@@ -1,0 +1,14 @@
+---
+title: "FCDO Annual Reports"
+categories:
+    - evaluation
+    - S3
+---
+
+An extract of FCDO Annual Reports relating to evaluations.
+
+This report is extracted via that [FCDO Development Tracker](https://devtracker.fcdo.gov.uk/), that can be queried through an API
+
+```https://fcdo-direct-indexing.iati.cloud/search/activity/?q=reporting_org_ref:GB-GOV-1%20AND%20document_link_category_code:A07&fl=iati_identifier,title_narrative,document_link_url,document_link_title_narrative,document-link.category-codes-combined&wt=json&rows=10```
+
+**Available on S3 on fcdo-evaluations**

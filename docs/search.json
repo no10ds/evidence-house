@@ -18,7 +18,7 @@
     "href": "events/gen-ai-hack/data.html",
     "title": "Evidence House",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nCategories\n\n\n\n\n\n\nBills in Parliament\n\n\nlegislation\n\n\n\n\nCivil Service Jobs\n\n\nbest equipped\n\n\n\n\nCommittee Correspondence\n\n\npolicy\n\n\n\n\nEmergency Alert Articles\n\n\ncommunication\n\n\n\n\nEvaluations\n\n\nmost effective\n\n\n\n\nGovernment Contracts\n\n\nprocurement\n\n\n\n\nGovernment Tenders\n\n\nprocurement\n\n\n\n\nGuidance and Regulation\n\n\npolicy\n\n\n\n\nHansard\n\n\nlegislation, decision making\n\n\n\n\nHouse of Commons data\n\n\nlegislation\n\n\n\n\nParliament API\n\n\nlegislation, decision making\n\n\n\n\nPolicy Papers\n\n\npolicy,legislation\n\n\n\n\nSynthetic Write-around\n\n\npolicy,legislation\n\n\n\n\nTwitter Emergency Alert Data\n\n\ncommunication\n\n\n\n\nTwitter Heatwave Data\n\n\ncommunication\n\n\n\n\nWebsite Feedback\n\n\ncommunication\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nCategories\n\n\n\n\n\n\nApril 2023 Emergency Alert Data\n\n\ncommunication,S3\n\n\n\n\nBills in Parliament\n\n\nlegislation,S3\n\n\n\n\nCivil Service Jobs\n\n\njobs,S3\n\n\n\n\nCommittee Correspondence\n\n\npolicy,S3\n\n\n\n\nCustomer Service\n\n\ncustomer service,S3\n\n\n\n\nEvaluations\n\n\nevaluation\n\n\n\n\nFCDO Annual Reports\n\n\nevaluation,S3\n\n\n\n\nGovernment Contracts\n\n\nprocurement\n\n\n\n\nGovernment Tenders\n\n\nprocurement\n\n\n\n\nGuidance and Regulation\n\n\npolicy\n\n\n\n\nHansard\n\n\nlegislation,decision making\n\n\n\n\nHouse of Commons data\n\n\nlegislation\n\n\n\n\nJuly 2023 Heatwave Data\n\n\ncommunication,S3\n\n\n\n\nParliament API\n\n\nlegislation,decision making\n\n\n\n\nPolicy Papers\n\n\npolicy,legislation\n\n\n\n\nSynthetic Write-around\n\n\npolicy,legislation\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "events/gen-ai-hack/day_1.html#collaboratory",
@@ -46,7 +46,14 @@
     "href": "events/gen-ai-hack/data/correspondence.html",
     "title": "Committee Correspondence",
     "section": "",
-    "text": "Correspondence from various public committees\nhttps://committees.parliament.uk/committee/127/public-accounts-committee/publications/3/correspondence/"
+    "text": "Correspondence from Parliament Committees are stored, retained and publicly available.\nAs an example, here is the publication page of the Public Accounts Committee, and their Correspondence.\nThis is available through an API.\nAn extract of this correspondence is available through S3 as pac-correspondence"
+  },
+  {
+    "objectID": "events/gen-ai-hack/data/alert-twitter.html",
+    "href": "events/gen-ai-hack/data/alert-twitter.html",
+    "title": "April 2023 Emergency Alert Data",
+    "section": "",
+    "text": "We have prepared two data sources linked to the Emergency Alert test in April: - An extract of around 600 tweets with the hashtag #EmergencyAlert - Relevant news story from the period and sentiment analysis\nThis is available via S3 on emergency-alert."
   },
   {
     "objectID": "events/gen-ai-hack/data/contracts.html",
@@ -81,7 +88,7 @@
     "href": "events/gen-ai-hack/data/bills.html",
     "title": "Bills in Parliament",
     "section": "",
-    "text": "2000 bills and how long they took to go through parliament"
+    "text": "Bills going through Parliament, and their various stages, are available through the Parliament Bills API.\nA pre-existing extract is available on S3 at parliament-bills"
   },
   {
     "objectID": "events/gen-ai-hack/data/tenders.html",
@@ -89,13 +96,6 @@
     "title": "Government Tenders",
     "section": "",
     "text": "Government tenders are published via Public Sector notices.\nFull data is available to download."
-  },
-  {
-    "objectID": "events/gen-ai-hack/data/website-feedback.html",
-    "href": "events/gen-ai-hack/data/website-feedback.html",
-    "title": "Website Feedback",
-    "section": "",
-    "text": "Customer feedback on a website"
   },
   {
     "objectID": "events/gen-ai-hack/llm-hack-event.html",
@@ -301,13 +301,6 @@
     "text": "This two hour workshop, suitable for those with a basic working knowledge of Python or R, aims to provide a quick introduction of applied machine learning approaches.\n\nKaggle Tutorial\nKaggle Tutorial (Solution)\nGithub Repo\nSlides"
   },
   {
-    "objectID": "events/gen-ai-hack/data/alert-articles.html",
-    "href": "events/gen-ai-hack/data/alert-articles.html",
-    "title": "Emergency Alert Articles",
-    "section": "",
-    "text": "Press articles relating to the emergency alert system"
-  },
-  {
     "objectID": "events/gen-ai-hack/data/regulations.html",
     "href": "events/gen-ai-hack/data/regulations.html",
     "title": "Guidance and Regulation",
@@ -338,23 +331,30 @@
   {
     "objectID": "events/gen-ai-hack/data/heatwave-twitter.html",
     "href": "events/gen-ai-hack/data/heatwave-twitter.html",
-    "title": "Twitter Heatwave Data",
+    "title": "July 2023 Heatwave Data",
     "section": "",
-    "text": "For this event, we have obtained an extract of around 2000 tweets from twitter with the keyword “heatwave” over the past 14 days, as well as media analysis of key reports."
+    "text": "We have prepared two data sources linked to the heatwave over the past 14 days - An extract of around 2000 tweets with the hashtag #EmergencyAlert - Relevant news story from the period and sentiment analysis\nThis is available via S3 on heat-wave"
   },
   {
     "objectID": "events/gen-ai-hack/data/cs-jobs.html",
     "href": "events/gen-ai-hack/data/cs-jobs.html",
     "title": "Civil Service Jobs",
     "section": "",
-    "text": "A data extract from civil service jobs"
+    "text": "A data extract from civil service jobs\nAvailable on S3 as civil-service-jobs"
   },
   {
-    "objectID": "events/gen-ai-hack/data/alert-twitter.html",
-    "href": "events/gen-ai-hack/data/alert-twitter.html",
-    "title": "Twitter Emergency Alert Data",
+    "objectID": "events/gen-ai-hack/data/customer-service.html",
+    "href": "events/gen-ai-hack/data/customer-service.html",
+    "title": "Customer Service",
     "section": "",
-    "text": "Tweets relating to the emergency alert system"
+    "text": "A dataset of anonymous feedback and comments extracted from the HRMC website.\nThis is available on the S3 bucket: llm-hack/customer_service/"
+  },
+  {
+    "objectID": "events/gen-ai-hack/data/fcdo_evaluations.html",
+    "href": "events/gen-ai-hack/data/fcdo_evaluations.html",
+    "title": "FCDO Annual Reports",
+    "section": "",
+    "text": "An extract of FCDO Annual Reports relating to evaluations.\nThis report is extracted via that FCDO Development Tracker, that can be queried through an API\nhttps://fcdo-direct-indexing.iati.cloud/search/activity/?q=reporting_org_ref:GB-GOV-1%20AND%20document_link_category_code:A07&fl=iati_identifier,title_narrative,document_link_url,document_link_title_narrative,document-link.category-codes-combined&wt=json&rows=10\nAvailable on S3 on fcdo-evaluations"
   },
   {
     "objectID": "events/gen-ai-hack/resources.html",

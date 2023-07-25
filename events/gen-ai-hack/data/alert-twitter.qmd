@@ -1,7 +1,12 @@
 ---
-title: "Twitter Emergency Alert Data"
+title: "April 2023 Emergency Alert Data"
 categories:
     - communication
+    - S3
 ---
 
-Tweets relating to the emergency alert system
+We have prepared two data sources linked to the Emergency Alert test in April:
+- An extract of around 600 tweets with the hashtag #EmergencyAlert
+- Relevant news story from the period and sentiment analysis
+
+**This is available via S3 on emergency-alert.**

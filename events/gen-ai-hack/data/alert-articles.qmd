@@ -1,7 +1,0 @@
----
-title: "Emergency Alert Articles"
-categories:
-    - communication
----
-
-Press articles relating to the emergency alert system

@@ -1,6 +1,8 @@
 ---
 title: "Parliament API"
-categories: legislation, decision making
+categories:
+    - legislation
+    - decision making
 ---
 
 Did you know that Parliament.UK has [a publicly available API?](https://developer.parliament.uk/)

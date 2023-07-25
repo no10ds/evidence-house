@@ -1,6 +1,10 @@
 ---
 title: "Bills in Parliament"
-categories: legislation
+categories:
+    - legislation
+    - S3
 ---
 
-2000 bills and how long they took to go through parliament
+Bills going through Parliament, and their various stages, are available through the [Parliament Bills API.](https://bills-api.parliament.uk/index.html)
+
+**A pre-existing extract is available on S3 at parliament-bills**

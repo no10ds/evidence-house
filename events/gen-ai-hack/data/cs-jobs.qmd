@@ -1,7 +1,10 @@
 ---
 title: "Civil Service Jobs"
 categories:
-    - best equipped
+    - jobs
+    - S3
 ---
 
 A data extract from civil service jobs
+
+**Available on S3 as civil-service-jobs**

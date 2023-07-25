@@ -1,7 +1,12 @@
 ---
-title: "Twitter Heatwave Data"
+title: "July 2023 Heatwave  Data"
 categories:
     - communication
+    - S3
 ---
 
-For this event, we have obtained an extract of around 2000 tweets from twitter with the keyword "heatwave" over the past 14 days, as well as media analysis of key reports.
+We have prepared two data sources linked to the heatwave over the past 14 days
+- An extract of around 2000 tweets with the hashtag #EmergencyAlert
+- Relevant news story from the period and sentiment analysis
+
+**This is available via S3 on heat-wave**

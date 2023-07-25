@@ -1,0 +1,8 @@
+---
+title: "Parliament API"
+categories: legislation, decision making
+---
+
+Did you know that Parliament.UK has [a publicly available API?](https://developer.parliament.uk/)
+
+You can use this to query a whole range of data including bills, members, individuals votes, and more.

@@ -1,0 +1,10 @@
+---
+title: "Hansard"
+categories: legislation, decision making
+---
+
+Hansard, the official report of all Parliamentary debates, [stores all information on debates in Parliament, as far back as 1805.](https://hansard.parliament.uk/)
+
+Historic data is available through the [historic API](https://api.parliament.uk/historic-hansard/api)
+
+Most of this information can be obtained programatically through the [Parliament API](parliament-api.qmd). 

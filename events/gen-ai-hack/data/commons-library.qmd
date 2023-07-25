@@ -1,0 +1,6 @@
+---
+title: "House of Commons data"
+categories: legislation
+---
+
+[The House of Commons library produces a range of datasets and information.](https://commonslibrary.parliament.uk/data-tools-and-resources/) Find local-level data, Parliament and elections data, and economic data.

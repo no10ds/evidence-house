@@ -18,7 +18,7 @@
     "href": "events/gen-ai-hack/data.html",
     "title": "Evidence House",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nCategories\n\n\n\n\n\n\nBills in Parliament\n\n\nlegislation\n\n\n\n\nCivil Service Jobs\n\n\nbest equipped\n\n\n\n\nCommittee Correspondence\n\n\npolicy\n\n\n\n\nEmergency Alert Articles\n\n\ncommunication\n\n\n\n\nEvaluations\n\n\nmost effective\n\n\n\n\nGovernment Contracts\n\n\nprocurement\n\n\n\n\nGovernment Tenders\n\n\nprocurement\n\n\n\n\nGuidance and Regulation\n\n\npolicy\n\n\n\n\nPolicy Papers\n\n\npolicy,legislation\n\n\n\n\nSynthetic Write-around\n\n\npolicy,legislation\n\n\n\n\nTwitter Emergency Alert Data\n\n\ncommunication\n\n\n\n\nTwitter Heatwave Data\n\n\ncommunication\n\n\n\n\nWebsite Feedback\n\n\ncommunication\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\nCategories\n\n\n\n\n\n\nBills in Parliament\n\n\nlegislation\n\n\n\n\nCivil Service Jobs\n\n\nbest equipped\n\n\n\n\nCommittee Correspondence\n\n\npolicy\n\n\n\n\nEmergency Alert Articles\n\n\ncommunication\n\n\n\n\nEvaluations\n\n\nmost effective\n\n\n\n\nGovernment Contracts\n\n\nprocurement\n\n\n\n\nGovernment Tenders\n\n\nprocurement\n\n\n\n\nGuidance and Regulation\n\n\npolicy\n\n\n\n\nHansard\n\n\nlegislation, decision making\n\n\n\n\nHouse of Commons data\n\n\nlegislation\n\n\n\n\nParliament API\n\n\nlegislation, decision making\n\n\n\n\nPolicy Papers\n\n\npolicy,legislation\n\n\n\n\nSynthetic Write-around\n\n\npolicy,legislation\n\n\n\n\nTwitter Emergency Alert Data\n\n\ncommunication\n\n\n\n\nTwitter Heatwave Data\n\n\ncommunication\n\n\n\n\nWebsite Feedback\n\n\ncommunication\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "events/gen-ai-hack/day_1.html#collaboratory",
@@ -63,6 +63,13 @@
     "text": "An extract of government evaluations (ETF)"
   },
   {
+    "objectID": "events/gen-ai-hack/data/hansard.html",
+    "href": "events/gen-ai-hack/data/hansard.html",
+    "title": "Hansard",
+    "section": "",
+    "text": "Hansard, the official report of all Parliamentary debates, stores all information on debates in Parliament, as far back as 1805.\nHistoric data is available through the historic API\nMost of this information can be obtained programatically through the Parliament API."
+  },
+  {
     "objectID": "events/gen-ai-hack/data/policy-papers.html",
     "href": "events/gen-ai-hack/data/policy-papers.html",
     "title": "Policy Papers",
@@ -77,32 +84,81 @@
     "text": "2000 bills and how long they took to go through parliament"
   },
   {
-    "objectID": "events/gen-ai-hack/data/regulations.html",
-    "href": "events/gen-ai-hack/data/regulations.html",
-    "title": "Guidance and Regulation",
+    "objectID": "events/gen-ai-hack/data/tenders.html",
+    "href": "events/gen-ai-hack/data/tenders.html",
+    "title": "Government Tenders",
     "section": "",
-    "text": "A list of all Guidance and Regulation is available on Gov.uk"
+    "text": "Government tenders are published via Public Sector notices.\nFull data is available to download."
   },
   {
-    "objectID": "events/gen-ai-hack/data/alert-articles.html",
-    "href": "events/gen-ai-hack/data/alert-articles.html",
-    "title": "Emergency Alert Articles",
+    "objectID": "events/gen-ai-hack/data/website-feedback.html",
+    "href": "events/gen-ai-hack/data/website-feedback.html",
+    "title": "Website Feedback",
     "section": "",
-    "text": "Press articles relating to the emergency alert system"
+    "text": "Customer feedback on a website"
   },
   {
-    "objectID": "events/ml-in-python/ml-in-python-event.html",
-    "href": "events/ml-in-python/ml-in-python-event.html",
-    "title": "Introduction to Machine Learning in Python",
+    "objectID": "events/gen-ai-hack/llm-hack-event.html",
+    "href": "events/gen-ai-hack/llm-hack-event.html",
+    "title": "Generative AI Hack",
     "section": "",
-    "text": "This two hour workshop, suitable for those with a basic working knowledge of Python or R, aims to provide a quick introduction of applied machine learning approaches.\n\nKaggle Tutorial\nKaggle Tutorial (Solution)\nGithub Repo\nSlides"
+    "text": "Welcome to the homepage for the flagship Evidence House Generative AI Hackathon!\nKeep an eye on this page, as well as our Slack channel, for updates and announcements.\nGetting Ready? Complete this pre-join checklist!"
   },
   {
-    "objectID": "events.html",
-    "href": "events.html",
+    "objectID": "events/gen-ai-hack/llm-hack-event.html#key-challenges",
+    "href": "events/gen-ai-hack/llm-hack-event.html#key-challenges",
+    "title": "Generative AI Hack",
+    "section": "Key Challenges",
+    "text": "Key Challenges\n\nHow could generative AI be used…\n\nThe Ministerial Box : To make sure the most senior decisions makers have the best information, to make the best decisions?\nEvaluation and Delivery : To help government know what works, and use it to deliver on what matters?\nFrom Idea to Legislation : To ensure the most important legislation is passed and delivered?\nCustomer Service : To ensure government can best respond to questions from the public?\nCommunications and Analysis : To help government identify, understand and respond to emerging issues?\nProcurement : To make sure government is best equipped with the best tools available?\nSkills : To help government make sure it has the best people with the skills they most need?"
+  },
+  {
+    "objectID": "events/gen-ai-hack/llm-hack-event.html#agenda",
+    "href": "events/gen-ai-hack/llm-hack-event.html#agenda",
+    "title": "Generative AI Hack",
+    "section": "Agenda",
+    "text": "Agenda\n\nOn Day 1, you’ll meet your teams, hear from different problem owners and be introduced to the tools you’ll be using\nOn Day 2, we’ll leave you alone to get hacking (with a few distractions to keep everyone having fun)\nOn Day 3, it’s presentation time! We’ll give you some space to finish your presentations, and then it’s time for the semi-finals and big showcase!"
+  },
+  {
+    "objectID": "events/gen-ai-hack/llm-hack-event.html#teams",
+    "href": "events/gen-ai-hack/llm-hack-event.html#teams",
+    "title": "Generative AI Hack",
+    "section": "Teams",
+    "text": "Teams\nWe’ll be announcing your team shortly - keep an eye on this page!"
+  },
+  {
+    "objectID": "events/gen-ai-hack/llm-hack-event.html#datasets",
+    "href": "events/gen-ai-hack/llm-hack-event.html#datasets",
+    "title": "Generative AI Hack",
+    "section": "Datasets",
+    "text": "Datasets\nDatasets"
+  },
+  {
+    "objectID": "events/gen-ai-hack/llm-hack-event.html#resources",
+    "href": "events/gen-ai-hack/llm-hack-event.html#resources",
+    "title": "Generative AI Hack",
+    "section": "Resources",
+    "text": "Resources\nResources"
+  },
+  {
+    "objectID": "events/gen-ai-hack/timetable.html#day-2",
+    "href": "events/gen-ai-hack/timetable.html#day-2",
+    "title": "Timetable",
+    "section": "Day 2",
+    "text": "Day 2"
+  },
+  {
+    "objectID": "events/gen-ai-hack/timetable.html#day-3",
+    "href": "events/gen-ai-hack/timetable.html#day-3",
+    "title": "Timetable",
+    "section": "Day 3",
+    "text": "Day 3"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Evidence House",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\nJul 26, 2023\n\n\nGenerative AI Hack\n\n\n\n\nJun 23, 2023\n\n\nIntroduction to Machine Learning in Python\n\n\n\n\n\n\nNo matching items"
+    "text": "Evidence House is a Downing Street-led initiative, working with collaborators including ONS Data Science Campus, Evaluation Task Force, Modernisation and Reform Unit, Go Science and National Situation Centre. It aims to crowdsource, research, develop and deliver solutions to wicked cross-cutting problems in government, through thorough problem profiling, exploration and data mining, getting to the evidence-informed heart of issues."
   },
   {
     "objectID": "playbook/playbook.html",
@@ -231,81 +287,39 @@
     "text": "Lessons for next time\nIf the event went well, somebody will probably be asked to run it again next year…so make sure they’re not starting from square 1! Store notes, lessons learnt and outputs in a repository, and make sure it’s accessible… the better your documentation, the less you’ll be asked back to run it all over again."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "events.html",
+    "href": "events.html",
     "title": "Evidence House",
     "section": "",
-    "text": "Evidence House is a Downing Street-led initiative, working with collaborators including ONS Data Science Campus, Evaluation Task Force, Modernisation and Reform Unit, Go Science and National Situation Centre. It aims to crowdsource, research, develop and deliver solutions to wicked cross-cutting problems in government, through thorough problem profiling, exploration and data mining, getting to the evidence-informed heart of issues."
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\nJul 26, 2023\n\n\nGenerative AI Hack\n\n\n\n\nJun 23, 2023\n\n\nIntroduction to Machine Learning in Python\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "events/gen-ai-hack/timetable.html#day-2",
-    "href": "events/gen-ai-hack/timetable.html#day-2",
-    "title": "Timetable",
-    "section": "Day 2",
-    "text": "Day 2"
-  },
-  {
-    "objectID": "events/gen-ai-hack/timetable.html#day-3",
-    "href": "events/gen-ai-hack/timetable.html#day-3",
-    "title": "Timetable",
-    "section": "Day 3",
-    "text": "Day 3"
-  },
-  {
-    "objectID": "events/gen-ai-hack/llm-hack-event.html",
-    "href": "events/gen-ai-hack/llm-hack-event.html",
-    "title": "Generative AI Hack",
+    "objectID": "events/ml-in-python/ml-in-python-event.html",
+    "href": "events/ml-in-python/ml-in-python-event.html",
+    "title": "Introduction to Machine Learning in Python",
     "section": "",
-    "text": "Welcome to the homepage for the flagship Evidence House Generative AI Hackathon!\nKeep an eye on this page, as well as our Slack channel, for updates and announcements.\nGetting Ready? Complete this pre-join checklist!"
+    "text": "This two hour workshop, suitable for those with a basic working knowledge of Python or R, aims to provide a quick introduction of applied machine learning approaches.\n\nKaggle Tutorial\nKaggle Tutorial (Solution)\nGithub Repo\nSlides"
   },
   {
-    "objectID": "events/gen-ai-hack/llm-hack-event.html#key-challenges",
-    "href": "events/gen-ai-hack/llm-hack-event.html#key-challenges",
-    "title": "Generative AI Hack",
-    "section": "Key Challenges",
-    "text": "Key Challenges\n\nHow could generative AI be used…\n\nThe Ministerial Box : To make sure the most senior decisions makers have the best information, to make the best decisions?\nEvaluation and Delivery : To help government know what works, and use it to deliver on what matters?\nFrom Idea to Legislation : To ensure the most important legislation is passed and delivered?\nCustomer Service : To ensure government can best respond to questions from the public?\nCommunications and Analysis : To help government identify, understand and respond to emerging issues?\nProcurement : To make sure government is best equipped with the best tools available?\nSkills : To help government make sure it has the best people with the skills they most need?"
-  },
-  {
-    "objectID": "events/gen-ai-hack/llm-hack-event.html#agenda",
-    "href": "events/gen-ai-hack/llm-hack-event.html#agenda",
-    "title": "Generative AI Hack",
-    "section": "Agenda",
-    "text": "Agenda\n\nOn Day 1, you’ll meet your teams, hear from different problem owners and be introduced to the tools you’ll be using\nOn Day 2, we’ll leave you alone to get hacking (with a few distractions to keep everyone having fun)\nOn Day 3, it’s presentation time! We’ll give you some space to finish your presentations, and then it’s time for the semi-finals and big showcase!"
-  },
-  {
-    "objectID": "events/gen-ai-hack/llm-hack-event.html#teams",
-    "href": "events/gen-ai-hack/llm-hack-event.html#teams",
-    "title": "Generative AI Hack",
-    "section": "Teams",
-    "text": "Teams\nWe’ll be announcing your team shortly - keep an eye on this page!"
-  },
-  {
-    "objectID": "events/gen-ai-hack/llm-hack-event.html#datasets",
-    "href": "events/gen-ai-hack/llm-hack-event.html#datasets",
-    "title": "Generative AI Hack",
-    "section": "Datasets",
-    "text": "Datasets\nDatasets"
-  },
-  {
-    "objectID": "events/gen-ai-hack/llm-hack-event.html#resources",
-    "href": "events/gen-ai-hack/llm-hack-event.html#resources",
-    "title": "Generative AI Hack",
-    "section": "Resources",
-    "text": "Resources\nResources"
-  },
-  {
-    "objectID": "events/gen-ai-hack/data/website-feedback.html",
-    "href": "events/gen-ai-hack/data/website-feedback.html",
-    "title": "Website Feedback",
+    "objectID": "events/gen-ai-hack/data/alert-articles.html",
+    "href": "events/gen-ai-hack/data/alert-articles.html",
+    "title": "Emergency Alert Articles",
     "section": "",
-    "text": "Customer feedback on a website"
+    "text": "Press articles relating to the emergency alert system"
   },
   {
-    "objectID": "events/gen-ai-hack/data/tenders.html",
-    "href": "events/gen-ai-hack/data/tenders.html",
-    "title": "Government Tenders",
+    "objectID": "events/gen-ai-hack/data/regulations.html",
+    "href": "events/gen-ai-hack/data/regulations.html",
+    "title": "Guidance and Regulation",
     "section": "",
-    "text": "Government tenders are published via Public Sector notices.\nFull data is available to download."
+    "text": "A list of all Guidance and Regulation is available on Gov.uk"
+  },
+  {
+    "objectID": "events/gen-ai-hack/data/parliament-api.html",
+    "href": "events/gen-ai-hack/data/parliament-api.html",
+    "title": "Parliament API",
+    "section": "",
+    "text": "Did you know that Parliament.UK has a publicly available API?\nYou can use this to query a whole range of data including bills, members, individuals votes, and more."
   },
   {
     "objectID": "events/gen-ai-hack/data/writearound.html",
@@ -313,6 +327,13 @@
     "title": "Synthetic Write-around",
     "section": "",
     "text": "A synthetic write-around is available for government - please check on the Slack channel."
+  },
+  {
+    "objectID": "events/gen-ai-hack/data/commons-library.html",
+    "href": "events/gen-ai-hack/data/commons-library.html",
+    "title": "House of Commons data",
+    "section": "",
+    "text": "The House of Commons library produces a range of datasets and information. Find local-level data, Parliament and elections data, and economic data."
   },
   {
     "objectID": "events/gen-ai-hack/data/heatwave-twitter.html",

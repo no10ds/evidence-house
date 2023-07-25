@@ -9,4 +9,4 @@ We have prepared two data sources linked to the heatwave over the past 14 days
 - An extract of around 2000 tweets with the hashtag #EmergencyAlert
 - Relevant news story from the period and sentiment analysis
 
-**This is available via S3 on heat-wave**
+**This is available via S3 on emergency-alert**

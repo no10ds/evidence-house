@@ -333,7 +333,7 @@
     "href": "events/gen-ai-hack/data/heatwave-twitter.html",
     "title": "July 2023 Heatwave Data",
     "section": "",
-    "text": "We have prepared two data sources linked to the heatwave over the past 14 days - An extract of around 2000 tweets with the hashtag #EmergencyAlert - Relevant news story from the period and sentiment analysis\nThis is available via S3 on heat-wave"
+    "text": "We have prepared two data sources linked to the heatwave over the past 14 days - An extract of around 2000 tweets with the hashtag #EmergencyAlert - Relevant news story from the period and sentiment analysis\nThis is available via S3 on emergency-alert"
   },
   {
     "objectID": "events/gen-ai-hack/data/cs-jobs.html",

@@ -7,7 +7,12 @@ Welcome to the homepage for the flagship Evidence House Generative AI Hackathon!
 
 Keep an eye on this page, as well as [our Slack channel](https://govdatascience.slack.com/archives/C04V76C0YR1), for updates and announcements.
 
+Getting Ready? Complete this pre-join checklist!
 
+- [ ]  Completed the Evidence House skills assessment
+- [ ]  Packed a laptop (or two) and a charger
+- [ ]  Joined our Slack Channel
+- [ ]  Browsed our [useful resources](resources.qmd)
 
 ## Key Challenges
 #### How could generative AI be used...
@@ -33,6 +38,3 @@ We'll be announcing your team shortly - keep an eye on this page!
 
 ## Resources
 [Resources](resources.qmd)
-
-## Tools
-[Tools and IT](tools.qmd)

@@ -2,18 +2,3 @@
 title: "Tools"
 ---
 
-# Language Models
-## OpenAI (ChatGPT)
-
-## Anthropic (Claude)
-
-## Huggingface 
-
-# Coding Environments
-## Collaboratory
-
-## Azure
-
-# Low Code
-
-## Power Apps 

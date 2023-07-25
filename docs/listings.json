@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/assets/gen-ai-hack/data/data.html",
+    "items": []
+  },
+  {
     "listing": "/newsletters.html",
     "items": []
   },
@@ -20,10 +24,6 @@
       "/events/gen-ai-hack/data/heatwave-twitter.html",
       "/events/gen-ai-hack/data/website-feedback.html"
     ]
-  },
-  {
-    "listing": "/assets/gen-ai-hack/data/data.html",
-    "items": []
   },
   {
     "listing": "/events.html",

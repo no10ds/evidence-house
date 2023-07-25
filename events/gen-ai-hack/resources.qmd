@@ -2,8 +2,43 @@
 title: "Generative AI Resources"
 ---
 
-## On Large Language Models
-- [LLM University (from Cohere)](https://docs.cohere.com/docs/llmu)
+Below we've collated some tools and documentation that you might find useful (links in bold indicate partners who are present or supporting the event).
 
-## NLP
-- [Huggingface Courses](https://huggingface.co/learn)
+
+# Tools
+## Language Models
+- [**OpenAI (ChatGPT)**](https://platform.openai.com/docs/introduction)
+- [**Anthropic (Claude)**](https://docs.anthropic.com/claude/docs)
+- [Huggingface](https://huggingface.co/) - The largest repository of open source, freely available models and weights
+
+## Images
+- [Dall-E](https://openai.com/dall-e-2) - Generated images via OpenAI
+
+## Audio
+- [ElevenLabs](https://elevenlabs.io/) - Text to voice generation via an API
+
+## Coding and Compute
+- [**Google Collaboratory**](https://colab.google/) - Coding notebooks hosted by Google
+- [**Azure Machine Learning**](https://azure.microsoft.com/en-gb/products/machine-learning) - Python notebooks and ML pipelines
+- [Paperspace Gradient](https://www.paperspace.com/notebooks) - Cloud notebook and model hosting
+- [Kaggle Notebooks](https://www.kaggle.com/) - Free online notebook hosting and data
+- [Replit](https://repl.it/) - Collaborative coding platform
+- [Cocalc](https://cocalc.com/) - Free cloud notebooks intended for teaching
+
+## Connecting LLMs
+- [LangChain](https://python.langchain.com/docs/get_started/introduction.html) - Widely used (if badly documented) tool for creating LLM apps
+- [Promptfile](https://promptfile.org/) - Test and change new prompts
+- [LlamaIndex](https://www.llamaindex.ai/) - Ease ingestion of datai nto LLMs
+
+## Front-End
+- [Streamlit](https://streamlit.io/)
+- [Gradio](https://www.gradio.app/)
+- [R Shiny](https://www.rstudio.com/products/shiny/)
+- [Plotly Dash](https://plotly.com/dash/)
+
+## Low Code 
+- [**Azure PowerApps**](https://powerapps.microsoft.com/en-gb/)
+
+# Reading and Courses
+- [LLM University (from Cohere)](https://docs.cohere.com/docs/llmu) - Free online resource on using and developing LLMs
+- [Huggingface Courses](https://huggingface.co/learn) - Range of free courses focused on NLP and machine learning

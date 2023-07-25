@@ -3,9 +3,11 @@ title: "Generative AI Hack"
 date: 2023-07-26
 ---
 
-Welcome to the homepage for the flagship Evidence House Generative AI Hackathon!
+Welcome to the homepage for the flagship Evidence House Generative AI Hackathon! 
 
 Keep an eye on this page, as well as [our Slack channel](https://govdatascience.slack.com/archives/C04V76C0YR1), for updates and announcements.
+
+On arrival, please use the wifi network `city-guest`, with password `bm8onn3r`.
 
 Getting Ready? Complete this pre-join checklist!
 
@@ -17,13 +19,13 @@ Getting Ready? Complete this pre-join checklist!
 ## Key Challenges
 #### How could generative AI be used...
 
-- [**The Ministerial Box :**](challenges/legislation.qmd) To make sure the most senior decisions makers have the best information, to make the best decisions?
-- [**Evaluation and Delivery :**](challenges/legislation.qmd) To help government know what works, and use it to deliver on what matters?
+- [**The Ministerial Box :**](challenges/box.qmd) To make sure the most senior decisions makers have the best information, to make the best decisions?
+- [**Evaluation and Delivery :**](challenges/evaluation.qmd) To help government know what works, and use it to deliver on what matters?
 - [**From Idea to Legislation :**](challenges/legislation.qmd) To ensure the most important legislation is passed and delivered?
-- [**Customer Service :**](challenges/legislation.qmd) To ensure government can best respond to questions from the public?
-- [**Communications and Analysis :**](challenges/legislation.qmd) To help government identify, understand and respond to emerging issues?
-- [**Procurement :**](challenges/legislation.qmd) To make sure government is best equipped with the best tools available?
-- [**Skills :**](challenges/legislation.qmd) To help government make sure it has the best people with the skills they most need?
+- [**Customer Service :**](challenges/customer-service.qmd) To ensure government can best respond to questions from the public?
+- [**Communications and Analysis :**](challenges/communications/communicate.qmd) To help government identify, understand and respond to emerging issues?
+- [**Procurement :**](challenges/procurement.qmd) To make sure government is best equipped with the best tools available?
+- [**Skills :**](challenges/skills.qmd) To help government make sure it has the best people with the skills they most need?
 
 ## Agenda
 - On [Day 1](day_1.qmd), you'll meet your teams, hear from different problem owners and be introduced to the tools you'll be using
@@ -34,7 +36,9 @@ Getting Ready? Complete this pre-join checklist!
 We'll be announcing your team shortly - keep an eye on this page!
 
 ## Datasets
-[Datasets](data.qmd)
+We've prepared a selection of datasets for the event, and these can be viewed on our [datasets page.](data.qmd)
+
+Where data has been pre-prepared, we have hosted it on a public S3 bucket. You can find out more about using the data [through this handy guide.](data_guide.qmd)
 
 ## Resources
 [Resources](resources.qmd)

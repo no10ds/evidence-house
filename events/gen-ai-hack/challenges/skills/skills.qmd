@@ -1,0 +1,13 @@
+---
+title: "Problem 6 - Skills"
+---
+
+![](skills.png){width=100%}
+
+## [Skills](skills_slides.pdf)
+**Building great teams**
+
+## [Data](https://no10ds.github.io/evidence-house/events/gen-ai-hack/data.html#category=skills)
+For this challenge, we've provided an extract of jobs from the Civil Service Jobs website.
+
+You might want to consider scraping other job data, investigating workforce statistics, or generating fake CV or application data.

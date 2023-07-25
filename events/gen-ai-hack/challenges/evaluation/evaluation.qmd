@@ -1,0 +1,11 @@
+---
+title: "Problem 4 - Evaluation"
+---
+
+![](evaluation.png){width=100%}
+
+## [Evaluation](evaluation_slides.pdf)
+**Evaluating the successes of policy and delivery programs**
+
+## [Data](https://no10ds.github.io/evidence-house/events/gen-ai-hack/data.html#category=evaluation)
+For this data, we have prepared a range of FCDO evaluation reports.

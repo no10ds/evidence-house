@@ -1,0 +1,11 @@
+---
+title: "Problem 7 - Customer Service"
+---
+
+![](customer-service.png){width=100%}
+
+## [Customer Service](procurement_slides.pdf)
+**Learning from the feedback of citizens**
+
+## [Data](https://no10ds.github.io/evidence-house/events/gen-ai-hack/data.html#category=customer-service)
+For this challenge, you have access to a dataset of anonymised feedback on a government website. There's plenty more out there though!

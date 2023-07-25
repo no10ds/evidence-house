@@ -1,0 +1,11 @@
+---
+title: "Problem 1 - The Box"
+---
+
+![](box.png){width=100%}
+
+## [The Box](box_slides.pdf)
+This challenge cover the legendary ministerial red box & collective agreement
+
+## [Data](https://no10ds.github.io/evidence-house/events/gen-ai-hack/data.html#category=box)
+For this challenge, our data includes a simulated "write-around", House of Commons comittee correspondence, as well as a range of white papers and policy papers.

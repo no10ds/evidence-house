@@ -1,0 +1,11 @@
+---
+title: "Problem 5 - Procurement"
+---
+
+![](procurement.png){width=100%}
+
+## [Evaluation](procurement_slides.pdf)
+**Procuring the best services possible**
+
+## [Data](https://no10ds.github.io/evidence-house/events/gen-ai-hack/data.html#category=procurement)
+For this data, we've provided links to extracts from recent government contracts and tenders.

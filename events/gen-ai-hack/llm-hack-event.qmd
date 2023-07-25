@@ -9,31 +9,25 @@ Keep an eye on this page, as well as [our Slack channel](https://govdatascience.
 
 On arrival, please use the wifi network `city-guest`, with password `bm8onn3r`.
 
-Getting Ready? Complete this pre-join checklist!
-
-- [ ]  Completed the Evidence House skills assessment
-- [ ]  Packed a laptop (or two) and a charger
-- [ ]  Joined our Slack Channel
-- [ ]  Browsed our [useful resources](resources.qmd)
-
 ## Key Challenges
 #### How could generative AI be used...
 
-- [**The Ministerial Box :**](challenges/box.qmd) To make sure the most senior decisions makers have the best information, to make the best decisions?
-- [**Evaluation and Delivery :**](challenges/evaluation.qmd) To help government know what works, and use it to deliver on what matters?
-- [**From Idea to Legislation :**](challenges/legislation.qmd) To ensure the most important legislation is passed and delivered?
-- [**Customer Service :**](challenges/customer-service.qmd) To ensure government can best respond to questions from the public?
-- [**Communications and Analysis :**](challenges/communications/communicate.qmd) To help government identify, understand and respond to emerging issues?
-- [**Procurement :**](challenges/procurement.qmd) To make sure government is best equipped with the best tools available?
-- [**Skills :**](challenges/skills.qmd) To help government make sure it has the best people with the skills they most need?
-
-## Agenda
-- On [Day 1](day_1.qmd), you'll meet your teams, hear from different problem owners and be introduced to the tools you'll be using
-- On [Day 2](day_2.qmd), we'll leave you alone to get hacking (with a few distractions to keep everyone having fun)
-- On [Day 3](day_3.qmd), it's presentation time! We'll give you some space to finish your presentations, and then it's time for the semi-finals and big showcase!
+1. [**The Ministerial Box :**](challenges/box/box.qmd) To make sure the most senior decisions makers have the best information, to make the best decisions?
+2. [**The passage of legislation :**](challenges/legislation/legislation.qmd) To ensure the most important legislation is passed and delivered?
+3. [**Understanding public sentiment :**](challenges/communications/communicate.qmd) To help government identify, understand and respond to emerging issues?
+4. [**Evaluation and Delivery :**](challenges/evaluation/evaluation.qmd) To help government know what works, and use it to deliver on what matters?
+5. [**Procurement :**](challenges/procurement/procurement.qmd) To make sure government is best equipped with the best tools available?
+6. [**Skills :**](challenges/skills/skills.qmd) To help government make sure it has the best people with the skills they most need?
+7. [**Learning from feedback :**](challenges/customer-service/customer-service.qmd) To ensure government can best respond to questions from the public?
 
 ## Teams
-We'll be announcing your team shortly - keep an eye on this page!
+Each team will be randomly assigned 3 problems, and we'll be asking you to decide on one to focus your tool on at the end of day 1!
+
+[You can see your teams, and their assigned problems, here.](teams.qmd)
+
+## Agenda
+
+![](agenda.png){width=100%}
 
 ## Datasets
 We've prepared a selection of datasets for the event, and these can be viewed on our [datasets page.](data.qmd)

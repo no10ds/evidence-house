@@ -1,7 +1,0 @@
----
-title: "The Box"
----
-
-- [Problem Statement](2023-07-13 Hackathon- GCSI Problem Statements OFFSEN (v2).pdf)
-- [Data](https://no10ds.github.io/evidence-house/events/gen-ai-hack/data.html#category=communication)
-- Key Contacts

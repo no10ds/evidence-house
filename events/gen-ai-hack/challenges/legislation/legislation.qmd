@@ -1,0 +1,11 @@
+---
+title: "Problem 2 - Legislation"
+---
+
+![](legislation.png){width=100%}
+
+## [Legislation](legislation_slides.pdf)
+This challenge cover the passage of legislation through Parliament
+
+## [Data](https://no10ds.github.io/evidence-house/events/gen-ai-hack/data.html#category=legislation)
+For this challenge, our data includes an extrat of bills through parliament and their stages, and a range of other datasets from Parliament, including Hansard.

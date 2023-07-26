@@ -4,7 +4,7 @@ title: "Problem 1 - The Box"
 
 ![](box.png){width=100%}
 
-## [The Box](box_slides.pdf)
+## [The Box](box_slides.pdf) and [Write Rounds](write_rounds.pdf)
 This challenge cover the legendary ministerial red box & collective agreement
 
 ## [Data](https://no10ds.github.io/evidence-house/events/gen-ai-hack/data.html#category=box)

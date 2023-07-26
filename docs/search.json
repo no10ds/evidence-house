@@ -399,6 +399,13 @@
     "text": "Resources\nResources"
   },
   {
+    "objectID": "events/gen-ai-hack/llm-hack-event.html#room-allocation",
+    "href": "events/gen-ai-hack/llm-hack-event.html#room-allocation",
+    "title": "Generative AI Hack",
+    "section": "Room Allocation",
+    "text": "Room Allocation\n\n\n\n\n\n\n\n\n\n\n\n\n\nRoom\nELG01\nELG02\nELG03\nELG05\nELG08\nELG15\nEM01\n\n\n\n\nProblem Statements\n1\n2\n3\n4\n5\n6\n7\n\n\n\n\n\n\n\n\n\n\n\n\nTools and Tricks\nAnthropic\nOpenAI\nMicrosoft\nCoefficient\nGoogle\nONS\n\n\n\n\nClaude, the API and document retrieval\nBest use of ChatGPT, and the function calling API\nThe PowerTools suite and GenAI\nBuilding an open-source chatbot with Langchain\nMaking best use of the Google suite\nBuilding StatChat and using chat in the public sector"
+  },
+  {
     "objectID": "events/gen-ai-hack/challenges/customer-service/customer-service.html#customer-service",
     "href": "events/gen-ai-hack/challenges/customer-service/customer-service.html#customer-service",
     "title": "Problem 7 - Customer Service",
@@ -445,7 +452,7 @@
     "href": "events/gen-ai-hack/teams.html",
     "title": "Teams",
     "section": "",
-    "text": "You can see our preliminary team and problem assignements below! We’ve tried to group those who primarily work with R together, and have assumed others will be using Python…but use whatever you need to!\n\n\n\nTeam\nLanguage\nProblem 1\nProblem 2\nProblem 3\nSelected Problem\n\n\n\n\n1\nPython\n3\n2\n7\n\n\n\n2\nPython\n5\n4\n5\n\n\n\n3\nPython\n1\n5\n3\n\n\n\n4\nR\n4\n2\n7\n\n\n\n5\nR\n5\n3\n7\n\n\n\n6\nR\n5\n2\n2\n\n\n\n7\nPython\n3\n4\n2\n\n\n\n8\nPython\n7\n6\n4\n\n\n\n9\nPython\n5\n1\n1\n\n\n\n10\nPython\n1\n7\n2\n\n\n\n11\nPython\n6\n6\n6\n\n\n\n12\nPython\n4\n7\n3\n\n\n\n13\nPython\n1\n6\n3\n\n\n\n14\nPython\n6\n2\n1\n\n\n\n15\nR\n1\n3\n5\n\n\n\n16\nR\n4\n7\n4"
+    "text": "You can see our preliminary team and problem assignements below! We’ve tried to group those who primarily work with R together, and have assumed others will be using Python…but use whatever you need to!\n\n\n\n\n\n\n\n\n\n\n\nTeam\nLanguage\nProblem 1\nProblem 2\nProblem 3\nSelected Problem\n\n\n\n\n1\nPython\n3\n6\n5\n\n\n\n2\nPython\n6\n6\n2\n\n\n\n3\nPython\n7\n3\n7\n\n\n\n4\nR\n4\n2\n3\n\n\n\n5\nR\n6\n3\n5\n\n\n\n6\nR\n4\n4\n1\n\n\n\n7\nPython\n1\n1\n4\n\n\n\n8\nPython\n7\n1\n3\n\n\n\n9\nPython\n2\n2\n2\n\n\n\n10\nPython\n5\n3\n7\n\n\n\n11\nPython\n6\n1\n4\n\n\n\n12\nPython\n5\n6\n6\n\n\n\n13\nPython\n7\n7\n5\n\n\n\n14\nPython\n1\n5\n5\n\n\n\n15\nR\n4\n2\n1\n\n\n\n16\nR\n4\n2\n7"
   },
   {
     "objectID": "events/gen-ai-hack/data/tenders.html",

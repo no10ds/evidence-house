@@ -36,3 +36,12 @@ Where data has been pre-prepared, we have hosted it on a public S3 bucket. You c
 
 ## Resources
 [Resources](resources.qmd)
+
+## Room Allocation
+
+| **Room**          | **ELG01**                              | **ELG02**                                         | **ELG03**                      | **ELG05**                                      | **ELG08**                           | **ELG15**                                             | **EM01** |
+|-------------------|----------------------------------------|---------------------------------------------------|--------------------------------|------------------------------------------------|-------------------------------------|-------------------------------------------------------|----------|
+| Problem Statements          | 1                                      | 2                                                 | 3                              | 4                                              | 5                                   | 6                                                     | 7        |
+|                   |                                        |                                                   |                                |                                                |                                     |                                                       |          |
+| Tools and Tricks  | Anthropic                              | OpenAI                                            | Microsoft                      | Coefficient                                    | Google                              | ONS                                                   |          |
+|  | Claude, the API and document retrieval | Best use of ChatGPT, and the function calling API | The PowerTools suite and GenAI | Building an open-source chatbot with Langchain | Making best use of the Google suite | Building StatChat and using chat in the public sector |          |

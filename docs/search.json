@@ -480,7 +480,7 @@
     "href": "events/gen-ai-hack/data/hansard.html",
     "title": "Hansard",
     "section": "",
-    "text": "Hansard, the official report of all Parliamentary debates, stores all information on debates in Parliament, as far back as 1805.\nHistoric data is available through the historic API or in zip files through this page.\nMost of this information can be obtained programatically through the Parliament API."
+    "text": "Hansard, the official report of all Parliamentary debates, stores all information on debates in Parliament, as far back as 1805.\nHistoric data is available through the historic API or in zip files through this page. This is also available through the They Work For You service as xml files.\nMost of this information can be obtained programatically through the Parliament API."
   },
   {
     "objectID": "events/gen-ai-hack/data/evaluations.html",

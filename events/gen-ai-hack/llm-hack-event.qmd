@@ -40,6 +40,8 @@ Where data has been pre-prepared, we have hosted it on a public S3 bucket. You c
 ## Rooms and Sessions
 Our problem statement and tooling sessions will take place in the rooms below. The [floorplan is available here.](floorplan.png)
 
+The armoury sessions should be 30 minutes each, so make sure you get to the ones you'd like to!
+
 | **Room**          | **ELG01**                              | **ELG02**                                         | **ELG03**                      | **ELG05**                                      | **ELG08**                           | **ELG15**                                             | **EM01** |
 |-------------------|----------------------------------------|---------------------------------------------------|--------------------------------|------------------------------------------------|-------------------------------------|-------------------------------------------------------|----------|
 | Problem Statements          | 1                                      | 2                                                 | 3                              | 4                                              | 5                                   | 6                                                     | 7        |

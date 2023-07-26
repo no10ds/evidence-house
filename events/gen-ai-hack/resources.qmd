@@ -7,7 +7,7 @@ Below we've collated some tools and documentation that you might find useful (li
 # Speaker Resources
 - [Opening Talk](Day%20One%20Hack%20Slides.pdf)
 - [ONS StatChat](ons_search_ai_talk.pdf)
-- [Anthropic](Anthropic%20x%2010DS.pdf)
+- [Anthropic](Anthropic%20x%2010DS.pptx%20(2).pdf)
 - [OpenAI](openai_slides.pdf)
 - [Microsoft Azure](https://aka.ms/no10-azure-pass)
 - [Coefficient](https://github.com/CoefficientSystems/chat-efficient)

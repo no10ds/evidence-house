@@ -4,6 +4,11 @@ title: "Generative AI Resources"
 
 Below we've collated some tools and documentation that you might find useful (links in bold indicate partners who are present or supporting the event).
 
+# Speaker Resources
+- [ONS StatChat](ons_search_ai_talk.pdf)
+- [Anthropic](Anthropic%20x%2010DS.pdf)
+- [Microsoft Azure](https://aka.ms/no10-azure-pass)
+- [Coefficient](https://github.com/CoefficientSystems/chat-efficient)
 
 # Tools
 ## Language Models

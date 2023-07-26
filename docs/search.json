@@ -168,11 +168,11 @@
     "text": "Data\nFor this challenge, we’ve provided an extract of jobs from the Civil Service Jobs website.\nYou might want to consider scraping other job data, investigating workforce statistics, or generating fake CV or application data."
   },
   {
-    "objectID": "events/gen-ai-hack/challenges/procurement/procurement.html#evaluation",
-    "href": "events/gen-ai-hack/challenges/procurement/procurement.html#evaluation",
+    "objectID": "events/gen-ai-hack/challenges/procurement/procurement.html#procurement",
+    "href": "events/gen-ai-hack/challenges/procurement/procurement.html#procurement",
     "title": "Problem 5 - Procurement",
-    "section": "Evaluation",
-    "text": "Evaluation\nProcuring the best services possible"
+    "section": "Procurement",
+    "text": "Procurement\nProcuring the best services possible"
   },
   {
     "objectID": "events/gen-ai-hack/challenges/procurement/procurement.html#data",

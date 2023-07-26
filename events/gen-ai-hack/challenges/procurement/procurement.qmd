@@ -4,7 +4,7 @@ title: "Problem 5 - Procurement"
 
 ![](procurement.png){width=100%}
 
-## [Evaluation](procurement_slides.pdf)
+## [Procurement](procurement_slides.pdf)
 **Procuring the best services possible**
 
 ## [Data](https://no10ds.github.io/evidence-house/events/gen-ai-hack/data.html#category=procurement)

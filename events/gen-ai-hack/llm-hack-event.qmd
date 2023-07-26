@@ -37,7 +37,8 @@ Where data has been pre-prepared, we have hosted it on a public S3 bucket. You c
 ## Resources
 [Resources](resources.qmd)
 
-## Room Allocation
+## Rooms and Sessions
+Our problem statement and tooling sessions will take place in the rooms below. The [floorplan is available here.](floorplan.png)
 
 | **Room**          | **ELG01**                              | **ELG02**                                         | **ELG03**                      | **ELG05**                                      | **ELG08**                           | **ELG15**                                             | **EM01** |
 |-------------------|----------------------------------------|---------------------------------------------------|--------------------------------|------------------------------------------------|-------------------------------------|-------------------------------------------------------|----------|

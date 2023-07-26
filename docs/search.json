@@ -399,11 +399,11 @@
     "text": "Resources\nResources"
   },
   {
-    "objectID": "events/gen-ai-hack/llm-hack-event.html#room-allocation",
-    "href": "events/gen-ai-hack/llm-hack-event.html#room-allocation",
+    "objectID": "events/gen-ai-hack/llm-hack-event.html#rooms-and-sessions",
+    "href": "events/gen-ai-hack/llm-hack-event.html#rooms-and-sessions",
     "title": "Generative AI Hack",
-    "section": "Room Allocation",
-    "text": "Room Allocation\n\n\n\n\n\n\n\n\n\n\n\n\n\nRoom\nELG01\nELG02\nELG03\nELG05\nELG08\nELG15\nEM01\n\n\n\n\nProblem Statements\n1\n2\n3\n4\n5\n6\n7\n\n\n\n\n\n\n\n\n\n\n\n\nTools and Tricks\nAnthropic\nOpenAI\nMicrosoft\nCoefficient\nGoogle\nONS\n\n\n\n\nClaude, the API and document retrieval\nBest use of ChatGPT, and the function calling API\nThe PowerTools suite and GenAI\nBuilding an open-source chatbot with Langchain\nMaking best use of the Google suite\nBuilding StatChat and using chat in the public sector"
+    "section": "Rooms and Sessions",
+    "text": "Rooms and Sessions\nOur problem statement and tooling sessions will take place in the rooms below. The floorplan is available here.\n\n\n\n\n\n\n\n\n\n\n\n\n\nRoom\nELG01\nELG02\nELG03\nELG05\nELG08\nELG15\nEM01\n\n\n\n\nProblem Statements\n1\n2\n3\n4\n5\n6\n7\n\n\n\n\n\n\n\n\n\n\n\n\nTools and Tricks\nAnthropic\nOpenAI\nMicrosoft\nCoefficient\nGoogle\nONS\n\n\n\n\nClaude, the API and document retrieval\nBest use of ChatGPT, and the function calling API\nThe PowerTools suite and GenAI\nBuilding an open-source chatbot with Langchain\nMaking best use of the Google suite\nBuilding StatChat and using chat in the public sector"
   },
   {
     "objectID": "events/gen-ai-hack/challenges/customer-service/customer-service.html#customer-service",

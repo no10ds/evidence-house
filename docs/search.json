@@ -196,18 +196,25 @@
     "text": "Data\nFor this challenge, our data includes a simulated “write-around”, House of Commons comittee correspondence, as well as a range of white papers and policy papers."
   },
   {
-    "objectID": "events/ml-in-python/ml-in-python-event.html",
-    "href": "events/ml-in-python/ml-in-python-event.html",
-    "title": "Introduction to Machine Learning in Python",
-    "section": "",
-    "text": "This two hour workshop, suitable for those with a basic working knowledge of Python or R, aims to provide a quick introduction of applied machine learning approaches.\n\nKaggle Tutorial\nKaggle Tutorial (Solution)\nGithub Repo\nSlides"
+    "objectID": "events/gen-ai-hack/timetable.html#day-2",
+    "href": "events/gen-ai-hack/timetable.html#day-2",
+    "title": "Timetable",
+    "section": "Day 2",
+    "text": "Day 2"
   },
   {
-    "objectID": "events.html",
-    "href": "events.html",
+    "objectID": "events/gen-ai-hack/timetable.html#day-3",
+    "href": "events/gen-ai-hack/timetable.html#day-3",
+    "title": "Timetable",
+    "section": "Day 3",
+    "text": "Day 3"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Evidence House",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\nJul 26, 2023\n\n\nGenerative AI Hack\n\n\n\n\nJun 23, 2023\n\n\nIntroduction to Machine Learning in Python\n\n\n\n\n\n\nNo matching items"
+    "text": "Evidence House is a Downing Street-led initiative, working with collaborators including ONS Data Science Campus, Evaluation Task Force, Modernisation and Reform Unit, Go Science and National Situation Centre. It aims to crowdsource, research, develop and deliver solutions to wicked cross-cutting problems in government, through thorough problem profiling, exploration and data mining, getting to the evidence-informed heart of issues."
   },
   {
     "objectID": "playbook/playbook.html",
@@ -336,32 +343,39 @@
     "text": "Lessons for next time\nIf the event went well, somebody will probably be asked to run it again next year…so make sure they’re not starting from square 1! Store notes, lessons learnt and outputs in a repository, and make sure it’s accessible… the better your documentation, the less you’ll be asked back to run it all over again."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "events.html",
+    "href": "events.html",
     "title": "Evidence House",
     "section": "",
-    "text": "Evidence House is a Downing Street-led initiative, working with collaborators including ONS Data Science Campus, Evaluation Task Force, Modernisation and Reform Unit, Go Science and National Situation Centre. It aims to crowdsource, research, develop and deliver solutions to wicked cross-cutting problems in government, through thorough problem profiling, exploration and data mining, getting to the evidence-informed heart of issues."
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\n\n\n\n\nJul 26, 2023\n\n\nGenerative AI Hack\n\n\n\n\nJun 23, 2023\n\n\nIntroduction to Machine Learning in Python\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "events/gen-ai-hack/timetable.html#day-2",
-    "href": "events/gen-ai-hack/timetable.html#day-2",
-    "title": "Timetable",
-    "section": "Day 2",
-    "text": "Day 2"
+    "objectID": "events/ml-in-python/ml-in-python-event.html",
+    "href": "events/ml-in-python/ml-in-python-event.html",
+    "title": "Introduction to Machine Learning in Python",
+    "section": "",
+    "text": "This two hour workshop, suitable for those with a basic working knowledge of Python or R, aims to provide a quick introduction of applied machine learning approaches.\n\nKaggle Tutorial\nKaggle Tutorial (Solution)\nGithub Repo\nSlides"
   },
   {
-    "objectID": "events/gen-ai-hack/timetable.html#day-3",
-    "href": "events/gen-ai-hack/timetable.html#day-3",
-    "title": "Timetable",
-    "section": "Day 3",
-    "text": "Day 3"
+    "objectID": "events/gen-ai-hack/judging.html",
+    "href": "events/gen-ai-hack/judging.html",
+    "title": "Judging and Winners",
+    "section": "",
+    "text": "On day 3, each of the teams will present their projects in a semi-finals, with the selected finalists going through to our grand final at 14:30!"
+  },
+  {
+    "objectID": "events/gen-ai-hack/judging.html#semi-finals",
+    "href": "events/gen-ai-hack/judging.html#semi-finals",
+    "title": "Judging and Winners",
+    "section": "Semi-Finals",
+    "text": "Semi-Finals\n\n\n\nTeam number\nTeam\nProblem\nTime-Slot\n\n\n\n\n4\nLegislaytors\nLegislation\n1130-1150\n\n\n10\n\nFeedback\n1130-1150\n\n\n7\n\nBox\n1130-1150\n\n\n12\nBoxbusters\nBox\n1155-1215\n\n\n5\n\nSkills\n1155-1215\n\n\n3\n\nSentiment\n1155-1215\n\n\n6\nLegislate this!\nlegislation\n1220-1240\n\n\n8\nClifford the Big Red Box\nBox\n1220-1240\n\n\n11\n\nEvaluation\n1220-1240\n\n\n1\n\nSentiment\n1245-1305\n\n\n9\n\nLegislation\n1245-1305\n\n\n2\n\nSkills\n1245-1305\n\n\n13\n\nProcurement\n1310-1330\n\n\n15\nFifteam\nFeedback\n1310-1330\n\n\n14\n\nBox\n1310-1330"
   },
   {
     "objectID": "events/gen-ai-hack/llm-hack-event.html",
     "href": "events/gen-ai-hack/llm-hack-event.html",
     "title": "Generative AI Hack",
     "section": "",
-    "text": "Welcome to the homepage for the flagship Evidence House Generative AI Hackathon!\nKeep an eye on this page, as well as our Slack channel, for updates and announcements.\nOn arrival, please use the wifi network city-guest, with password bm8onn3r."
+    "text": "Welcome to the homepage for the flagship Evidence House Generative AI Hackathon!\nKeep an eye on this page, as well as our Slack channel, for updates and announcements.\nOn arrival, please use the wifi network city-guest, with password bm8onn3r.\nIt’s judging and grand finals day!"
   },
   {
     "objectID": "events/gen-ai-hack/llm-hack-event.html#key-challenges",
@@ -452,7 +466,21 @@
     "href": "events/gen-ai-hack/teams.html",
     "title": "Teams",
     "section": "",
-    "text": "You can see our preliminary team and problem assignements below! We’ve tried to group those who primarily work with R together, and have assumed others will be using Python…but use whatever you need to!\n\n\n\n\n\n\n\n\n\n\n\nTeam\nLanguage\nProblem 1\nProblem 2\nProblem 3\nSelected Problem\n\n\n\n\n1\nPython\n3\n6\n5\n\n\n\n2\nPython\n6\n7\n2\n\n\n\n3\nPython\n7\n3\n6\n\n\n\n4\nR\n4\n2\n3\n\n\n\n5\nR\n6\n3\n5\n\n\n\n6\nR\n2\n4\n1\n\n\n\n7\nPython\n1\n3\n4\n\n\n\n8\nPython\n7\n1\n3\n\n\n\n9\nPython\n2\n4\n6\n\n\n\n10\nPython\n5\n3\n7\n\n\n\n11\nPython\n6\n1\n4\n\n\n\n12\nPython\n5\n6\n1\n\n\n\n13\nPython\n6\n7\n5\n\n\n\n14\nPython\n1\n5\n7\n\n\n\n15\nR\n2\n4\n1\n\n\n\n16\nR\n4\n2\n7"
+    "text": "You can see our preliminary team and problem assignements below! We’ve tried to group those who primarily work with R together, and have assumed others will be using Python…but use whatever you need to!"
+  },
+  {
+    "objectID": "events/gen-ai-hack/teams.html#semi-finals",
+    "href": "events/gen-ai-hack/teams.html#semi-finals",
+    "title": "Teams",
+    "section": "Semi-Finals",
+    "text": "Semi-Finals\n\n\n\nTeam number\nTeam\nProblem\nTime-Slot\n\n\n\n\n4\nLegislaytors\nLegislation\n1130-1150\n\n\n10\n\nFeedback\n1130-1150\n\n\n7\n\nBox\n1130-1150\n\n\n12\nBoxbusters\nBox\n1155-1215\n\n\n5\n\nSkills\n1155-1215\n\n\n3\n\nSentiment\n1155-1215\n\n\n6\nLegislate this!\nlegislation\n1220-1240\n\n\n8\nClifford the big red box\nBox\n1220-1240\n\n\n11\n\nEvaluation\n1220-1240\n\n\n1\n\nSentiment\n1245-1305\n\n\n9\n\nLegislation\n1245-1305\n\n\n2\n\nSkills\n1245-1305\n\n\n13\n\nProcurement\n1310-1330\n\n\n15\nFifteam\nFeedback\n1310-1330\n\n\n14\n\nBox\n1310-1330"
+  },
+  {
+    "objectID": "events/gen-ai-hack/teams.html#initial-teams",
+    "href": "events/gen-ai-hack/teams.html#initial-teams",
+    "title": "Teams",
+    "section": "Initial Teams",
+    "text": "Initial Teams\n\n\n\n\n\n\n\n\n\n\n\nTeam\nLanguage\nProblem 1\nProblem 2\nProblem 3\nSelected Problem\n\n\n\n\n1\nPython\n3\n6\n5\n\n\n\n2\nPython\n6\n7\n2\n\n\n\n3\nPython\n7\n3\n6\n\n\n\n4\nR\n4\n2\n3\n\n\n\n5\nR\n6\n3\n5\n\n\n\n6\nR\n2\n4\n1\n\n\n\n7\nPython\n1\n3\n4\n\n\n\n8\nPython\n7\n1\n3\n\n\n\n9\nPython\n2\n4\n6\n\n\n\n10\nPython\n5\n3\n7\n\n\n\n11\nPython\n6\n1\n4\n\n\n\n12\nPython\n5\n6\n1\n\n\n\n13\nPython\n6\n7\n5\n\n\n\n14\nPython\n1\n5\n7\n\n\n\n15\nR\n2\n4\n1\n\n\n\n16\nR\n4\n2\n7"
   },
   {
     "objectID": "events/gen-ai-hack/data/tenders.html",

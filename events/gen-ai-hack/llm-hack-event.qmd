@@ -9,6 +9,8 @@ Keep an eye on this page, as well as [our Slack channel](https://govdatascience.
 
 On arrival, please use the wifi network `city-guest`, with password `bm8onn3r`.
 
+[**It's judging and grand finals day!**](judging.qmd)
+
 ## Key Challenges
 #### How could generative AI be used...
 

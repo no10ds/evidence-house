@@ -1,0 +1,25 @@
+---
+title: "Judging and Winners"
+---
+
+On day 3, each of the teams will present their projects in a semi-finals, with the selected finalists going through to our grand final at 14:30!
+
+## Semi-Finals
+
+|Team number|Team                    |Problem    |Time-Slot|
+|-----------|------------------------|-----------|---------|
+|4          |Legislaytors             |Legislation|1130-1150|
+|10         |                        |Feedback   |1130-1150|
+|7          |                        |Box        |1130-1150|
+|12         |Boxbusters              |Box        |1155-1215|
+|5          |                        |Skills     |1155-1215|
+|3          |                        |Sentiment  |1155-1215|
+|6          |Legislate this!         |legislation|1220-1240|
+|8          |Clifford the Big Red Box|Box        |1220-1240|
+|11         |                        |Evaluation |1220-1240|
+|1          |                        |Sentiment  |1245-1305|
+|9          |                        |Legislation|1245-1305|
+|2          |                        |Skills     |1245-1305|
+|13         |                        |Procurement|1310-1330|
+|15         |Fifteam                 |Feedback   |1310-1330|
+|14         |                        |Box        |1310-1330|

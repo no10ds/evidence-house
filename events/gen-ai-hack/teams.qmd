@@ -4,6 +4,29 @@ title: "Teams"
 
 You can see our preliminary team and problem assignements below! We've tried to group those who primarily work with R together, and have assumed others will be using Python...but use whatever you need to!
 
+## Semi-Finals
+
+|Team number|Team                    |Problem    |Time-Slot|
+|-----------|------------------------|-----------|---------|
+|4          |Legislaytors           |Legislation|1130-1150|
+|10         |                        |Feedback   |1130-1150|
+|7          |                        |Box        |1130-1150|
+|12         |Boxbusters              |Box        |1155-1215|
+|5          |                        |Skills     |1155-1215|
+|3          |                        |Sentiment  |1155-1215|
+|6          |Legislate this!         |legislation|1220-1240|
+|8          |Clifford the big red box|Box        |1220-1240|
+|11         |                        |Evaluation |1220-1240|
+|1          |                        |Sentiment  |1245-1305|
+|9          |                        |Legislation|1245-1305|
+|2          |                        |Skills     |1245-1305|
+|13         |                        |Procurement|1310-1330|
+|15         |Fifteam                 |Feedback   |1310-1330|
+|14         |                        |Box        |1310-1330|
+
+
+## Initial Teams
+
 | Team | Language | Problem 1 | Problem 2 | Problem 3 | Selected Problem |
 |------|----------|-----------|-----------|-----------|------------------|
 | 1    | Python   | 3         | 6         | 5         |                  |

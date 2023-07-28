@@ -5,6 +5,8 @@ title: "Judging and Winners"
 On day 3, each of the teams will present their projects in a semi-finals, with the selected finalists going through to our grand final at 14:30!
 
 ## Semi-Finals
+For the semi-finals, each of your teams has been allocated into slots of three, with each team presenting to guests as well as two other teams.
+
 
 |Team number|Team                    |Problem    |Time-Slot|
 |-----------|------------------------|-----------|---------|

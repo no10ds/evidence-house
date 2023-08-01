@@ -17,8 +17,6 @@ website:
         text: News
       - href: events.qmd
         text: Events
-      - href: events/gen-ai-hack/llm-hack-event.qmd
-        text: Generative AI Hack
       - playbook/playbook.qmd
     tools:
       - icon: twitter

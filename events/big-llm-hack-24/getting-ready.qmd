@@ -1,0 +1,40 @@
+---
+title: "Get Ready"
+format: html
+---
+
+We're looking forward to seeing you all at Imperial in a few days for the 10X AI Hackathon! Before you join us, check out the instructions below to make sure you can get started as smoothly as possible.
+
+We might add more in the coming days, so check back for updates.
+
+#### Join Slack
+
+We'll be using the [#community-evidence-house channel](https://govdatascience.slack.com/archives/C04V76C0YR1) on the [ONS cross-government data science slack](https://govdatascience.slack.com/) to communicate during the event.
+
+If you can, we'd encourage you to join in advance! If you can't, please let us know during registration, and we'll arrange for access.
+
+#### Get your IT ready
+
+You'll be spending 3 days hacking on public, non-sensitive data, in collaboration with participants from across government, industry and academia. To make that as easy as possible, **we'd recommend bringing a personal laptop if you have one available**.
+
+If you don't have a personal device, that's totally fine! Ensure you can access any libraries, tools or development packages you'll need to code and collaborate, as well as [websites for our partners.](#key-websites).
+
+#### Check your emails
+
+Over the next few days, you might receive a few automated emails from our partners - this might include:
+
+- an AWS account creation under the evidence-house tenancy
+- an Anthropic Claude account being created
+
+These are being created to give you access to services during the hack (you won't be charged!) You'll receive more instructions when you arrive.
+
+#### Check your can access key websites{#key-websites}
+
+As part of the hackathon, 
+You should shortly receive an invitation to create an AWS account under the Evidence House tenancy 
+
+You should also check you can access the below websites:
+
+- [ChatGPT](https://chat.openai.com/) and the OpenAI API platform
+- [Anthropic Claude](https://claude.ai/chats)
+- [Google Colaboratory](https://colab.research.google.com/) and the [Google Cloud Console](https://console.cloud.google.com/)

@@ -1,11 +1,11 @@
 [
   {
-    "listing": "/assets/gen-ai-hack/data/data.html",
-    "items": []
-  },
-  {
-    "listing": "/newsletters.html",
-    "items": []
+    "listing": "/events.html",
+    "items": [
+      "/events/big-llm-hack-24/imperial-llm-hack-event.html",
+      "/events/gen-ai-hack/llm-hack-event.html",
+      "/events/ml-in-python/ml-in-python-event.html"
+    ]
   },
   {
     "listing": "/events/gen-ai-hack/data.html",
@@ -29,10 +29,7 @@
     ]
   },
   {
-    "listing": "/events.html",
-    "items": [
-      "/events/gen-ai-hack/llm-hack-event.html",
-      "/events/ml-in-python/ml-in-python-event.html"
-    ]
+    "listing": "/newsletters.html",
+    "items": []
   }
 ]

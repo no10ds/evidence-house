@@ -6,6 +6,8 @@ date: 2024-04-15
 
 Welcome to the event page for the 10X AI Hackathon, presented by the data science team of 10 Downing Street (10DS) in collaboration with [Imperial](https://www.imperial.ac.uk/) as part of the Evidence House program.
 
+The hackathon will take place on the main campus of [Imperial College](https://maps.app.goo.gl/hmZz6u5vcx6X858k8), with doors opening from around 9am Monday (we will provide a more detailed schedule shortly).
+
 Before you attend, [make sure you're ready to hit the ground running on day 1!](getting-ready.qmd)
 
 ## Key Challenges

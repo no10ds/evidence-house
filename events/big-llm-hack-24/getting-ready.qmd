@@ -39,3 +39,5 @@ You should also check you can access the below websites:
 - [Anthropic Claude](https://claude.ai/chats)
 - [Google Colaboratory](https://colab.research.google.com/) and the [Google Cloud Console](https://console.cloud.google.com/)
 - The [Azure Portal](https://portal.azure.com) website
+
+We know departments may block some or all of these websites - if you can, request they be unblocked during the hackathon, highlighting the legitimate use case for collaboration and L&D.  If you can't, don't worry too much, as I'm sure we'll find work-arounds on the day!

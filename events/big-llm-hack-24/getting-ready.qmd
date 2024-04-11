@@ -28,13 +28,14 @@ Over the next few days, you might receive a few automated emails from our partne
 
 These are being created to give you access to services during the hack (you won't be charged!) You'll receive more instructions when you arrive.
 
-#### Check your can access key websites{#key-websites}
+#### Check your can access tools and websites{#key-websites}
 
 As part of the hackathon, 
 You should shortly receive an invitation to create an AWS account under the Evidence House tenancy 
 
 You should also check you can access the below websites:
 
-- [ChatGPT](https://chat.openai.com/) and the OpenAI API platform
+- [ChatGPT](https://chat.openai.com/) and the [OpenAI API platform](https://platform.openai.com/)
 - [Anthropic Claude](https://claude.ai/chats)
 - [Google Colaboratory](https://colab.research.google.com/) and the [Google Cloud Console](https://console.cloud.google.com/)
+- The [Azure Portal](https://portal.azure.com) website

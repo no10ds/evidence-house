@@ -1,0 +1,10 @@
+---
+title: "Problem 4 - Communications"
+---
+
+![](communications.png){width=100%}
+
+## [Communications](communications_slides.pdf)
+**Understanding media coverage to help us brief senior leaders**
+
+## [Data](/events/big-llm-hack-24/data.qmd#category=communications)

@@ -16,7 +16,7 @@ How could we use AI to...
 1. [**Ministerial Correspondence :**](challenges/correspondence/correspondence.qmd) Understand and respond to the most critical correspondence?
 2. [**Emerging Situations and Crises :**](challenges/situations/situations.qmd) Identify, analyse and manage emerging crises and situations?
 3. [**Legislation :**](challenges/legislation/legislation.qmd) Write better legislation, with better evidence, that's better understood?
-4. **Communications :**  Communicate and understand the public, and help the public communicate with government?
+4. [**Communications :**](challenges/communications/communications.qmd)  Communicate and understand the public, and help the public communicate with government?
 5. **Meetings and Transcription :** Understand how to safely use, deploy and test AI systems?
 6. **Manage Major Projects :** Track, measure, manage major government projects to ensure they're delivered on time?
 7. [**Grants and awards :**](challenges/grants/grants.qmd)  Improve how governmetn distributes grands and awards?

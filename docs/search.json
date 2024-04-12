@@ -768,5 +768,19 @@
     "title": "Spotlight",
     "section": "",
     "text": "We have prepared an anonymous extract of splotlight data.\nThe dataset will be available on the S3 bucket."
+  },
+  {
+    "objectID": "events/big-llm-hack-24/challenges/communications/communications.html#communications",
+    "href": "events/big-llm-hack-24/challenges/communications/communications.html#communications",
+    "title": "Problem 4 - Communications",
+    "section": "Communications",
+    "text": "Communications\nUnderstanding media coverage to help us brief senior leaders"
+  },
+  {
+    "objectID": "events/big-llm-hack-24/challenges/communications/communications.html#data",
+    "href": "events/big-llm-hack-24/challenges/communications/communications.html#data",
+    "title": "Problem 4 - Communications",
+    "section": "Data",
+    "text": "Data"
   }
 ]

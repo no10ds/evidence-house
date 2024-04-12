@@ -2,8 +2,11 @@
   {
     "listing": "/events/big-llm-hack-24/data.html",
     "items": [
+      "/events/big-llm-hack-24/data/companies_house.html",
+      "/events/big-llm-hack-24/data/find_a_grant.html",
       "/events/big-llm-hack-24/data/legislation.html",
-      "/events/big-llm-hack-24/data/correspondence.html"
+      "/events/big-llm-hack-24/data/correspondence.html",
+      "/events/big-llm-hack-24/data/spotlight.html"
     ]
   },
   {

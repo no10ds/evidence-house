@@ -249,7 +249,7 @@
     "href": "events/big-llm-hack-24/data.html",
     "title": "Evidence House",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nCategories\n\n\n\n\n\n\nLegislation API\n\n\nlegislation\n\n\n\n\nMinisterial Correspondence\n\n\ncorrespondence\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nCategories\n\n\n\n\n\n\nCompanies House\n\n\ngrants\n\n\n\n\nFind Government Grants\n\n\ngrants\n\n\n\n\nLegislation API\n\n\nlegislation\n\n\n\n\nMinisterial Correspondence\n\n\ncorrespondence\n\n\n\n\nSpotlight\n\n\ngrants\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "events/big-llm-hack-24/data/legislation.html",
@@ -719,5 +719,54 @@
     "title": "Evidence House",
     "section": "",
     "text": "No matching items"
+  },
+  {
+    "objectID": "events/big-llm-hack-24/data/find_a_grant.html",
+    "href": "events/big-llm-hack-24/data/find_a_grant.html",
+    "title": "Find Government Grants",
+    "section": "",
+    "text": "The Find government Grants service is avbailable\nhttps://www.find-government-grants.service.gov.uk/grants?searchTerm="
+  },
+  {
+    "objectID": "events/big-llm-hack-24/data/companies_house.html",
+    "href": "events/big-llm-hack-24/data/companies_house.html",
+    "title": "Companies House",
+    "section": "",
+    "text": "Companies House data\nThe dataset will be available on the S3 bucket."
+  },
+  {
+    "objectID": "events/big-llm-hack-24/challenges/situations/situations.html#situations-and-crises",
+    "href": "events/big-llm-hack-24/challenges/situations/situations.html#situations-and-crises",
+    "title": "Problem 2 - Emerging Situations and Crises",
+    "section": "Situations and Crises",
+    "text": "Situations and Crises\nUnderstanding media coverage / public sentiment around major events so that we communicate effectively"
+  },
+  {
+    "objectID": "events/big-llm-hack-24/challenges/situations/situations.html#data",
+    "href": "events/big-llm-hack-24/challenges/situations/situations.html#data",
+    "title": "Problem 2 - Emerging Situations and Crises",
+    "section": "Data",
+    "text": "Data\nWe have prepared …"
+  },
+  {
+    "objectID": "events/big-llm-hack-24/challenges/grants/grants.html#grants",
+    "href": "events/big-llm-hack-24/challenges/grants/grants.html#grants",
+    "title": "Problem 7 - Grants",
+    "section": "Grants",
+    "text": "Grants\nUnderstanding media coverage / public sentiment around major events so that we communicate effectively"
+  },
+  {
+    "objectID": "events/big-llm-hack-24/challenges/grants/grants.html#data",
+    "href": "events/big-llm-hack-24/challenges/grants/grants.html#data",
+    "title": "Problem 7 - Grants",
+    "section": "Data",
+    "text": "Data\nFor this challenge, we have pre-scraped a range of tweets from social media and press articles, both about the emergency alert test in April of this year, and the recent heatwave."
+  },
+  {
+    "objectID": "events/big-llm-hack-24/data/spotlight.html",
+    "href": "events/big-llm-hack-24/data/spotlight.html",
+    "title": "Spotlight",
+    "section": "",
+    "text": "We have prepared an anonymous extract of splotlight data.\nThe dataset will be available on the S3 bucket."
   }
 ]

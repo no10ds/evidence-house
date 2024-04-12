@@ -1,0 +1,12 @@
+---
+title: "Problem 2 - Emerging Situations and Crises"
+---
+
+![](communications.png){width=100%}
+
+## [Situations and Crises](communications_slides.pdf)
+**Understanding media coverage / public sentiment around major events so that we communicate effectively**
+
+## [Data](https://no10ds.github.io/evidence-house/events/gen-ai-hack/data.html#category=situations)
+
+We have prepared ...

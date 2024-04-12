@@ -4,7 +4,7 @@ title: "Problem 6 - Major Projects"
 
 ![](projects.png){width=100%}
 
-## [Major Projects](projects.pdf.pdf)
+## [Major Projects](projects.pdf)
 Ensuring major projects are tracked, delivered and impactive
 
 ## [Data](/events/big-llm-hack-24/data.qmd#category=projects)

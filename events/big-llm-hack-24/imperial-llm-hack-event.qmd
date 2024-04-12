@@ -17,8 +17,8 @@ How could we use AI to...
 2. [**Emerging Situations and Crises :**](challenges/situations/situations.qmd) Help the National Situation Centre react to new and emerging biosafety threats
 3. [**Legislation :**](challenges/legislation/legislation.qmd) Write better legislation, with better evidence, that's better understood
 4. [**Communications :**](challenges/communications/communications.qmd)  Brief the Prime Minister and help us deliver effective and informative communications
-5. [**Meetings and Transcription :**](challenges/communications/meetings.qmd)  Understand, digest, summarise and share information from meetings across the civil service
-6. [**Manage Major Projects :**](challenges/communications/projects.qmd)  Measure, manage and deliver major projects
+5. [**Meetings and Transcription :**](challenges/meetings/meetings.qmd)  Understand, digest, summarise and share information from meetings across the civil service
+6. [**Manage Major Projects :**](challenges/projects/projects.qmd)  Measure, manage and deliver major projects
 7. [**Grants and awards :**](challenges/grants/grants.qmd)  Ensure government effectively distributes grants and financial assistance tot hose who need it
 8. **Skills :** Make sure the UK economy is ready for the AI led skills revolution
 

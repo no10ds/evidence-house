@@ -13,11 +13,11 @@ Before you attend, [make sure you're ready to hit the ground running on day 1!](
 ## Key Challenges
 How could we use AI to...
 
-1. **Ministerial Correspondence :** Understand and respond to the most critical correspondence?
+1. [**Ministerial Correspondence :**](challenges/correspondence/correspondence.qmd) Understand and respond to the most critical correspondence?
 2. **Emerging Situations and Crises :** Identify, analyse and manage emerging crises and situations?
-3. **Legislation :** Write better legislation, with better evidence, that's better understood?
+3. [**Legislation :**](challenges/legislation/legislation.qmd) Write better legislation, with better evidence, that's better understood?
 4. **Communications :**  Communicate and understand the public, and help the public communicate with government?
-5. **AI Safety :** Understand how to safely use, deploy and test AI systems?
+5. **Meetings and Transcription :** Understand how to safely use, deploy and test AI systems?
 6. **Manage Major Projects :** Track, measure, manage major government projects to ensure they're delivered on time?
 7. **Grants and awards :**  Improve how governmetn distributes grands and awards?
 8. **Skills :** Make sure everyone is equipped with the skills and capabilities to make the most of the AI revolution?

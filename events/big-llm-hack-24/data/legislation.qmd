@@ -1,0 +1,11 @@
+---
+title: "Legislation API"
+categories:
+    - legislation
+---
+
+ALl UK legislation text is available on Gov.UK.  
+
+You can query this via an API.  An example notebook is availab [here](/events/big-llm-hack-24/challenges/legislation/hackathon_demo_legislation_api.ipynb)
+
+

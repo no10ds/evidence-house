@@ -1,0 +1,11 @@
+---
+title: "Problem 3 - Communications"
+---
+
+![](communications.png){width=100%}
+
+## [Communications](communications_slides.pdf)
+**Understanding media coverage / public sentiment around major events so that we communicate effectively**
+
+## [Data](https://no10ds.github.io/evidence-house/events/gen-ai-hack/data.html#category=communication)
+For this challenge, we have pre-scraped a range of tweets from social media and press articles, both about the emergency alert test in April of this year, and the recent heatwave.

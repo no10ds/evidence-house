@@ -1,0 +1,11 @@
+---
+title: "Problem 3 - Legislation"
+---
+
+![](legislation.png){width=100%}
+
+## [Legislation](legislation_slides.pdf)
+**Writing Legislation that is Impactive, Efective and Understandable**
+
+## [Data](/events/big-llm-hack-24/data.qmd#category=legislation)
+For this challenge, we have pre-scraped a range of tweets from social media and press articles, both about the emergency alert test in April of this year, and the recent heatwave.

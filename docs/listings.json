@@ -1,5 +1,12 @@
 [
   {
+    "listing": "/events/big-llm-hack-24/data.html",
+    "items": [
+      "/events/big-llm-hack-24/data/legislation.html",
+      "/events/big-llm-hack-24/data/correspondence.html"
+    ]
+  },
+  {
     "listing": "/events.html",
     "items": [
       "/events/big-llm-hack-24/imperial-llm-hack-event.html",
@@ -31,11 +38,5 @@
   {
     "listing": "/newsletters.html",
     "items": []
-  },
-  {
-    "listing": "/events/big-llm-hack-24/data.html",
-    "items": [
-      "/events/big-llm-hack-24/data/correspondence.html"
-    ]
   }
 ]

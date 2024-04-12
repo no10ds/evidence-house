@@ -245,46 +245,60 @@
     "text": "Semi-Finals\nFor the semi-finals, each of your teams has been allocated into slots of three, with each team presenting to guests as well as two other teams.\n\n\n\nTeam number\nTeam\nProblem\nTime-Slot\n\n\n\n\n4\nLegislaytors\nLegislation\n1130-1150\n\n\n10\n\nFeedback\n1130-1150\n\n\n7\n\nBox\n1130-1150\n\n\n12\nBoxbusters\nBox\n1155-1215\n\n\n5\n\nSkills\n1155-1215\n\n\n3\n\nSentiment\n1155-1215\n\n\n6\nLegislate this!\nlegislation\n1220-1240\n\n\n8\nClifford the Big Red Box\nBox\n1220-1240\n\n\n11\n\nEvaluation\n1220-1240\n\n\n1\n\nSentiment\n1245-1305\n\n\n9\n\nLegislation\n1245-1305\n\n\n2\n\nSkills\n1245-1305\n\n\n13\n\nProcurement\n1310-1330\n\n\n15\nFifteam\nFeedback\n1310-1330\n\n\n14\n\nBox\n1310-1330"
   },
   {
-    "objectID": "events/big-llm-hack-24/imperial-llm-hack-event.html",
-    "href": "events/big-llm-hack-24/imperial-llm-hack-event.html",
-    "title": "10x AI Hackathon",
+    "objectID": "events/big-llm-hack-24/data.html",
+    "href": "events/big-llm-hack-24/data.html",
+    "title": "Evidence House",
     "section": "",
-    "text": "Welcome to the event page for the 10X AI Hackathon, presented by the data science team of 10 Downing Street (10DS) in collaboration with Imperial as part of the Evidence House program.\nThe hackathon will take place on the main campus of Imperial College, with doors opening from around 9am Monday (we will provide a more detailed schedule shortly).\nBefore you attend, make sure you’re ready to hit the ground running on day 1!"
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nCategories\n\n\n\n\n\n\nLegislation API\n\n\nlegislation\n\n\n\n\nMinisterial Correspondence\n\n\ncorrespondence\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "events/big-llm-hack-24/imperial-llm-hack-event.html#key-challenges",
-    "href": "events/big-llm-hack-24/imperial-llm-hack-event.html#key-challenges",
-    "title": "10x AI Hackathon",
-    "section": "Key Challenges",
-    "text": "Key Challenges\nHow could we use AI to…\n\nMinisterial Correspondence : Understand and respond to the most critical correspondence?\nEmerging Situations and Crises : Identify, analyse and manage emerging crises and situations?\nLegislation : Write better legislation, with better evidence, that’s better understood?\nCommunications : Communicate and understand the public, and help the public communicate with government?\nAI Safety : Understand how to safely use, deploy and test AI systems?\nManage Major Projects : Track, measure, manage major government projects to ensure they’re delivered on time?\nGrants and awards : Improve how governmetn distributes grands and awards?\nSkills : Make sure everyone is equipped with the skills and capabilities to make the most of the AI revolution?"
+    "objectID": "events/big-llm-hack-24/data/legislation.html",
+    "href": "events/big-llm-hack-24/data/legislation.html",
+    "title": "Legislation API",
+    "section": "",
+    "text": "ALl UK legislation text is available on Gov.UK.\nYou can query this via an API. An example notebook is availab here"
   },
   {
-    "objectID": "events/big-llm-hack-24/imperial-llm-hack-event.html#teams",
-    "href": "events/big-llm-hack-24/imperial-llm-hack-event.html#teams",
-    "title": "10x AI Hackathon",
-    "section": "Teams",
-    "text": "Teams\nEach team will be randomly assigned 3 problems, and we’ll be asking you to decide on one to focus your tool on at the end of day 1!\nExpect more information in the next few days."
+    "objectID": "events/big-llm-hack-24/challenges/correspondence/correspondence.html#communications",
+    "href": "events/big-llm-hack-24/challenges/correspondence/correspondence.html#communications",
+    "title": "Problem 3 - Communications",
+    "section": "Communications",
+    "text": "Communications\nUnderstanding media coverage / public sentiment around major events so that we communicate effectively"
   },
   {
-    "objectID": "events/big-llm-hack-24/imperial-llm-hack-event.html#agenda-tbc",
-    "href": "events/big-llm-hack-24/imperial-llm-hack-event.html#agenda-tbc",
-    "title": "10x AI Hackathon",
-    "section": "Agenda (TBC)",
-    "text": "Agenda (TBC)"
+    "objectID": "events/big-llm-hack-24/challenges/correspondence/correspondence.html#data",
+    "href": "events/big-llm-hack-24/challenges/correspondence/correspondence.html#data",
+    "title": "Problem 3 - Communications",
+    "section": "Data",
+    "text": "Data\nFor this challenge, we have pre-scraped a range of tweets from social media and press articles, both about the emergency alert test in April of this year, and the recent heatwave."
   },
   {
-    "objectID": "events/big-llm-hack-24/imperial-llm-hack-event.html#datasets-tbc",
-    "href": "events/big-llm-hack-24/imperial-llm-hack-event.html#datasets-tbc",
-    "title": "10x AI Hackathon",
-    "section": "Datasets (TBC)",
-    "text": "Datasets (TBC)\nWe’ve prepared a selection of datasets for the event, and these can be viewed on our datasets page.\nWhere data has been pre-prepared, we have hosted it on a public S3 bucket. You can find out more about using the data through this handy guide."
+    "objectID": "events/big-llm-hack-24/challenges/legislation/hackathon_demo_legislation_api.html",
+    "href": "events/big-llm-hack-24/challenges/legislation/hackathon_demo_legislation_api.html",
+    "title": "legislation.gov.uk API",
+    "section": "",
+    "text": "Published legislation is available from legislation.gov.uk via an API. API guidance can be found here but we demo its basic usage in this notebook.\nThere are several options for file formats - the recommended format is XML and documentation on the XML dialect can be found here.\nA bulk download service is also available, but note that the data provided is a couple of years out of date: http://leggovuk-ldn.s3-website.eu-west-2.amazonaws.com/"
   },
   {
-    "objectID": "events/big-llm-hack-24/imperial-llm-hack-event.html#tools-and-resources-tbc",
-    "href": "events/big-llm-hack-24/imperial-llm-hack-event.html#tools-and-resources-tbc",
-    "title": "10x AI Hackathon",
-    "section": "Tools and Resources (TBC)",
-    "text": "Tools and Resources (TBC)"
+    "objectID": "events/big-llm-hack-24/challenges/legislation/hackathon_demo_legislation_api.html#get-data-via-api",
+    "href": "events/big-llm-hack-24/challenges/legislation/hackathon_demo_legislation_api.html#get-data-via-api",
+    "title": "legislation.gov.uk API",
+    "section": "Get data via API",
+    "text": "Get data via API\nThis section shows how to obtain the Theft Act 1968 via the API.\n\nimport requests\n\nurl = \"https://www.legislation.gov.uk/ukpga/1968/60/data.xml\"\n\n\nresponse = requests.get(url)\n\nif response.ok:\n    print(\"Ok!\")\n    print(response.url)"
+  },
+  {
+    "objectID": "events/big-llm-hack-24/challenges/legislation/hackathon_demo_legislation_api.html#parse-xml-data-using-beautifulsoup",
+    "href": "events/big-llm-hack-24/challenges/legislation/hackathon_demo_legislation_api.html#parse-xml-data-using-beautifulsoup",
+    "title": "legislation.gov.uk API",
+    "section": "Parse XML data using BeautifulSoup",
+    "text": "Parse XML data using BeautifulSoup\nThere are various Python libraries available for parsing XML data. Here’s an example using BeautifulSoup.\n\nfrom bs4 import BeautifulSoup\n\nsoup = BeautifulSoup(response.text, 'xml')\n\n\n# Get the Act title\nsoup.title.string\n\n\n# The url to the document on the legislation.gov website\nsoup.identifier.string\n\n\n# Act introduction\nsoup.description.string\n\n\n# Preview text\nsoup.get_text(\" \", strip=True)[:1000]"
+  },
+  {
+    "objectID": "events/big-llm-hack-24/challenges/legislation/hackathon_demo_legislation_api.html#extract-text-from-specific-sections",
+    "href": "events/big-llm-hack-24/challenges/legislation/hackathon_demo_legislation_api.html#extract-text-from-specific-sections",
+    "title": "legislation.gov.uk API",
+    "section": "Extract text from specific Sections",
+    "text": "Extract text from specific Sections\n\n# Get a list of all Sections in the Act\nsection_ids = [section.P1.get(\"id\") for section in soup.find_all(\"P1group\")]\nsection_ids = [section for section in section_ids if section is not None]\nsection_ids\n\n\n# Get text from a specific Section\nsoup.find(id=section_ids[0]).get_text(\" \")"
   },
   {
     "objectID": "events/ml-in-python/ml-in-python-event.html",
@@ -439,6 +453,69 @@
     "title": "Get Ready",
     "section": "",
     "text": "We’re looking forward to seeing you all at Imperial in a few days for the 10X AI Hackathon! Before you join us, check out the instructions below to make sure you can get started as smoothly as possible.\nWe might add more in the coming days, so check back for updates.\n\nJoin Slack\nWe’ll be using the #community-evidence-house channel on the ONS cross-government data science slack to communicate during the event.\nIf you can, we’d encourage you to join in advance! If you can’t, please let us know during registration, and we’ll arrange for access.\n\n\nGet your IT ready\nYou’ll be spending 3 days hacking on public, non-sensitive data, in collaboration with participants from across government, industry and academia. To make that as easy as possible, we’d recommend bringing a personal laptop if you have one available.\nIf you don’t have a personal device, that’s totally fine! Ensure you can access any libraries, tools or development packages you’ll need to code and collaborate, as well as websites for our partners..\n\n\nCheck your emails\nOver the next few days, you might receive a few automated emails from our partners - this might include:\n\nan AWS account creation under the evidence-house tenancy\nan Anthropic Claude account being created\n\nThese are being created to give you access to services during the hack (you won’t be charged!) You’ll receive more instructions when you arrive.\n\n\nCheck your can access tools and websites\nAs part of the hackathon, You should shortly receive an invitation to create an AWS account under the Evidence House tenancy\nYou should also check you can access the below websites:\n\nChatGPT and the OpenAI API platform\nAnthropic Claude\nGoogle Colaboratory and the Google Cloud Console\nThe Azure Portal website\n\nWe know departments may block some or all of these websites - if you can, request they be unblocked during the hackathon, highlighting the legitimate use case for collaboration and L&D. If you can’t, don’t worry too much, as I’m sure we’ll find work-arounds on the day!"
+  },
+  {
+    "objectID": "events/big-llm-hack-24/challenges/legislation/legislation.html#legislation",
+    "href": "events/big-llm-hack-24/challenges/legislation/legislation.html#legislation",
+    "title": "Problem 3 - Legislation",
+    "section": "Legislation",
+    "text": "Legislation\nWriting Legislation that is Impactive, Efective and Understandable"
+  },
+  {
+    "objectID": "events/big-llm-hack-24/challenges/legislation/legislation.html#data",
+    "href": "events/big-llm-hack-24/challenges/legislation/legislation.html#data",
+    "title": "Problem 3 - Legislation",
+    "section": "Data",
+    "text": "Data\nFor this challenge, we have pre-scraped a range of tweets from social media and press articles, both about the emergency alert test in April of this year, and the recent heatwave."
+  },
+  {
+    "objectID": "events/big-llm-hack-24/imperial-llm-hack-event.html",
+    "href": "events/big-llm-hack-24/imperial-llm-hack-event.html",
+    "title": "10x AI Hackathon",
+    "section": "",
+    "text": "Welcome to the event page for the 10X AI Hackathon, presented by the data science team of 10 Downing Street (10DS) in collaboration with Imperial as part of the Evidence House program.\nThe hackathon will take place on the main campus of Imperial College, with doors opening from around 9am Monday (we will provide a more detailed schedule shortly).\nBefore you attend, make sure you’re ready to hit the ground running on day 1!"
+  },
+  {
+    "objectID": "events/big-llm-hack-24/imperial-llm-hack-event.html#key-challenges",
+    "href": "events/big-llm-hack-24/imperial-llm-hack-event.html#key-challenges",
+    "title": "10x AI Hackathon",
+    "section": "Key Challenges",
+    "text": "Key Challenges\nHow could we use AI to…\n\nMinisterial Correspondence : Understand and respond to the most critical correspondence?\nEmerging Situations and Crises : Identify, analyse and manage emerging crises and situations?\nLegislation : Write better legislation, with better evidence, that’s better understood?\nCommunications : Communicate and understand the public, and help the public communicate with government?\nMeetings and Transcription : Understand how to safely use, deploy and test AI systems?\nManage Major Projects : Track, measure, manage major government projects to ensure they’re delivered on time?\nGrants and awards : Improve how governmetn distributes grands and awards?\nSkills : Make sure everyone is equipped with the skills and capabilities to make the most of the AI revolution?"
+  },
+  {
+    "objectID": "events/big-llm-hack-24/imperial-llm-hack-event.html#teams",
+    "href": "events/big-llm-hack-24/imperial-llm-hack-event.html#teams",
+    "title": "10x AI Hackathon",
+    "section": "Teams",
+    "text": "Teams\nEach team will be randomly assigned 3 problems, and we’ll be asking you to decide on one to focus your tool on at the end of day 1!\nExpect more information in the next few days."
+  },
+  {
+    "objectID": "events/big-llm-hack-24/imperial-llm-hack-event.html#agenda-tbc",
+    "href": "events/big-llm-hack-24/imperial-llm-hack-event.html#agenda-tbc",
+    "title": "10x AI Hackathon",
+    "section": "Agenda (TBC)",
+    "text": "Agenda (TBC)"
+  },
+  {
+    "objectID": "events/big-llm-hack-24/imperial-llm-hack-event.html#datasets",
+    "href": "events/big-llm-hack-24/imperial-llm-hack-event.html#datasets",
+    "title": "10x AI Hackathon",
+    "section": "Datasets",
+    "text": "Datasets\nWe’ve prepared a selection of datasets for the event, and these can be viewed on our datasets page.\nWhere data has been pre-prepared, we have hosted it on a S3 bucket - we will provide access and details on the day of the hack."
+  },
+  {
+    "objectID": "events/big-llm-hack-24/imperial-llm-hack-event.html#tools-and-resources-tbc",
+    "href": "events/big-llm-hack-24/imperial-llm-hack-event.html#tools-and-resources-tbc",
+    "title": "10x AI Hackathon",
+    "section": "Tools and Resources (TBC)",
+    "text": "Tools and Resources (TBC)"
+  },
+  {
+    "objectID": "events/big-llm-hack-24/data/correspondence.html",
+    "href": "events/big-llm-hack-24/data/correspondence.html",
+    "title": "Ministerial Correspondence",
+    "section": "",
+    "text": "Thanks to our partners at the National Archives, we will provide a dataset of PDF files containing historical correspondence.\nThe dataset will be available on the S3 bucket."
   },
   {
     "objectID": "events/gen-ai-hack/timetable.html#day-2",
@@ -642,26 +719,5 @@
     "title": "Evidence House",
     "section": "",
     "text": "No matching items"
-  },
-  {
-    "objectID": "events/big-llm-hack-24/data/correspondence.html",
-    "href": "events/big-llm-hack-24/data/correspondence.html",
-    "title": "Ministerial Correspondence",
-    "section": "",
-    "text": "Thanks to our partners at the National Archives, we will provide a dataset of PDF files containing historical correspondence.\nThe dataset will be available on the S3 bucket."
-  },
-  {
-    "objectID": "events/big-llm-hack-24/imperial-llm-hack-event.html#datasets",
-    "href": "events/big-llm-hack-24/imperial-llm-hack-event.html#datasets",
-    "title": "10x AI Hackathon",
-    "section": "Datasets",
-    "text": "Datasets\nWe’ve prepared a selection of datasets for the event, and these can be viewed on our datasets page.\nWhere data has been pre-prepared, we have hosted it on a S3 bucket - we will provide access and details on the day of the hack."
-  },
-  {
-    "objectID": "events/big-llm-hack-24/data.html",
-    "href": "events/big-llm-hack-24/data.html",
-    "title": "Evidence House",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nCategories\n\n\n\n\n\n\nMinisterial Correspondence\n\n\ncorrespondence\n\n\n\n\n\nNo matching items"
   }
 ]

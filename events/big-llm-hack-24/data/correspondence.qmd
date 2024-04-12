@@ -1,0 +1,9 @@
+---
+title: "Ministerial Correspondence"
+categories:
+    - correspondence
+---
+
+Thanks to our partners at the National Archives, we will provide a dataset of PDF files containing historical correspondence.
+
+The dataset will be available on the S3 bucket.

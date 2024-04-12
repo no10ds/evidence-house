@@ -634,7 +634,7 @@
     "href": "events/gen-ai-hack/data.html",
     "title": "Evidence House",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nCategories\n\n\n\n\n\n\nApril 2023 Emergency Alert Data\n\n\ncommunication, S3\n\n\n\n\nBills in Parliament\n\n\nlegislation, S3\n\n\n\n\nCivil Service Jobs\n\n\njobs, S3\n\n\n\n\nCommittee Correspondence\n\n\npolicy, S3\n\n\n\n\nCustomer Service\n\n\ncustomer service, S3\n\n\n\n\nEvaluations\n\n\nevaluation\n\n\n\n\nFCDO Annual Reports\n\n\nevaluation, S3\n\n\n\n\nGovernment Contracts\n\n\nprocurement\n\n\n\n\nGovernment Tenders\n\n\nprocurement\n\n\n\n\nGuidance and Regulation\n\n\npolicy\n\n\n\n\nHansard\n\n\nlegislation, decision making\n\n\n\n\nHouse of Commons data\n\n\nlegislation\n\n\n\n\nJuly 2023 Heatwave Data\n\n\ncommunication, S3\n\n\n\n\nParliament API\n\n\nlegislation, decision making\n\n\n\n\nPolicy Papers\n\n\npolicy, legislation\n\n\n\n\nSynthetic Write-around\n\n\npolicy, legislation\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nCategories\n\n\n\n\n\n\nApril 2023 Emergency Alert Data\n\n\ncommunication, S3\n\n\n\n\nBills in Parliament\n\n\nlegislation, S3\n\n\n\n\nCivil Service Jobs\n\n\njobs, S3\n\n\n\n\nCommittee Correspondence\n\n\ncorrespondence, S3\n\n\n\n\nCustomer Service\n\n\ncustomer service, S3\n\n\n\n\nEvaluations\n\n\nevaluation\n\n\n\n\nFCDO Annual Reports\n\n\nevaluation, S3\n\n\n\n\nGovernment Contracts\n\n\nprocurement\n\n\n\n\nGovernment Tenders\n\n\nprocurement\n\n\n\n\nGuidance and Regulation\n\n\npolicy\n\n\n\n\nHansard\n\n\nlegislation, decision making\n\n\n\n\nHouse of Commons data\n\n\nlegislation\n\n\n\n\nJuly 2023 Heatwave Data\n\n\ncommunication, S3\n\n\n\n\nParliament API\n\n\nlegislation, decision making\n\n\n\n\nPolicy Papers\n\n\npolicy, legislation\n\n\n\n\nSynthetic Write-around\n\n\npolicy, legislation\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "newsletters.html",
@@ -642,5 +642,26 @@
     "title": "Evidence House",
     "section": "",
     "text": "No matching items"
+  },
+  {
+    "objectID": "events/big-llm-hack-24/data/correspondence.html",
+    "href": "events/big-llm-hack-24/data/correspondence.html",
+    "title": "Ministerial Correspondence",
+    "section": "",
+    "text": "Thanks to our partners at the National Archives, we will provide a dataset of PDF files containing historical correspondence.\nThe dataset will be available on the S3 bucket."
+  },
+  {
+    "objectID": "events/big-llm-hack-24/imperial-llm-hack-event.html#datasets",
+    "href": "events/big-llm-hack-24/imperial-llm-hack-event.html#datasets",
+    "title": "10x AI Hackathon",
+    "section": "Datasets",
+    "text": "Datasets\nWe’ve prepared a selection of datasets for the event, and these can be viewed on our datasets page.\nWhere data has been pre-prepared, we have hosted it on a S3 bucket - we will provide access and details on the day of the hack."
+  },
+  {
+    "objectID": "events/big-llm-hack-24/data.html",
+    "href": "events/big-llm-hack-24/data.html",
+    "title": "Evidence House",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nCategories\n\n\n\n\n\n\nMinisterial Correspondence\n\n\ncorrespondence\n\n\n\n\n\nNo matching items"
   }
 ]

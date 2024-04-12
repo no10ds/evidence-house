@@ -29,9 +29,9 @@ Expect more information in the next few days.
 
 ## Agenda (TBC)
 
-## Datasets (TBC)
+## Datasets
 We've prepared a selection of datasets for the event, and these can be viewed on our [datasets page.](data.qmd)
 
-Where data has been pre-prepared, we have hosted it on a public S3 bucket. You can find out more about using the data [through this handy guide.](data_guide.qmd)
+Where data has been pre-prepared, we have hosted it on a S3 bucket - we will provide access and details on the day of the hack.
 
 ## Tools and Resources (TBC)

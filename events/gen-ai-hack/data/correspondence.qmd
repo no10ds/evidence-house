@@ -1,7 +1,7 @@
 ---
 title: "Committee Correspondence"
 categories:
-    - policy
+    - correspondence
     - S3
 ---
 

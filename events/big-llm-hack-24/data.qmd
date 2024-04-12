@@ -1,0 +1,12 @@
+---
+format: html
+listing:
+  contents: data
+  fields: [title, categories]
+  categories: true
+  type: table
+  filter-ui: [title]
+  sort:
+    - "title asc"
+---
+

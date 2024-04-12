@@ -739,7 +739,7 @@
     "href": "events/big-llm-hack-24/challenges/situations/situations.html#situations-and-crises",
     "title": "Problem 2 - Emerging Situations and Crises",
     "section": "Situations and Crises",
-    "text": "Situations and Crises\nUnderstanding media coverage / public sentiment around major events so that we communicate effectively"
+    "text": "Situations and Crises\nManaging emerging situations and crises"
   },
   {
     "objectID": "events/big-llm-hack-24/challenges/situations/situations.html#data",
@@ -789,5 +789,33 @@
     "title": "10x AI Hackathon",
     "section": "Agenda",
     "text": "Agenda"
+  },
+  {
+    "objectID": "events/big-llm-hack-24/challenges/meetings/meetings.html#meetings",
+    "href": "events/big-llm-hack-24/challenges/meetings/meetings.html#meetings",
+    "title": "Problem 5 - Meetings and Transcription",
+    "section": "Meetings",
+    "text": "Meetings\nEnsuring we obtain insight and actions from the most senior meetings"
+  },
+  {
+    "objectID": "events/big-llm-hack-24/challenges/meetings/meetings.html#data",
+    "href": "events/big-llm-hack-24/challenges/meetings/meetings.html#data",
+    "title": "Problem 5 - Meetings and Transcription",
+    "section": "Data",
+    "text": "Data"
+  },
+  {
+    "objectID": "events/big-llm-hack-24/challenges/projects/projects.html#major-projects",
+    "href": "events/big-llm-hack-24/challenges/projects/projects.html#major-projects",
+    "title": "Problem 6 - Major Projects",
+    "section": "Major Projects",
+    "text": "Major Projects\nEnsuring major projects are tracked, delivered and impactive"
+  },
+  {
+    "objectID": "events/big-llm-hack-24/challenges/projects/projects.html#data",
+    "href": "events/big-llm-hack-24/challenges/projects/projects.html#data",
+    "title": "Problem 6 - Major Projects",
+    "section": "Data",
+    "text": "Data"
   }
 ]

@@ -1,0 +1,10 @@
+---
+title: "Problem 5 - Meetings and Transcription"
+---
+
+![](meetings.png){width=100%}
+
+## [Meetings](meetings.pdf)
+Ensuring we obtain insight and actions from the most senior meetings
+
+## [Data](/events/big-llm-hack-24/data.qmd#category=meetings)

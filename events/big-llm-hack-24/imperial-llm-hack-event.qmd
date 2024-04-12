@@ -13,21 +13,23 @@ Before you attend, [make sure you're ready to hit the ground running on day 1!](
 ## Key Challenges
 How could we use AI to...
 
-1. [**Ministerial Correspondence :**](challenges/correspondence/correspondence.qmd) Understand and respond to the most critical correspondence?
-2. [**Emerging Situations and Crises :**](challenges/situations/situations.qmd) Identify, analyse and manage emerging crises and situations?
-3. [**Legislation :**](challenges/legislation/legislation.qmd) Write better legislation, with better evidence, that's better understood?
-4. [**Communications :**](challenges/communications/communications.qmd)  Communicate and understand the public, and help the public communicate with government?
-5. **Meetings and Transcription :** Understand how to safely use, deploy and test AI systems?
-6. **Manage Major Projects :** Track, measure, manage major government projects to ensure they're delivered on time?
-7. [**Grants and awards :**](challenges/grants/grants.qmd)  Improve how governmetn distributes grands and awards?
-8. **Skills :** Make sure everyone is equipped with the skills and capabilities to make the most of the AI revolution?
+1. [**Ministerial Correspondence :**](challenges/correspondence/correspondence.qmd) Help governmetn and No10 manage and act upon incoming correspondence
+2. [**Emerging Situations and Crises :**](challenges/situations/situations.qmd) Help the National Situation Centre react to new and emerging biosafety threats
+3. [**Legislation :**](challenges/legislation/legislation.qmd) Write better legislation, with better evidence, that's better understood
+4. [**Communications :**](challenges/communications/communications.qmd)  Brief the Prime Minister and help us deliver effective and informative communications
+5. **Meetings and Transcription :** Understand, digest, summarise and share information from meetings across the civil service
+6. **Manage Major Projects :** Measure, manage and deliver major projects
+7. [**Grants and awards :**](challenges/grants/grants.qmd)  Ensure government effectively distributes grants and financial assistance tot hose who need it
+8. **Skills :** Make sure the UK economy is ready for the AI led skills revolution
 
 ## Teams
 Each team will be randomly assigned 3 problems, and we'll be asking you to decide on one to focus your tool on at the end of day 1!
 
 Expect more information in the next few days.
 
-## Agenda (TBC)
+## Agenda
+
+![](schedule.png){width=100vw}
 
 ## Datasets
 We've prepared a selection of datasets for the event, and these can be viewed on our [datasets page.](data.qmd)

@@ -4,8 +4,11 @@
     "items": [
       "/events/big-llm-hack-24/data/companies_house.html",
       "/events/big-llm-hack-24/data/find_a_grant.html",
+      "/events/big-llm-hack-24/data/gov_projects.html",
       "/events/big-llm-hack-24/data/legislation.html",
       "/events/big-llm-hack-24/data/correspondence.html",
+      "/events/big-llm-hack-24/data/ojo_data.html",
+      "/events/big-llm-hack-24/data/global_projects.html",
       "/events/big-llm-hack-24/data/spotlight.html"
     ]
   },

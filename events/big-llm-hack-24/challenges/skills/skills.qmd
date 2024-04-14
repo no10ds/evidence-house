@@ -1,0 +1,10 @@
+---
+title: "Problem 8 - Skills"
+---
+
+![](skills.png){width=100%}
+
+## [Skills](skills.pdf)
+*Make sure the UK economy is ready for the AI led skills revolution*
+
+## [Data](/events/big-llm-hack-24/data.qmd#category=skills)

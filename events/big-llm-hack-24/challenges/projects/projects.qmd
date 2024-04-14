@@ -4,7 +4,13 @@ title: "Problem 6 - Major Projects"
 
 ![](projects.png){width=100%}
 
-## [Major Projects](projects.pdf)
-Ensuring major projects are tracked, delivered and impactive
+## [Projects](projects.pdf)
+*Provide insights into the status of the government’s largest projects*
+
+You may want to think about the following areas: 
+- Can you detect similarities between projects?
+- Can you build an early warning system for problematic projects?
+- How could you make it easier for officials to navigate the data available to them?
+
 
 ## [Data](/events/big-llm-hack-24/data.qmd#category=projects)

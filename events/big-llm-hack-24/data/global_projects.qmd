@@ -1,0 +1,13 @@
+---
+title: "Oxford Global Projects Data"
+categories:
+    - projects
+---
+
+The IPA collects project delivery data from other leading institutions. Here you can find data from Bent Flyvbjerg’s company Oxford Global Projects. Bent is an expert in project delivery and author of the award winning book How big things get done. 
+
+The data is available via the S3 bucket, [or through this link.](OGP_rail.csv)
+
+This dataset contains historical data about the performance of some of the largest infrastructure projects in the world.
+
+Please note this project is provided for the hackathon - please do not share  the data to non-hackathon participants, and delete it from your devices at the conclusion of the event.

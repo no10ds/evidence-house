@@ -1,0 +1,9 @@
+---
+title: "OJO Job Adverts"
+categories:
+    - skills
+---
+
+OJO Job Advert data provided by NESTA.
+
+[Data descriptions as well as access are available here.](ojo_data_summary.pdf)

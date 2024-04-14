@@ -1,0 +1,11 @@
+---
+title: "GOV.UK Major Projects Data"
+categories:
+    - projects
+---
+
+The IPA holds data about the government’s major projects. We make the headline figures available to the public.
+  
+You can find annual data by department here: https://www.gov.uk/government/collections/major-projects-data
+
+You can find links to each annual report on the above page, which contain government wide data for each year. 

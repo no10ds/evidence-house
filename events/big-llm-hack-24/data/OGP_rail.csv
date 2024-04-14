@@ -1,0 +1,1376 @@
+,Project ID,Project Name,Project Type,Project Subtype,Country Name,Country Code (ISO3),Region,Decision to Build or FBC (YYYY),Completion/Opening (YYYY),Completion/Opening (DD/MM/YYYY),"Actual Cost, millions (local currency)","Currency, Year (Actual Cost)",Mainline Length (km),Number of Stations (Rail only)
+0,10,Kerava- Lahti Railway,Rail,Conventional,Cross-border (finland/russia),FIN,Europe,2002.0,2006,,477.2612016,"USD, 2019",78,3
+1,23,Arctic Railway,Rail,Conventional,Cross-border,,,,,,,,,
+2,34,AYaM,Rail,Arctic Railway,Russian Federation,RUS,Europe,,,,,,,
+3,44,Rovaniemi-Kemijarvi Railway,Rail,Conventional,Finland,FIN,Europe,,,,,,85,
+4,45,Baikal Amurskaya (BAM),Rail,Non-conventional intercity rail,Russian Federation,RUS,Europe,1974.0,2003,,177087.4248,"USD, 2019",4324,200
+5,54,Trans-Siberian Railway,Rail,Non-conventional intercity rail,Russian Federation,RUS,Europe,1837.0,1851,,,,9289,
+6,59,White Pass & Yukon Railway (WP&YR),Rail,Arctic Railway,United States of America,USA,North America,1898.0,1900,,10.0,"USD, 2019",177,
+7,1328,Thameslink Programme,Rail,Conventional,United Kingdom,GBR,Europe,,2019,7/1/2019,7269.4,"GBP, 2019",225,
+8,1333,Intercity Express Programme,Rail,Rolling stock,United Kingdom,GBR,Europe,,,,6576.85,"GBP, 2019",,
+9,1340,NET Phase Two (Notingham Tram),Rail,Light Rail Transit,United Kingdom,GBR,Europe,,,8/10/2015,538.0,"GBP, 2019",18,28
+10,1355,South West Route Capacity,Rail,Rolling stock,United Kingdom,GBR,Europe,,,,747.7,"GBP, 2019",,
+11,1362,Coventry - Nuneaten rail line upgrade,Rail,Conventional,United Kingdom,GBR,Europe,,2016,1/1/2016,23.0,GBP 2016,16,2
+12,1371,Crossrail Programme,Rail,Metro,United Kingdom,GBR,Europe,,2023,5/21/2023,18900.0,"GBP, 2022",118,10
+13,7644,"Baltimore BWI, Hunt Valley, Penn Station LRT extensions, 1991-1997",Rail,Light rail,United States of America,USA,North America,1991.0,1997,1/1/1997,116.2,"USD, 1995",11.7,8
+14,10094,Lille VAL RT,Rail,Metro,France,FRA,Europe,,1988,1/1/1988,1624.0,"USD, 2002",,
+15,10414,Marseille Line 1 extension,Rail,Metro,France,FRA,Europe,,2006,1/1/2006,175.4,"EUR, 2006",2.5,4
+16,10938,"San Francisco Colma BART station, 1988-1996",Rail,Heavy Rail,United States of America,USA,North America,1988.0,1996,2/1/1996,179.9,"USD, 1996",1.5,1
+17,11499,Houston Red Line (Original),Rail,Light Rail Transit,United States of America,USA,North America,,2004,1/1/2004,324.0,"USD, 2003",12.1,16
+18,11508,Karlsruhe Bretten light rail,Rail,Light rail,Germany,DEU,Europe,1981.0,1992,9/1/1992,23.00813465,"EUR, 1995",28.2,8
+19,11509,Karlsruhe Stutensee light rail,Rail,Light rail,Germany,DEU,Europe,1991.0,1997,1/1/1997,18.40650772,"EUR, 1995",,
+20,11510,Houston Red Line Extension,Rail,Light Rail Transit,United States of America,USA,North America,2009.0,2013,12/1/2013,756.0,"USD, 2011",8.5,8
+21,11511,"Kävlinge–Lund, 2005",Rail,Conventional,Sweden,SWE,Europe,1994.0,2005,1/1/2005,962.0,"SEK, 2005",,
+22,11519,"Kolbäck, 2007",Rail,Shunting yard,Sweden,SWE,Europe,1998.0,2007,1/1/2007,287.3,"SEK, 2007",,
+23,11520,Kowloon Souther Link (KSL),Rail,Metro,"China, Hong Kong Special Administrative Region",HKG,Asia,,2009,8/16/2009,1386.104419,"HKD, 2009",3.8,3
+24,11526,"Kuala Lumpur, Ampang Line, 1996/1998 (Star, Kuala Lumpur)",Rail,Conventional,Malaysia,MYS,Asia,,1996,12/1/1996,,,27,
+25,11527,"Kuala Lumpur, Kelana Jaya Line, 1998 (Putra LRT, Kuala Lumpur)",Rail,Conventional,Malaysia,MYS,Asia,,1998,9/1/1998,,,29,37
+26,11528,"Kuala Lumpur, Klia Airport Express, 1990-2002 (Kuala Lumpur)",Rail,Airport rail link,Malaysia,MYS,Asia,1990.0,2002,4/1/2002,,,57,3
+27,11530,Kusfors,Rail,Conventional,Sweden,SWE,Europe,1989.0,1994,1/1/1994,191.0,"SEK, 1994",,
+28,11531,Kust till kustbanan,Rail,Conventional,Sweden,SWE,Europe,,1994,1/1/1994,,,,
+29,11532,Leipzig City Tunnel,Rail,Metro,Germany,DEU,Europe,2003.0,2013,12/1/2013,960.0,"EUR, 2008",3.6,4
+30,11534,Kwun Tong Line Extension (KTE),Rail,Metro,"China, Hong Kong Special Administrative Region",HKG,Asia,2011.0,2016,11/23/2016,7200.0,"HKD, 2016",2.6,2
+31,11541,Lantau Airport Railway (LAR),Rail,Metro,"China, Hong Kong Special Administrative Region",HKG,Asia,1994.0,1998,,7376.816799,,34.8,9
+32,11558,Lee08 01,Rail,"5 conv, 1 hsr, 10 subway",Republic of Korea,KOR,Asia,,,,,,,
+33,11565,Los Angeles  Gold Line - LA to Pasadena,Rail,Light Rail Transit,United States of America,USA,North America,2000.0,2003,7/1/2003,721.0,"USD, 2002",22.1,13
+34,11570,Lee08 02,Rail,"5 conv, 1 hsr, 10 subway",Republic of Korea,KOR,Asia,,,,,,,
+35,11576,Los Angeles  Gold Line Foothill Extension Phase 2A,Rail,Light Rail Transit,United States of America,USA,North America,2010.0,2016,3/1/2016,714.0,"USD, 2013",18.5,6
+36,11582,Lee08 03,Rail,"5 conv, 1 hsr, 10 subway",Republic of Korea,KOR,Asia,,,,,,,
+37,11587,Los Angeles Expo Line Phase 1,Rail,Light Rail Transit,United States of America,USA,North America,2006.0,2012,4/1/2012,960.0,"USD, 2009",13.8,10
+38,11594,Lee08 04,Rail,"5 conv, 1 hsr, 10 subway",Republic of Korea,KOR,Asia,,,,,,,
+39,11598,Los Angeles Expo Line Phase 2,Rail,Light Rail Transit,United States of America,USA,North America,2011.0,2016,5/1/2016,1288.0,"USD, 2014",10.6,7
+40,11606,Lee08 05,Rail,"5 conv, 1 hsr, 10 subway",Republic of Korea,KOR,Asia,,,,,,,
+41,11610,Los Angeles Green Line,Rail,Light Rail Transit,United States of America,USA,North America,,1995,8/1/1995,718.0,"USD, 1993",31.4,14
+42,11619,Lee08 06,Rail,"5 conv, 1 hsr, 10 subway",Republic of Korea,KOR,Asia,,,,,,,
+43,11621,Los Angeles Red (B) Line Phase 2A and 2B,Rail,Heavy Rail,United States of America,USA,North America,,1999,6/1/1999,1687.0,"USD, 1994",10.7,8
+44,11631,Lee08 07,Rail,"5 conv, 1 hsr, 10 subway",Republic of Korea,KOR,Asia,,,,,,,
+45,11632,Los Angeles Red (B) Line Phase 3,Rail,Heavy Rail,United States of America,USA,North America,,2000,6/1/2000,1240.0,"USD, 1997",10.4,3
+46,11643,Lyon Line A to Vaulx (extension from Laurent Bonnevay to Vaulx),Rail,Metro,France,FRA,Europe,2005.0,2007,10/1/2007,53.0,"EUR, 2006",1,1
+47,11644,Lee08 08,Rail,"5 conv, 1 hsr, 10 subway",Republic of Korea,KOR,Asia,,,,,,,
+48,11654,"Lyon Line B (extension from Stade de Gerland to Oullins, incl. tunnel under Rhone)",Rail,Metro,France,FRA,Europe,,2013,12/1/2013,222.0,"EUR, 2011",1.7,1
+49,11656,Lee08 09,Rail,"5 conv, 1 hsr, 10 subway",Republic of Korea,KOR,Asia,,,,,,,
+50,11665,Lyon Line T1,Rail,Metro,France,FRA,Europe,,2001,1/1/2001,178.0,"EUR, 2000",9.5,22
+51,11669,Lee08 10,Rail,"5 conv, 1 hsr, 10 subway",Republic of Korea,KOR,Asia,,,,,,,
+52,11676,Lyon Line T2,Rail,Metro,France,FRA,Europe,,2001,1/1/2001,202.0,"EUR, 2000",10,20
+53,11681,Lee08 11,Rail,"5 conv, 1 hsr, 10 subway",Republic of Korea,KOR,Asia,,,,,,,
+54,11687,Madrid 1995-98 program,Rail,Metro,Spain,ESP,Europe,1995.0,1999,3/1/1999,1569.0,"USD, 1997",56.3,34
+55,11693,Lee08 12,Rail,"5 conv, 1 hsr, 10 subway",Republic of Korea,KOR,Asia,,,,,,,
+56,11698,Madrid 1999-2003 program,Rail,Metro,Spain,ESP,Europe,1999.0,2003,3/1/2003,3157.0,"EUR, 2001",74.7,39
+57,11705,Lee08 13,Rail,"5 conv, 1 hsr, 10 subway",Republic of Korea,KOR,Asia,,,,,,,
+58,11709,Madrid Chamartin-Atocha tunnel,Rail,Conventional,Spain,ESP,Europe,2003.0,2008,7/1/2008,550.0,"EUR, 2006",7.5,3
+59,11716,Lee08 14,Rail,"5 conv, 1 hsr, 10 subway",Republic of Korea,KOR,Asia,,,,,,,
+60,11717,Lee08 15,Rail,"5 conv, 1 hsr, 10 subway",Republic of Korea,KOR,Asia,,,,,,,
+61,11718,Lee08 16,Rail,"5 conv, 1 hsr, 10 subway",Republic of Korea,KOR,Asia,,,,,,,
+62,11721,Madrid Line 2 extension,Rail,Metro,Spain,ESP,Europe,,2011,3/1/2011,315.0,"EUR, 2010",4.6,4
+63,11722,Leiden-Den Haag Mariahoeve 4-sporig fase2,Rail,Conventional,Netherlands,NLD,Europe,1992.0,1998,1/1/1998,129.02,"EUR, 1995",11.5,
+64,11723,"Lekarekulle–Frillesås, 2005",Rail,Conventional,Sweden,SWE,Europe,1994.0,2005,1/1/2005,635.0,"SEK, 2005",9.13,
+65,11729,"Liempde-Eindhoven, 4-sporig",Rail,Conventional,Netherlands,NLD,Europe,1996.0,2002,1/1/2002,241.6,"EUR, 1995",16.5,
+66,11732,Madrid Line 9 extension,Rail,Metro,Spain,ESP,Europe,2009.0,2015,3/1/2015,191.0,"EUR, 2012",3,2
+67,11734,"Lindenwold transit, 1962-1970",Rail,Conventional,United States of America,USA,North America,1962.0,1970,1/1/1970,125.8,"USD, 1970",,
+68,11737,"Liupanshui-Shuicheng Guizhou Shuibai Line, 1998-2004",Rail,Conventional,China,CHN,Asia,1998.0,2004,12/1/2004,3003.7,"CNY, 1998",118.6,
+69,11740,"London Jubilee Line extension, 1993-1999",Rail,Metro,United Kingdom,GBR,Europe,1991.0,1999,12/1/1999,3600.0,"GBP, 2008",16,13
+70,11742,"London Victoria line, questionnaire",Rail,Metro,United Kingdom,GBR,Europe,1955.0,1972,11/1/1972,70.0,"GBP, 1962",21,16
+71,11743,Madrid ML1,Rail,Metro,Spain,ESP,Europe,,2007,5/1/2007,277.0,"EUR, 2006",5.4,9
+72,11744,London-Heathrow; Heathrow Express (110930 cantarelli em flyvbjerg),Rail,Airport rail link,United Kingdom,GBR,Europe,,1998,1/1/1998,350.0,GBP 1998,26.55,
+73,11748,"Los Angeles Blue Line, 1984-1990",Rail,Light rail,United States of America,USA,North America,1984.0,1990,7/1/1990,877.0,"USD, 1987",33.8,22
+74,11749,"Los Angeles Red Line (MOS 1), 1983-1993; 110804 krause em bf;",Rail,Conventional,United States of America,USA,North America,1983.0,1993,1/1/1993,1490.0,"USD, 1991",7.2,5
+75,11750,"Los Angeles Red Line (MOS 2), 1983-1996; 110804 krause em bf;",Rail,Conventional,United States of America,USA,North America,1983.0,1996,1/1/1996,1920.0,"USD, 1994",10,8
+76,11751,"Los Angeles Red Line (MOS 3), 1983-1997; 110804 krause em bf;",Rail,Conventional,United States of America,USA,North America,1983.0,1997,1/1/1997,1230.0,"USD, 1995",10.1,
+77,11752,"Los Angeles-Pasadena Gold Line, 1993-2003; 110804 krause em bf; DOUBLET, PREFFERED DATAPOINT",Rail,Conventional,United States of America,USA,North America,1993.0,2003,1/1/2003,677.6,"USD, 2001",31.7,21
+78,11754,Madrid ML2,Rail,Metro,Spain,ESP,Europe,,2007,7/1/2007,283.0,"EUR, 2006",8.7,13
+79,11758,Lyon Line D,Rail,Metro,France,FRA,Europe,,1991,1/1/1991,1113.0,"USD, 2002",14,15
+80,11759,Lysaker stasjon,Rail,Conventional,Norway,NOR,Europe,,,1/1/2005,1156.0,"NOK, 2013",,
+81,11765,Madrid ML3,Rail,Metro,Spain,ESP,Europe,,2007,7/1/2007,286.0,"EUR, 2006",13.7,14
+82,11776,Madrid Parla Tram (ML4),Rail,Metro,Spain,ESP,Europe,,2008,5/1/2008,140.0,"EUR, 2007",8.4,15
+83,11787,Malaga Lines 1-2,Rail,Metro,Spain,ESP,Europe,,2014,7/1/2014,870.0,"EUR, 2010",11.3,17
+84,11820,Manchester Eccles Line,Rail,Light Rail Transit,United Kingdom,GBR,Europe,1997.0,2000,9/1/2000,160.0,"GBP, 1999",6.4,11
+85,11832,Miami AirportLink metrorail,Rail,Heavy Rail,United States of America,USA,North America,,2012,7/1/2012,506.0,"USD, 2011",3.8,1
+86,11836,Ma On Shan Rail,Rail,Metro,"China, Hong Kong Special Administrative Region",HKG,Asia,2001.0,2004,12/21/2004,3747.557658,"HKD, 2004",11.4,
+87,11843,Milan Line 5 phase 1,Rail,Metro,Italy,ITA,Europe,2007.0,2013,2/1/2013,557.0,"EUR, 2013",6.1,9
+88,11848,"Manila Metrostar Express, 1996-1999/2000 (MRT-3) (, Manila)",Rail,Light Rail Transit,Philippines,PHL,Asia,1996.0,2000,7/20/2000,2920.0,"PHP, 2001",16.8,13
+89,11849,"Manila LRT 2, 1995-2003",Rail,Light Rail Transit,Philippines,PHL,Asia,1995.0,2003,4/5/2003,346.37,"PHP, 2009",17.6,13
+90,11850,"Manilla LRT-1, 1984",Rail,Light Rail Transit,Philippines,PHL,Asia,,1984,12/1/1984,,,15,20
+91,11852,"Marieholm - Olskroken, 2007",Rail,Conventional,Sweden,SWE,Europe,2004.0,2007,1/1/2007,312.8,"SEK, 2007",,
+92,11854,Milan Line 5 phase 2,Rail,Metro,Italy,ITA,Europe,,2015,11/1/2015,796.0,"EUR, 2015",6.5,10
+93,11856,Marseille Lines 1-2,Rail,Metro,France,FRA,Europe,,1992,1/1/1992,,,19.6,24
+94,11865,Milan Passante Railway,Rail,Commuter Rail,Italy,ITA,Europe,1984.0,2008,6/7/2008,915.0,"EUR, 2008",7.8,10
+95,11868,"Memphis Medical Center LRT Extension, 1997-2004",Rail,Light rail,United States of America,USA,North America,1997.0,2004,3/1/2004,58.1,"USD, 2004",3.14,6
+96,11871,"Mexico City Metro Line 3, Indios Verdes to Universidad Possible overlap with Merewitz data",Rail,Metro,Mexico,MEX,South America,1967.0,1970,11/1/1970,1346.0,"USD, 1994",23.6,21
+97,11873,"Mexico City Metro Line 5, Pantitlán to Politécnico",Rail,Metro,Mexico,MEX,South America,1980.0,1981,12/1/1981,979.0,"USD, 1994",15.7,13
+98,11874,"Mexico City Metro Line 6, El Rosario to Martín Carrera",Rail,Metro,Mexico,MEX,South America,1983.0,1983,12/1/1983,651.0,"USD, 1994",13.9,11
+99,11875,"Mexico City Metro Line 7,  El Rosario to Barranca del Muerto",Rail,Metro,Mexico,MEX,South America,1983.0,1984,12/1/1984,813.0,"USD, 1994",18.8,14
+100,11876,Minneapolis Metro Blue Line (light rail),Rail,Light Rail Transit,United States of America,USA,North America,,2004,6/1/2004,672.0,"USD, 2003",19.3,19
+101,11877,"Mexico City Metro Line 8, Garibaldi to Constitución de 1917",Rail,Metro,Mexico,MEX,South America,,1994,7/1/1994,1199.0,"USD, 1994",20.078,19
+102,11878,"Mexico City Metro Line 9, Pantitlán to Tacubaya",Rail,Metro,Mexico,MEX,South America,1985.0,1987,8/1/1987,836.0,"USD, 1994",15.4,12
+103,11879,"Mexico City Metro Line A, Patitlán to La Paz",Rail,Metro,Mexico,MEX,South America,,1991,1/1/1991,516.0,"USD, 1994",17.3,10
+104,11880,Mexico City Metro Line B,Rail,Metro,Mexico,MEX,South America,,2000,1/1/2000,,,23.7,
+105,11881,"Mexico City Metro Line B, Ciudad Azteca to Buenavista",Rail,Metro,Mexico,MEX,South America,,2000,1/1/2000,,,23.7,21
+106,11883,"Miami DPM, 1980-1986",Rail,Conventional,United States of America,USA,North America,1980.0,1986,4/1/1986,175.0,"USD, 1988",3.2,9
+107,11884,"Miami metro, 1978-1985; correct: 1977-1985",Rail,Heavy Rail,United States of America,USA,North America,1978.0,1988,1/1/1988,1341.0,"USD, 1988",33.8,20
+108,11885,"Miami Omni and Brickell AGT extensions, 1987-1994",Rail,Light rail,United States of America,USA,North America,1987.0,1994,5/1/1994,228.0,"USD, 1991",4,12
+109,11886,"Miami South Florida Tri-Rail Double Tracking Segment 5, 1998-2007",Rail,Heavy Rail,United States of America,USA,North America,1998.0,2007,6/1/2007,345.6,"USD, 2004",71.7,11
+110,11887,Minneapolis Metro Green Line (light rail),Rail,Light Rail Transit,United States of America,USA,North America,,2014,6/1/2014,957.0,"USD, 2012",15.8,23
+111,11889,"Minneapolis, Twin Cities Hiawatha LRT Corridor, DOUBLET, Preferred, 1982-2004",Rail,Light rail,United States of America,USA,North America,1982.0,2004,12/1/2004,696.7,"USD, 2003",19.31,17
+112,11890,"Mjölby bangårds-ombyggnad, 2006",Rail,Shunting yard,Sweden,SWE,Europe,1994.0,2006,1/1/2006,486.0,"SEK, 2006",,
+113,11893,Montreal metro,Rail,Metro,Canada,CAN,North America,1961.0,1967,1/1/1967,151.1,"USD, 1967",,
+114,11895,Moordrecht-Gouda hoge brug en 4-sporig,Rail,Conventional,Netherlands,NLD,Europe,1987.0,1997,1/1/1997,75.64,"EUR, 1995",5.5,
+115,11896,"Morgantown Personal Rapid Transit, U West Virginia, 1970-1976",Rail,Conventional,United States of America,USA,North America,1970.0,1976,1/1/1976,319.0,"USD, 2004",5.8,5
+116,11898,Montpellier Line 1,Rail,Metro,France,FRA,Europe,,2000,7/1/2000,375.0,"EUR, 1999",15.2,29
+117,11909,Montpellier Line 2,Rail,Metro,France,FRA,Europe,,2006,12/1/2006,455.0,"EUR, 2006",20,33
+118,11920,Montreal Metro Laval extension,Rail,Heavy Rail,Canada,CAN,North America,,2007,4/1/2007,745.0,"CAD, 2005",5.2,3
+119,11931,Murcia Line 1 and Line 1B,Rail,Light rail,Spain,ESP,Europe,,2011,5/1/2011,264.0,"EUR, 2009",17.5,28
+120,11943,Nantes Line 3,Rail,Metro,France,FRA,Europe,,2000,8/1/2000,87.0,"EUR, 2003",4.6,12
+121,11954,New York 7 extension,Rail,Heavy Rail,United States of America,USA,North America,,2015,9/1/2015,2420.0,"USD, 2011",1.6,1
+122,12009,Orleans Line A,Rail,Metro,France,FRA,Europe,,2000,11/1/2000,317.0,"EUR, 1999",17.7,24
+123,12020,Oslo Løren Line,Rail,Metro,Norway,NOR,Europe,,2016,4/1/2016,1330.0,"NOK, 2015",1.6,1
+124,12031,Ottawa Confederation,Rail,Light Rail Transit,Canada,CAN,North America,,2019,9/1/2019,2100.0,"CAD, 2016",12.5,13
+125,12042,Paris Line 12 to Front Populaire (extension),Rail,Metro,France,FRA,Europe,,2012,12/1/2012,295.0,"EUR, 2010",1.5,1
+126,12054,Paris Line 13 to Courtilles,Rail,Metro,France,FRA,Europe,2005.0,2008,6/14/2008,236.0,"EUR, 2009",1.9,2
+127,12065,Paris Line 14 - Madeleine to Francois Mitterand Library,Rail,Metro,France,FRA,Europe,1989.0,1998,10/1/1998,,"EUR, 1994",8.7,7
+128,12076,Paris Line 14 (Meteor) - Bibliothèque François Mitterrand  to Olympiades Extension,Rail,Metro,France,FRA,Europe,,2007,6/1/2007,105.0,"EUR, 1999",0.7,1
+129,12087,Paris Line 14 - Madeleine to  St. Lazare Extension,Rail,Metro,France,FRA,Europe,,2003,12/1/2003,,"EUR, 2001",0.7,1
+130,12098,Paris Line 4 to Montrouge,Rail,Metro,France,FRA,Europe,,2013,3/1/2013,185.0,"EUR, 2010",1.5,1
+131,12109,Paris Line 8  Créteil to Pointe-du-Lac,Rail,Metro,France,FRA,Europe,,2011,10/1/2011,83.0,"EUR, 2009",1.3,1
+132,12120,Paris Tram 1 - Extension Les Courtilles to Asnieres Quatre-Routes (Phase 1),Rail,Light rail,France,FRA,Europe,,2019,10/1/2019,34.0,"EUR, 2018",0.9,1
+133,12131,Paris Tram 1 - Extension to Gennevilliers,Rail,Light rail,France,FRA,Europe,,2012,11/1/2012,150.0,"EUR, 2011",4.9,1
+134,12142,Paris Tram 1 - Extension to Noisy-le-Sec,Rail,Light rail,France,FRA,Europe,,2003,12/1/2003,29.0,"EUR, 2001",2.9,5
+135,12153,Paris Tram 1 Initial Segment,Rail,Light rail,France,FRA,Europe,,1992,7/1/1992,141.0,"EUR, 1991",9,21
+136,12165,Paris Tram 11,Rail,Light rail,France,FRA,Europe,,2017,7/1/2017,1000.0,"EUR, 2013",10.6,7
+137,12176,Paris Tram 2 - Extension to Pont de Bezons,Rail,Light rail,France,FRA,Europe,,2012,11/1/2012,223.0,"EUR, 2010",4.2,7
+138,12185,"NBS Cologne-Rhine/Main line (Frankfurt-Cologne ICE), Germany",Rail,Highspeed,Germany,DEU,Europe,,2002,1/1/2002,,,177,
+139,12186,NBS Hannover Würzburg,Rail,Highspeed,Germany,DEU,Europe,1975.0,1991,1/1/1991,5343.000159,"EUR, 1995",327,
+140,12187,Paris Tram 2 - Extension to Porte de Versailles,Rail,Light rail,France,FRA,Europe,,2009,11/1/2009,93.0,"EUR, 2007",2.3,4
+141,12192,New Starts projekter USA,Rail,Conventional,United States of America,USA,North America,,,,,,,
+142,12195,New York Airtrain,Rail,Airtrain,United States of America,USA,North America,,2003,12/1/2003,,,13.5,
+143,12196,"Newark Elizabeth Rail Link MOS-1, 1997-2006",Rail,Light rail,United States of America,USA,North America,1997.0,2006,7/1/2006,207.7,"USD, 2004",1.61,4
+144,12198,Paris Tram 2 - Initial,Rail,Light rail,France,FRA,Europe,,1997,7/1/1997,105.0,"EUR, 1995",11.4,13
+145,12209,Paris Tram 3a - initial,Rail,Light rail,France,FRA,Europe,,2006,12/1/2006,229.0,"EUR, 2007",7.9,17
+146,12220,Paris Tram 4 - branch  to Montfermeil,Rail,Light rail,France,FRA,Europe,,2019,12/1/2019,270.0,"EUR, 2018",6.6,11
+147,12231,Paris Tram 5,Rail,Light rail,France,FRA,Europe,,2013,7/1/2013,159.0,"EUR, 2010",6.6,16
+148,12242,Paris Tram 6 (initial + extension),Rail,Light rail,France,FRA,Europe,,2016,5/1/2016,385.0,"EUR, 2013",14,21
+149,12253,Paris Tram 7,Rail,Light rail,France,FRA,Europe,,2013,11/1/2013,292.0,"EUR, 2011",11.2,18
+150,12264,Paris Tram 8,Rail,Light rail,France,FRA,Europe,,2014,12/1/2014,250.0,"EUR, 2012",8.5,17
+151,12276,Phoenix Central Mesa Extension,Rail,Light Rail Transit,United States of America,USA,North America,2012.0,2015,8/1/2015,197.0,"USD, 2015",5,4
+152,12287,Phoenix Gilbert Road Extension,Rail,Light Rail Transit,United States of America,USA,North America,2016.0,2019,5/1/2019,184.0,"USD, 2018",3.1,2
+153,12298,Phoenix Northwest Extension Phase 1,Rail,Light Rail Transit,United States of America,USA,North America,2013.0,2016,3/1/2016,327.0,"USD, 2015",5.2,3
+154,12342,Portland Orange Line light rail,Rail,Light Rail Transit,United States of America,USA,North America,2011.0,2015,9/1/2015,1495.0,"USD, 2013",11.7,10
+155,12346,Nootdorpboog bridge,Rail,Conventional,Netherlands,NLD,Europe,2001.0,2005,1/1/2005,33.63,"EUR, 1995",1.5,
+156,12364,Rennes Metro Line A,Rail,rapid transit,France,FRA,Europe,,2002,3/1/2002,527.0,"EUR, 2000",9.5,15
+157,12373,"Nuremberg-Ingolstadt HSR, Germany",Rail,Highspeed,Germany,DEU,Europe,1994.0,2006,1/1/2006,3570.0,"EUR, 2003",89,
+158,12375,Rennes Metro Line B,Rail,rapid transit,France,FRA,Europe,,2021,9/1/2021,1194.0,"EUR, 2017",14.1,9
+159,12377,"Nybro, 2008",Rail,Conventional,Sweden,SWE,Europe,1998.0,2008,1/1/2008,108.5,"SEK, 2008",1,
+160,12384,Oslo metro,Rail,Metro,Norway,NOR,Europe,1954.0,1967,1/1/1967,71.8,"USD, 1967",84.2,
+161,12385,"Østfoldbanen Ski-Moss, expansion to double track",Rail,Conventional,Norway,NOR,Europe,1989.0,1996,1/1/1996,1563.0,"NOK, 1995",35.87,
+162,12387,Rome Line B1 (Bologna to Conca d'Oro),Rail,Metro,Italy,ITA,Europe,,2012,6/1/2012,513.0,"EUR, 2009",4,3
+163,12388,"Østfoldbanen Tveter-Kjenn, expansion to double track",Rail,Conventional,Norway,NOR,Europe,1986.0,1989,1/1/1989,112.4,"NOK, 1989",6.5,
+164,12389,"Østfoldbanen, Såstad-Haug",Rail,Conventional,Norway,NOR,Europe,1995.0,2000,6/1/2000,,,7,
+165,12390,"Ottawa North_South LRT, em fra Stephen Fanjoy, 17,12,06",Rail,Light rail,Canada,CAN,North America,,,,,,,
+166,12391,"Ottawa O-Train, em fra Stephen Fanjoy, 17,12,06",Rail,Light rail,Canada,CAN,North America,,2001,10/1/2001,,,,
+167,12392,"Öxnered–Trollhättan, 2006",Rail,Conventional,Sweden,SWE,Europe,1994.0,2006,1/1/2006,1063.0,"SEK, 2006",,
+168,12393,"Öxnered, 2005",Rail,Conventional,Sweden,SWE,Europe,1998.0,2005,1/1/2005,166.5,"SEK, 2005",,
+169,12396,Paris Auber Nanterre (RER A),Rail,Metro,France,FRA,Europe,1964.0,1971,1/1/1971,207.864235,"EUR, 1971",8,
+170,12397,Paris Charenton Ecoles -l'Echat (Paris Metro 8),Rail,Metro,France,FRA,Europe,1967.0,1969,1/1/1969,13.18683999,"EUR, 1969",,
+171,12398,Rome Line B1 (extension Porto di Roma to Jonio),Rail,Metro,Italy,ITA,Europe,2009.0,2015,4/1/2015,200.0,"EUR, 2012",1.5,1
+172,12399,Paris Gambetta Gallieni (Paris Metro 3),Rail,Metro,France,FRA,Europe,1967.0,1968,1/1/1968,20.79404595,"EUR, 1968",,
+173,12400,Paris Metro 14 (Meteor) (section 1: Madeleine - Bibliothèque François Mitterrand; section 2: Madeleine - Saint Lazare; section 3: Bibliothèque François Mitterrand - Olympiades),Rail,Metro,France,FRA,Europe,1989.0,1998,1/1/1998,197.0,"EUR, 1989",7.2,9
+174,12401,Paris Nation Boissy/St Leger (RER A),Rail,Metro,France,FRA,Europe,1964.0,1971,1/1/1971,79.25824406,"EUR, 1971",17.5,11
+175,12405,"Perth Mandurah Rail, Perth",Rail,Conventional,Australia,AUS,Oceania,,,12/23/2007,1320.0,AUD 2006,70,10
+176,12413,"Pittsburgh LRT Stage II Reconstruction, 1996-2005",Rail,Light rail,United States of America,USA,North America,1996.0,2005,1/1/2005,385.0,"USD, 2002",8.85,10
+177,12414,"Pittsburgh LRT, South Hills Reconstruction",Rail,Light rail,United States of America,USA,North America,,1987,1/1/1989,622.0,"USD, 1989",16.9,13
+178,12421,"Portland Airport MAX Extension, 1995-2001; 110804 krause em bf",Rail,Conventional,United States of America,USA,North America,1995.0,2001,1/1/2001,127.0,"USD, 2000",8.9,
+179,12422,"Portland Interstate MAX LRT Extension, 1998-2004",Rail,Light rail,United States of America,USA,North America,1998.0,2004,5/1/2004,323.6,"USD, 2004",9.3,10
+180,12425,"Porto Alegre Metro, 1976 -1985",Rail,Metro,Brazil,BRA,South America,1976.0,1985,3/1/1985,270.0,USD,33.4,17
+181,12431,Sacramento Gold Line Extension Folsom Corridor,Rail,Light Rail Transit,United States of America,USA,North America,1999.0,2005,10/1/2005,268.0,"USD, 2002",20.8,10
+182,12438,Busan Metro,Rail,Metro,Republic of Korea,KOR,Asia,1979.0,1985,,975100.0,KRW,,
+183,12440,QLD 01,Rail,Conventional,Australia,AUS,Oceania,,,,,,,
+184,12442,Sacramento Riverfront Green Line,Rail,Light Rail Transit,United States of America,USA,North America,,2012,6/1/2012,44.0,"USD, 2011",1.6,2
+185,12448,Quarry Bay Congestion Relief Works (QBR),Rail,Metro,"China, Hong Kong Special Administrative Region",HKG,Asia,1997.0,2001,,3100.0,"HKD, 1999",1.9,
+186,12453,Salt Lake City Blue Line (Original),Rail,Light Rail Transit,United States of America,USA,North America,,1999,12/1/1999,295.0,"USD, 1998",24.2,16
+187,12464,Salt Lake City Blue Line Draper Extension,Rail,Light Rail Transit,United States of America,USA,North America,,2013,8/1/2013,146.0,"USD, 2013",6.1,3
+188,12467,Randstadrail (excl bus line),Rail,extension; partly uses former heavy rail link,netherlands,NLD,Europe,2002.0,2007,10/1/2007,1141.0,"EUR, 2007",68,73
+189,12472,"Regional Fast Rail, Vic",Rail,,Australia,AUS,Oceania,,,2/3/2006,750.0,AUD 2005,500,
+190,12473,Regional Rail Link Melbourne,Rail,,Australia,AUS,Oceania,39995.0,2014,6/1/2015,3650.0,AUD 2014, 47.5,5
+191,12475,Salt Lake City Green Line (Airport Extension),Rail,Light Rail Transit,United States of America,USA,North America,,2013,8/1/2013,350.0,"USD, 2011",9.7,6
+192,12479,Riekerpolder-Schiphol-Hoofddorp; 4/6/4-sporig,Rail,passenger and freight,Netherlands,NLD,Europe,1991.0,2001,1/1/2001,382.07,"EUR, 1995",11,
+193,12480,"Riksrevisionen 2011, data for 28 proj, 110622 bf em buhl reconstruct dataset",Rail,,Sweden,SWE,Europe,,,,,,,
+194,12482,"Ringbanen, Copenhagen",Rail,rapid transit,Denmark,DNK,Europe,,,,,,,
+195,12486,Salt Lake City Green Line (West Valley Extension),Rail,Light Rail Transit,United States of America,USA,North America,,2011,8/1/2011,370.0,"USD, 2010",8.2,4
+196,12490,"Rio Metro Line 2 Extension, Rio de Janeiro, 2008 - 2009",Rail,Metro,Brazil,BRA,South America,,2009,12/1/2009,280.0,USD,1.3,
+197,12495,"Rotterdam metro (oord – Zuidlijn (North – South,  Erasmuslijn or Line A)",Rail,Metro,Netherlands,NLD,Europe,1962.0,1970,1/1/1970,168.1,"USD, 1970",,
+198,12503,RP1 Tångaberg Varberg,Rail,Highspeed,Sweden,SWE,Europe,1990.0,1998,1/1/1998,227.0,"SEK, 2002",6.4,
+199,12505,RP2 Kallhäll Kungsängen,Rail,Conventional,Sweden,SWE,Europe,1990.0,2003,1/1/2003,1535.0,"SEK, 2002",7,
+200,12506,RP3 Söderhamn Enånger,Rail,Highspeed,Sweden,SWE,Europe,1993.0,2000,8/1/2000,866.0,"SEK, 2002",30,
+201,12507,RP4 Degerön Stenstorp,Rail,Conventional,Sweden,SWE,Europe,1993.0,2001,1/1/2001,502.0,"SEK, 2002",15,
+202,12509,Salt Lake City Red Line (Original),Rail,Light Rail Transit,United States of America,USA,North America,,2001,12/1/2001,94.0,"USD, 2001",3.7,8
+203,12531,San Francisco BART Warm Springs,Rail,Heavy Rail,United States of America,USA,North America,,2017,3/1/2017,750.0,"USD, 2013",8.7,1
+204,12542,San Francisco Coliseum-Oakland International Airport Line,Rail,Heavy Rail,United States of America,USA,North America,,2014,11/1/2014,484.0,"USD, 2012",5.2,2
+205,12553,San Francisco eBART,Rail,Commuter Rail,United States of America,USA,North America,,2018,5/1/2018,525.0,"USD, 2014",16.3,1
+206,12564,Seattle 1 Line - Initial Segment,Rail,Light Rail Transit,United States of America,USA,North America,,2009,7/1/2009,2558.0,"USD, 2006",25.1,14
+207,12575,Seattle Angle Lake Extension,Rail,Light Rail Transit,United States of America,USA,North America,,2016,9/1/2016,331.0,"USD, 2015",2.6,1
+208,12586,Seattle U-Link,Rail,Light Rail Transit,United States of America,USA,North America,,2016,3/1/2016,1756.0,"USD, 2013",5.1,2
+209,12597,Seville Line 1,Rail,Light rail,Spain,ESP,Europe,,2009,4/1/2009,892.0,"EUR, 2006",18.2,22
+210,12610,Seville Sevilla Tram,Rail,Metro,Spain,ESP,Europe,,2007,10/1/2007,53.0,"EUR, 2007",2.2,5
+211,12621,Stockholm Citybanan,Rail,Commuter Rail,Sweden,SWE,Europe,,2017,7/1/2017,18510.0,"SEK, 2013",7.4,2
+212,12632,"Strasbourg 2007-08 Extension (Extension of Line B, C, and D)",Rail,Light rail,France,FRA,Europe,,2008,5/1/2008,398.0,"EUR, 2007",12.8,22
+213,12643,Strasbourg Line B,Rail,Light rail,France,FRA,Europe,,2000,9/1/2000,285.0,"EUR, 1999",12.6,24
+214,12664,S201 Katrineholm Sommen,Rail,Conventional,Sweden,SWE,Europe,1990.0,1994,1/1/1994,507.0,"SEK, 1994",,
+215,12665,Tenerife Line 1 Tram,Rail,Light rail,Spain,ESP,Europe,,2007,6/1/2007,256.0,"EUR, 2006",12.3,21
+216,12666,"Sacramento LRT, 1981-1987",Rail,Light rail,United States of America,USA,North America,1981.0,1987,1/1/1987,188.0,"USD, 1988",18.3,28
+217,12668,"Sacramento South LRT Phase 1, 1996-2003",Rail,Light rail,United States of America,USA,North America,1996.0,2003,9/1/2003,218.6,"USD, 2003",10.14,7
+218,12670,"Salt Lake City I-15/State St South LRT, 1990-1999",Rail,Light rail,United States of America,USA,North America,1990.0,1999,12/1/1999,298.5,"USD, 1997",24.1,16
+219,12672,"Salt Lake City Medical Center LRT extension, tilføj Utah Transit Authority 2006, ridership, 1997-2003, OVERLAP",Rail,Light rail,United States of America,USA,North America,1997.0,2003,9/29/2003,83.6,"USD, 2002",2.5,
+220,12674,"San Diego El Cajon LRT extension, 1985-1989",Rail,Light rail,United States of America,USA,North America,1985.0,1989,6/1/1989,102.7,"USD, 1987",17.9,8
+221,12675,"San Diego Mission Valley East LRT Extension, 1997-2005",Rail,Light rail,United States of America,USA,North America,1997.0,2005,7/1/2005,506.2,"USD, 2004",9.5,4
+222,12676,Tenerife Line 2 Tram,Rail,Light rail,Spain,ESP,Europe,,2009,5/1/2009,55.0,"EUR, 2009",3.6,6
+223,12678,"San Diego trolley South Line (now: Blue Line), 1975-1989",Rail,Light rail,United States of America,USA,North America,1975.0,1989,1/1/1989,116.6,"USD, 1979",21.7,17
+224,12681,"San Francisco BART, 1962-1974",Rail,Heavy Rail,United States of America,USA,North America,1962.0,1974,1/1/1974,3055.5,"USD, 1974",115.07,
+225,12685,"San Jose Guadalupe corridor LRT, 1981-1991",Rail,Light rail,United States of America,USA,North America,1981.0,1991,4/1/1991,380.3,"USD, 1987",32.2,28
+226,12686,"San Jose-Tasman West LRT, 1991-1999",Rail,Light rail,United States of America,USA,North America,1991.0,1999,12/1/1999,325.2,"USD, 1997",12.2,12
+227,12687,Toronto Sheppard,Rail,Heavy Rail,Canada,CAN,North America,,2002,11/1/2002,934.0,"CAD, 1998",5.5,5
+228,12689,"Santa Clara Capitol Line, 1999-2004; 110804 krause em bf",Rail,Conventional,United States of America,USA,North America,1999.0,2004,1/1/2004,162.5,"USD, 2003",5.3,4
+229,12690,"Santa Clara Tasman East Line, 1992-2001; 110804 krause em bf",Rail,Conventional,United States of America,USA,North America,1992.0,2001,1/1/2001,276.2,"USD, 2000",7.9,7
+230,12691,"Santa Clara Tasman West Line, 1992-1999; 110804 krause em bf",Rail,Conventional,United States of America,USA,North America,1992.0,1999,1/1/1999,280.6,"USD, 1999",12.1,11
+231,12692,"Santa Clara Vasona Line, 1999-2005; 110804 krause em bf",Rail,Conventional,United States of America,USA,North America,1999.0,2005,1/1/2005,316.8,"USD, 2004",8.4,8
+232,12694,"Santiago Metro, 1966 -1975",Rail,Metro,Chile,CHL,South America,1966.0,1975,9/1/1975,,,103,
+233,12696,"Santo Domingo metro, na-2009",Rail,Metro,Dominican Republic,DOM,South America,,2009,1/1/2009,700.0,USD,14.5,16
+234,12698,Toronto Spadina Subway Extension,Rail,Heavy Rail,Canada,CAN,North America,,2017,12/1/2017,3200.0,"CAD, 2013",8.6,6
+235,12699,"Sao Paulo Metro, na-1974",Rail,Metro,Brazil,BRA,South America,,1974,9/1/1974,,,74.3,
+236,12703,Seaford Rail Link Adelaide,Rail,Conventional,Australia,AUS,Oceania,,,2/1/2014,291.0,AUD 2013,5.7,2
+237,12704,"Seattle Central Link, 2000-2009",Rail,Light Rail Transit,United States of America,USA,North America,2000.0,2009,12/1/2009,2558.0,"USD, 2009",15.6,
+238,12709,Toulouse Line A - Extension,Rail,Metro,France,FRA,Europe,,2003,12/1/2003,187.5,"EUR, 2002",2.2,3
+239,12713,Seoul Incheon (total of 1st and 2nd phase): All information except the lendth in row 37 seem to correspond to the total of the 1st and 2nd phase of AREX. I included seperately the total figures as a separate row just in case.,Rail,Conventional,Republic of Korea,KOR,Asia,,,,,,61,
+240,12715,Seoul Metro,Rail,Metro,Republic of Korea,KOR,Asia,1970.0,1974,1/1/1974,1760000.0,KRW,116.5,117
+241,12721,Toulouse Line A - Initial,Rail,Metro,France,FRA,Europe,1989.0,1993,6/1/1993,591.0,"USD, 1991",9.7,15
+242,12723,"Shanxi-Xiaoliu Railway, 1989-1993",Rail,Conventional,China,CHN,Asia,1989.0,1993,11/1/1993,236.6,"CNY, 1989",116,4
+243,12728,Sheung Shui to Lok Ma Chau Spur Line,Rail,Metro,"China, Hong Kong Special Administrative Region",HKG,Asia,2002.0,2007,8/15/2007,,,7.4,
+244,12730,"Shinkansen Joetsu: Omiya-Niigata, 1971-1982",Rail,Highspeed,Japan,JPN,Asia,1971.0,1982,11/1/1982,2397.0,"JPY, 1982",296.5,34
+245,12731,"Shinkansen Kyushu south, Kagoshima-Yatsushiro, 1991-2004",Rail,Highspeed,Japan,JPN,Asia,1991.0,2004,3/1/2004,,,127,
+246,12732,Toulouse Line B,Rail,Metro,France,FRA,Europe,,2007,6/1/2007,968.0,"EUR, 2004",15.7,20
+247,12733,"Shinkansen Sanyo: Shin-Osaka-Hakata, 1967-1975",Rail,Highspeed,Japan,JPN,Asia,1966.0,1975,3/1/1975,1415.0,"JPY, 1975",553.7,118
+248,12734,"Shinkansen Tohoku: Tokyo-Morioka, 1971-1991 (Omiya-Morioka section)",Rail,Highspeed,Japan,JPN,Asia,1971.0,1991,6/1/1991,3600.0,"JPY, 1982",496.5,
+249,12735,"Shinkansen Tokaido: Tokyo-Shin-Osaka, 1959-1964",Rail,Highspeed,Japan,JPN,Asia,1959.0,1964,10/1/1964,,,515.4,
+250,12739,SIKA01,Rail,Conventional,Sweden,SWE,Europe,,1997,1/1/1997,,,,
+251,12741,SIKA02,Rail,Conventional,Sweden,SWE,Europe,,1997,1/1/1997,,,,
+252,12743,Toulouse Tram T1 - Extension,Rail,Light rail,France,FRA,Europe,,2013,12/1/2013,115.0,"EUR, 2013",4,6
+253,12744,SIKA03,Rail,Conventional,Sweden,SWE,Europe,,1997,1/1/1997,,,,
+254,12746,SIKA04,Rail,Conventional,Sweden,SWE,Europe,,1997,1/1/1997,,,,
+255,12748,SIKA05,Rail,Conventional,Sweden,SWE,Europe,,1997,1/1/1997,,,,
+256,12750,SIKA06,Rail,Conventional,Sweden,SWE,Europe,,1997,1/1/1997,,,,
+257,12752,SIKA07,Rail,Conventional,Sweden,SWE,Europe,,1997,1/1/1997,,,,
+258,12754,Toulouse Tram T1 - Initial,Rail,Light rail,France,FRA,Europe,,2010,12/1/2010,212.0,"EUR, 2009",10.9,18
+259,12755,SIKA08,Rail,Conventional,Sweden,SWE,Europe,,1997,1/1/1997,,,,
+260,12757,SIKA09,Rail,Conventional,Sweden,SWE,Europe,,1997,1/1/1997,,,,
+261,12759,SIKA10,Rail,Conventional,Sweden,SWE,Europe,,1997,1/1/1997,,,,
+262,12761,SIKA11,Rail,Conventional,Sweden,SWE,Europe,,1997,1/1/1997,,,,
+263,12763,SIKA12,Rail,Conventional,Sweden,SWE,Europe,,1997,1/1/1997,,,,
+264,12765,Toulouse Tram T2,Rail,Light rail,France,FRA,Europe,,2015,4/1/2015,74.0,"EUR, 2014",2.4,3
+265,12766,SIKA13,Rail,Conventional,Sweden,SWE,Europe,,1997,1/1/1997,,,,
+266,12768,SIKA14,Rail,Conventional,Sweden,SWE,Europe,,1997,1/1/1997,,,,
+267,12770,SIKA15,Rail,Conventional,Sweden,SWE,Europe,,1997,1/1/1997,,,,
+268,12772,SIKA16,Rail,Conventional,Sweden,SWE,Europe,,1997,1/1/1997,,,,
+269,12774,SIKA17,Rail,Conventional,Sweden,SWE,Europe,,1997,1/1/1997,,,,
+270,12776,Trenton Southern NJ Light Rail Transit System,Rail,Light Rail Transit,United States of America,USA,North America,,2004,3/1/2004,699.0,"USD, 2002",45.1,21
+271,12777,SIKA18,Rail,Conventional,Sweden,SWE,Europe,,1997,1/1/1997,,,,
+272,12787,Turin Line 1 (Phase 3),Rail,Metro,Italy,ITA,Europe,2001.0,2007,,,,3.6,6
+273,12798,Turin Line 1 (initial) This project does not exist in the source database ,Rail,Metro,Italy,ITA,Europe,,2006,2/1/2006,600.0,"EUR, 2006",9.5,15
+274,12809,Turin Line 1 south extension,Rail,Metro,Italy,ITA,Europe,2012.0,2021,4/1/2021,193.0,"EUR, 2017",1.7,2
+275,12813,Singapore metro Bukit Panjang LRT Line,Rail,Light rail Transit,Singapore,SGP,Asia,1996.0,1999,11/6/1999,,,7.6,13
+276,12814,"Singapore metro East-West line (phase 2: extension), 1996-2001",Rail,Metro,Singapore,SGP,Asia,1996.0,2001,1/1/2001,,,6,
+277,12815,"Singapore metro North-South and East-West lines (phase 1), 1982-1987",Rail,Metro,Singapore,SGP,Asia,1982.0,1987,1/1/1987,,,67,
+278,12816,Singapore metro Punggol LRT system,Rail,Light rail Transit,Singapore,SGP,Asia,2000.0,2005,1/29/2005,,,10.3,14
+279,12817,"Singapore metro Sengkang LRT system, 2000-2002",Rail,Light rail Transit,Singapore,SGP,Asia,2000.0,2003,1/18/2003,,,11,12
+280,12818,"Singapore North-East Line, 1996-2003",Rail,Metro,Singapore,SGP,Asia,1996.0,2003,6/1/2003,5000.0,"SGD, 2003",20,16
+281,12820,"Tyne-and-Wear Tyne and Wear Metro (Initial Phase, 1991 Extension, and 2002 Extension)",Rail,Light Rail Transit,United Kingdom,GBR,Europe,1980.0,2002,1/1/2002,397.0,"GBP, 1991",77,57
+282,12821,Sky Plaza Platform (SKP) ,Rail,Conventional,"China, Hong Kong Special Administrative Region",HKG,Asia,,,,11.90256319,,,
+283,12822,"SkyTrain Expo Line, Vancouver",Rail,Light rail,Canada,CAN,North America,,1986,1/1/1986,,,28.9,
+284,12832,Vancouver Canada Line,Rail,Heavy Rail,Canada,CAN,North America,,2009,8/1/2009,2000.0,"CAD, 2007",19,16
+285,12835,South Island Line (East) (SIL),Rail,Metro,"China, Hong Kong Special Administrative Region",HKG,Asia,2011.0,2016,,1976.741182,,7.4,5
+286,12841,South West Rail Link Sydney,Rail,Metro,Australia,AUS,Oceania,,,,25000.0,AUD 2023,24,7
+287,12842,South Yorkshire Supertram Meadowhall interchange,Rail,Heavy Rail,United Kingdom,GBR,Europe,1989.0,1990,9/4/1990,12.9,"EUR, 1995",,
+288,12843,Vancouver Millennium Line - Initial,Rail,Heavy Rail,Canada,CAN,North America,,2002,8/1/2002,1200.0,"CAD, 2001",20.5,10
+289,12845,"Southern Cross station redevelopment, 2002-2006, Melbourne, se Victorian Auditor-General 2007 for data",Rail,Airport rail link,Australia,AUS,Oceania,2002.0,2006,1/1/2006,700.0,"AUD, 2002",,
+290,12854,Vancouver Millennium Line Evergreen Extension SkyTrain,Rail,Heavy Rail,Canada,CAN,North America,,2016,12/1/2016,1431.0,"CAD, 2014",10.9,4
+291,12855,"St. Louis Metrolink initial LRT system, 1984-1993",Rail,Light rail,United States of America,USA,North America,1984.0,1993,7/1/1993,11.5,"USD, 1993",,
+292,12856,"St. Louis St. Clair Metrolink LRT extension, GAO 98, 1995-2001",Rail,Light rail,United States of America,USA,North America,1995.0,2001,5/1/2001,10.2,"USD, 2001",,
+293,12858,"Sthlm S–Årstaberg, 2005",Rail,Conventional,Sweden,SWE,Europe,1994.0,2005,1/1/2005,1660.0,"SEK, 2005",,
+294,12859,Stockholm - Arlanda Express,Rail,Airport rail link,Sweden,SWE,Europe,,1999,1/1/1999,,,39,
+295,12860,Stockholm Arlanda airport link,Rail,Airport rail link,Sweden,SWE,Europe,1995.0,1999,10/1/1999,305.0,"SEK, 2007",40,
+296,12861,"Stockholm, 2006",Rail,Conventional,Sweden,SWE,Europe,2004.0,2006,1/1/2006,126.1,"SEK, 2006",,
+297,12862,"Stockholm, 2007",Rail,Conventional,Sweden,SWE,Europe,2004.0,2007,1/1/2007,485.7,"SEK, 2007",,
+298,12865,Vienna Line 1 extension,Rail,Metro,Austria,AUT,Europe,,2017,9/1/2017,600.0,"EUR, 2015",4.7,5
+299,12866,"Super Express, Taipei-Kaohsiung; 110819 bf em krause check yu and johannesson 2010 for data",Rail,Highspeed,Taiwan,TWN,Asia,,2008,1/1/2008,15000.0,"USD, 2008",345,
+300,12868,Svendborgbanen upgrade,Rail,Conventional,Denmark,DNK,Europe,,,,,,,
+301,12869,Sydney airport link,Rail,Airport rail link,Australia,AUS,Oceania,,,5/21/2000,900.0,AUD 1999,10,2
+302,12876,Vienna Line 2 extension,Rail,Metro,Austria,AUT,Europe,2010.0,2013,10/1/2013,320.0,"EUR, 2012",4.2,3
+303,12884,"Taipei-Zuoying, 1999-2007",Rail,Highspeed,Taiwan,TWN,Asia,1999.0,2007,1/5/2007,466.0,"TWD, 2007",345,8
+304,12887,Vitoria Gasteiz tram ,Rail,Light rail,Spain,ESP,Europe,,2008,12/1/2008,100.0,"EUR, 2007",7.2,18
+305,12898,"Washington, DC Green Line from Anacostia to Branche Avenue",Rail,Heavy Rail,United States of America,USA,North America,,2001,1/1/2001,850.0,"USD, 1998",10.7,5
+306,12909,"Washington, DC Green Line Mid-City Segment U Street to Fort Totten",Rail,Heavy Rail,United States of America,USA,North America,,1999,9/1/1999,596.0,"USD, 1996",4.7,2
+307,12920,"Washington, DC Red Line Wheaton to Glenmont",Rail,Heavy Rail,United States of America,USA,North America,,1998,7/1/1998,244.0,"USD, 1996",2.5,1
+308,12931,"Washington, DC Silver Line phase 1",Rail,Heavy Rail,United States of America,USA,North America,,2014,7/1/2014,2982.0,"USD, 2012",18.8,5
+309,12943,Waterloo Ion Light Rail,Rail,Light Rail Transit,Canada,CAN,North America,,2019,6/1/2019,868.0,"CAD, 2017",19,19
+310,12954,Zaragoza Zaragoza Tram,Rail,Light rail,Spain,ESP,Europe,,2011,4/1/2011,400.0,"EUR, 2010",12.8,25
+311,12980,"Tokyo OEDO line - loop section, 1987-2000",Rail,Metro,Japan,JPN,Asia,1987.0,2000,12/1/2000,,,27.8,38
+312,12981,Tokyo-Narita; Narita Express (110930 cantarelli em flyvbjerg),Rail,Airport link ,Japan,JPN,Asia,1978.0,1991,1/1/1991,,,51,
+313,12982,Tokyo-Narita; Skyliner (110930 cantarelli em flyvbjerg),Rail,Airport link ,Japan,JPN,Asia,1997.0,2010,1/1/2010,,,51.34,
+314,12985,"Torebo–Hedberg, 2008",Rail,Conventional,Sweden,SWE,Europe,1998.0,2008,1/1/2008,1228.0,"SEK, 2008",,
+315,12986,Toronto Bloor Danforth ext,Rail,Conventional,Canada,CAN,North America,1965.0,1968,1/1/1968,83.8,"USD, 1968",,
+316,12988,Toronto Bloor Danforth line,Rail,Conventional,Canada,CAN,North America,1958.0,1966,1/1/1966,319.6,"USD, 1966",26.2,31
+317,12989,Toronto North Yonge St rail ext,Rail,Conventional,Canada,CAN,North America,1965.0,1973,1/1/1973,141.6,"USD, 1973",,
+318,12990,Toronto Sheppard Finch line,Rail,Conventional,Canada,CAN,North America,1968.0,1974,1/1/1974,60.2,"USD, 1974",,
+319,12993,"Toulouse VAL Line A, 1985-1993 (Flyvbjerg et al, 2008, 22)",Rail,Metro,France,FRA,Europe,,1993,6/1/1993,591.0,"USD, 2002",9.7,15
+320,12999,Tseung Kwan O (TKO) Extension,Rail,Metro,"China, Hong Kong Special Administrative Region",HKG,Asia,,,,2196.501927,,8.8,
+321,13001,Tsim Sha Tsui Extension,Rail,Conventional,"China, Hong Kong Special Administrative Region",HKG,Asia,,,,,,1.1,
+322,13004,Tunis Metro,Rail,Light Rail,Tunisia,TUN,Africa,1985.0,,,,,10,11
+323,13007,Turin Metro Phase 1,Rail,Metro,Italy,ITA,Europe,,2005,1/1/2005,788.0,"EUR, 2006",9.6,15
+324,13010,Tyne and Wear metro,Rail,Metro,United Kingdom,GBR,Europe,1972.0,1984,1/1/1984,103.0,"GBP, 1972",55,44
+325,13011,"Tyne and Wear metro, Sunderland extension Pelaw-South Hylton",Rail,Light rail,United Kingdom,GBR,Europe,1999.0,2002,3/1/2002,90.0,"GBP, 1998",20.1,12
+326,13048,Utrecht capaciteitsvergroting,Rail,Conventional,Netherlands,NLD,Europe,1992.0,1998,1/1/1998,141.45,"EUR, 1995",5.5,
+327,13050,"Vännäs–Bastuträsk, 2008",Rail,Conventional,Sweden,SWE,Europe,2004.0,2008,1/1/2008,837.0,"SEK, 2008",1,
+328,13051,"Värnamo - Alvesta, 2007",Rail,Conventional,Sweden,SWE,Europe,1998.0,2007,1/1/2007,124.7,"SEK, 2007",,
+329,13053,Airport Link Project Seattle/University Link LRT,Rail,Light Rail Transit,United States of America,USA,North America,2005.0,2016,1/1/2016,1745.7,"USD, 2016",,
+330,13073,Västkystrail Hamra Breås,Rail,Conventional,Sweden,SWE,Europe,1990.0,1993,1/1/1993,383.0,"SEK, 1994",,
+331,13077,"Vestfoldbanen, Norway (part only)",Rail,Conventional,Norway,NOR,Europe,,2001,1/1/2001,159.0,EUR,17,
+332,13079,"Vienna stage 1 (Basic Network/Grundnetz), 1969-1982",Rail,Metro,Austria,AUT,Europe,1969.0,1982,9/1/1982,,,30,
+333,13088,"Washington Largo Metrorail Extension, 1996-2004",Rail,Heavy Rail,United States of America,USA,North America,1996.0,2004,12/1/2004,426.4,"USD, 2002",4.99,2
+334,13089,"Washington metro, na-1985",Rail,Conventional,United States of America,USA,North America,,1985,1/1/1985,199.9,"USD, 1988",97.4,
+335,13092,West Coast Main Line upgrade,Rail,Conventional,United Kingdom,GBR,Europe,,2009,12/1/2009,8764.0,GBP 2009,430,
+336,13093,West Island Line (WIL),Rail,Metro,"China, Hong Kong Special Administrative Region",HKG,Asia,2009.0,2015,,2460.661951,"HKD, 2015",3,3
+337,13094,West Rail Project,Rail,Metro,"China, Hong Kong Special Administrative Region",HKG,Asia,,2003,12/20/2003,6882.904101,"HKD, 2003",35.7,12
+338,13105,Woerden-Harmelen fase 2,Rail,Conventional,Netherlands,NLD,Europe,1998.0,2005,1/1/2005,96.54,"EUR, 1995",9,
+339,13108,"Wuhan - Guangzhou line, 1995-2001",Rail,Conventional,China,CHN,Asia,1995.0,2001,6/1/2001,9664.0,"CNY, 1995",890,
+340,13116,"Xinxiang-Yanzhou, 1984-1986",Rail,Conventional,China,CHN,Asia,1984.0,1986,12/1/1986,1186.5,"CNY, 1984",305,
+341,13121,"Yaogu-Maoming Railway, 1989-1992",Rail,Conventional,China,CHN,Asia,1989.0,1992,3/1/1992,1019.4,"CNY, 1989",231,
+342,13126,"Yueshan in Henan province to Xiangan in Hubei Province Line, 1988-1998",Rail,Conventional,China,CHN,Asia,1988.0,1998,3/1/1998,3840.2,"CNY, 1988",490.8,
+343,13134,"Zhuzhou-Hangzhou Zhegan Line, 1991-1999",Rail,Conventional,China,CHN,Asia,1991.0,1999,6/1/1999,6839.3,"CNY, 1991",594,
+344,13135,Zuidelijke tak Amsterdam,Rail,Conventional,Netherlands,NLD,Europe,1987.0,1993,1/1/1993,163.9,"EUR, 1995",12.5,
+345,13138,Newcastle upon Tyne,Rail,Conventional,United Kingdom,GBR,Europe,,,10/1/2022,4.5,GBP 2021,0.75,
+346,13164,Baltimore Phase I Rapid Transit,Rail,Rapid Transit,United States of America,USA,North America,1972.0,1987,1/1/1987,1289.0,"USD, 1987",,
+347,13169,Aotea Station (2020 contract cost),Rail,Underground station,New Zealand,NZL,Oceania,,2020,1/1/2020,809.65,"NZD, 2020",,1
+348,13170,Britomart Station (completed 2003),Rail,Underground station,New Zealand,NZL,Oceania,,2003,1/1/2003,339.8,"NZD, 2020",,1
+349,13172,Drury Stations (2020 estimate),Rail,Station,New Zealand,NZL,Oceania,,2020,1/1/2020,495.0,"NZD, 2022",,2
+350,13175,Central Florida Commuter Rail Transit – Initial Operating Segment,Rail,Commuter Rail,United States of America,USA,North America,2004.0,2014,7/1/2014,357.2,"USD, 2014",51.5,12
+351,13180,Otahuhu Station (completed 2016),Rail,Station,New Zealand,NZL,Oceania,,2016,1/1/2016,30.58,"NZD, 2020",,1
+352,13181,Panmure Station (completed 2014),Rail,Station,New Zealand,NZL,Oceania,,2014,1/1/2014,19.68,"NZD, 2020",,1
+353,13182,Puhinui Station (completed 2021),Rail,Station,New Zealand,NZL,Oceania,,2021,1/1/2021,68.0,"NZD, 2020",,1
+354,13184,Rosedale Station (2017 estimate),Rail,Station,New Zealand,NZL,Oceania,,2017,1/1/2017,74.73,"NZD, 2020",,1
+355,13186,Central Mesa Light Rail Extension,Rail,Light Rail Transit,United States of America,USA,North America,2009.0,2015,8/1/2015,196.7,"USD, 2015",4.99,4
+356,13197,Dallas Northwest-Southeast Light Rail Project,Rail,Light Rail Transit,United States of America,USA,North America,2000.0,2010,12/1/2010,1406.2,"USD, 2010",46.35,16
+357,13226,Berlin U-Bahn,Rail,Metro,Germany,DEU,Europe,,,,275.0,USD,4.6,5
+358,13227,Copenhagen Metro Phases 1-3,Rail,Metro,Denmark,DNK,Europe,,2007,1/1/2007,11400.0,"DKK, 2007",21,22
+359,13228,Hannover U-Bahn,Rail,Metro,Germany,DEU,Europe,,,,750.0,USD,69,110
+360,13229,Hannover U-Bahn extension,Rail,Metro,Germany,DEU,Europe,,,,108.0,USD,2.8,
+361,13232,Lyon Ligne D,Rail,Metro,France,FRA,Europe,,1997,1/1/1997,,"EUR, 1997",14,15
+362,13235,Paris Meteor (Metro 14) Phase 1,Rail,Metro,France,FRA,Europe,,1998,1/1/1998,1419.0,"USD, 1998",7.2,7
+363,13240,Vienna Stage 1,Rail,Conventional,Austria,AUT,Europe,,1984,1/1/1984,,,,
+364,13242,Minneapolis Northstar Corridor,Rail,Commuter Rail,United States of America,USA,North America,2000.0,2009,11/16/2009,308.5,"USD, 2009",64,7
+365,13253,New York Second Avenue Subway,Rail,Metro,United States of America,USA,North America,1999.0,2017,1/1/2017,4450.0,"USD, 2017",2.7,
+366,13264,Norfolk The Tide Light Rail Project,Rail,Light Rail Transit,United States of America,USA,North America,2000.0,2011,1/1/2011,314.6,"USD, 2011",,
+367,13275,PhaseI Oceanside Sprinter Light Rail (SanDiego – Oceanside/Escondido),Rail,Light Rail Transit,United States of America,USA,North America,1995.0,2008,3/1/2008,477.6,"USD, 2008",,
+368,13297,Pittsburgh North Shore Connector,Rail,Light Rail Transit,United States of America,USA,North America,1999.0,2012,3/1/2012,539.0,"USD, 2012",1.9,3
+369,13320,Portland Green Line Light Rail Project,Rail,Light Rail Transit,United States of America,USA,North America,1994.0,2009,1/1/2009,576.0,"USD, 2009",6.5,8
+370,13331,Portland Westside/Hillsboro MAX,Rail,Light Rail Transit,United States of America,USA,North America,1982.0,1998,9/1/1998,964.0,"USD, 1998",28.5,20
+371,13342,Portland-Milwaukie Light Rail Project,Rail,Light Rail Transit,United States of America,USA,North America,2002.0,2015,1/1/2015,1463.0,"USD, 2015",,
+372,13353,Rail Project Minneapolis St. Paul Central Corridor LRT,Rail,,United States of America,USA,North America,2006.0,2014,6/14/2014,926.0,"USD, 2014",15.6,18
+373,13386,Salt Lake City Mid-Jordan Light Rail Project,Rail,Light Rail Transit,United States of America,USA,North America,2005.0,2011,9/1/2011,509.8,"USD, 2011",17.06,
+374,13397,The Weber County to Salt Lake Commuter Rail Project (Front Runner North),Rail,Commuter Rail,United States of America,USA,North America,2001.0,2008,1/1/2008,614.0,"USD, 2008",,
+375,13408,Washington and Multnomah Counties Wilsonville to Beaverton Commuter Rail Project (Westside Express Service),Rail,Commuter Rail,United States of America,USA,North America,2001.0,2009,2/1/2009,162.0,"USD, 2009",23.6573568,5
+376,13451,Aanpassing Houten Castellum,Rail,Conventional,Netherlands,NLD,Europe,1998.0,2003,1/1/2003,20.4,"EUR, 1995",1.9,
+377,13454,ABS Helmstedt Magdeburg Berlin,Rail,Conventional,Germany,DEU,Europe,1989.0,1995,12/1/1995,1135.579268,"EUR, 1995",,
+378,13455,ABS Mannheim Stuttgart,Rail,Highspeed,Germany,DEU,Europe,1975.0,1991,1/1/1991,1687.263208,"EUR, 1995",98.8,
+379,13460,"Airtrain, Brisbane",Rail,Airport rail link,Australia,AUS,Oceania,,,5/5/2001,220.0,AUD 2000,8.5,0
+380,13462,"AKN Eisenbahn AG line A1 Hamburg
+",Rail,Metro,Germany,DEU,Europe,1995.0,2001,1/1/2001,,,,
+381,13463,"Alameda Rail corridor, Los Angeles",Rail,Conventional,United States of America,USA,North America,,2002,4/1/2002,2400.0,"USD, 2003",32,
+382,13466,"Alice Springs-Darwin Rail, NT",Rail,Conventional,Australia,AUS,Oceania,,,9/17/2003,1400.0,AUD 2002,1420,0
+383,13469,"Älvkarleby-Bomansberget, 2005",Rail,Conventional,Sweden,SWE,Europe,1994.0,2005,1/1/2005,510.4,"SEK, 2005",,
+384,13470,Amersfoort-Amersfoort aansluiting,Rail,Conventional,Netherlands,NLD,Europe,1992.0,2001,1/1/2001,94.97,"EUR, 1995",1,
+385,13472,Amsterdam CS-Zaanstraat 6-sporig,Rail,Conventional,Netherlands,NLD,Europe,1991.0,1999,1/1/1999,97.82,"EUR, 1995",2,
+386,13474,"Amsterdam Ring Line, Ringlijn",Rail,Metro,Netherlands,NLD,Europe,,1997,7/1/1997,,,,
+387,13481,"Arlöv–Malmö, 2008",Rail,Conventional,Sweden,SWE,Europe,2004.0,2008,1/1/2008,668.0,"SEK, 2008",,
+388,13487,"Atlanta MARTA metro, 1971-1986",Rail,Heavy Rail,United States of America,USA,North America,1971.0,1986,1/1/1986,2720.0,"USD, 1988",43.1,26
+389,13488,"Atlanta North Line Extension, 1990-2000",Rail,Heavy Rail,United States of America,USA,North America,1990.0,2000,12/1/2000,472.7,"USD, 1997",4.988954,3
+390,13489,"Attarp och Önnestad, 2005",Rail,Conventional,Sweden,SWE,Europe,1998.0,2005,1/1/2005,49.9,"SEK, 2005",,
+391,13530,Amsterdam North-South Line,Rail,Metro,Netherlands,NLD,Europe,2002.0,2018,7/1/2018,3100.0,"EUR, 2010",9.8,8
+392,13540,"Baltimore Central Light Rail Line, na-1992",Rail,Light rail,United States of America,USA,North America,,1992,1/1/1992,364.0,"USD, 1993",36.2,24
+393,13542,Barcelona L2 Metro Extension to Badalona,Rail,Metro,Spain,ESP,Europe,2005.0,2010,7/1/2010,70.0,"EUR, 2008",0.7,1
+394,13543,"Baltimore Central LRT Double Tracking, 2000-2006",Rail,Light rail,United States of America,USA,North America,2000.0,2006,2/1/2006,210.0,"USD, 2004",15.1,
+395,13544,"Baltimore Johns Hopkins extension, 1984-1995",Rail,Heavy Rail,United States of America,USA,North America,1984.0,1995,5/1/1995,353.0,"USD, 1991",2.4,2
+396,13546,"Bangkok Mass Rapid Transit Line (MRT), 2004 (metro, se mat fra MRTA)",Rail,Metro,Thailand,THA,Asia,,2004,7/1/2004,100000.0,"THB, constant",20,
+397,13547,"Bangkok Suvarnabhumi Airport Rail Link (SARL), 2005-2010, (110930 cantarelli em flyvbjerg)",Rail,Metro,Thailand,THA,Asia,2004.0,2010,8/1/2010,,,28.8,8
+398,13548,"Bangkok Transit System (BTS) (Skytrain), 1992-1999",Rail,Metro,Thailand,THA,Asia,1992.0,1999,12/1/1999,55400.0,"THB, 1999",23.5,23
+399,13551,Beijing (110930 cantarelli em flyvbjerg),Rail,Conventional,China,CHN,Asia,,2007,10/1/2007,,,28.16,
+400,13552,Beijing-Shanghai HSR,Rail,Highspeed,China,CHN,Asia,,2011,6/1/2011,220000.0,CNY,1302,24
+401,13553,Barcelona L3 Metro Extension to Trinitat Nova,Rail,Metro,Spain,ESP,Europe,2003.0,2008,10/1/2008,151.0,"EUR, 2006",1.9,2
+402,13555,"Beijing-Zhengzhou Line, 1993-1998",Rail,Conventional,China,CHN,Asia,1993.0,1998,12/1/1998,3698.4,"CNY, 1993",694,
+403,13557,"Beneluxlijn, Rotterdam (now part of Calandlijn, Rotterdam), 2002",Rail,Metro,Netherlands,NLD,Europe,,2002,11/1/2002,,,11.5,6
+404,13561,Betuweroute Doublet (different costs),Rail,Conventional,Netherlands,NLD,Europe,1996.0,2007,6/1/2007,4648.0,"EUR, 2005",160,2
+405,13564,Barcelona L5 to Vall d'Hebron,Rail,Metro,Spain,ESP,Europe,2007.0,2010,7/1/2010,320.0,"EUR, 2009",2.5,3
+406,13575,Barcelona Metro Line 9 -  Southern Segment to Airport,Rail,Metro,Spain,ESP,Europe,2002.0,2016,2/1/2016,2900.0,"EUR, 2009",16.9,15
+407,13577,Bilbao metro - Line 1 extension: Bolueta - Etxebarri,Rail,Metro,Spain,ESP,Europe,,2005,1/1/2005,,,0.745,
+408,13579,Birmingham Midland Metro 1999,Rail,Light Rail Transit,United Kingdom,GBR,Europe,1995.0,1999,1/1/1999,160.0,"GBP, 2004",21,23
+409,13582,"Blekinge kustbanan, 2007",Rail,Conventional,Sweden,SWE,Europe,2004.0,2007,1/1/2007,838.0,"SEK, 2007",,
+410,13583,"Borlänge-Långsele, 2007",Rail,Conventional,Sweden,SWE,Europe,1998.0,2007,1/1/2007,119.5,"SEK, 2007",,
+411,13585,"Boston NYC Washington railway, 1971-1986",Rail,Highspeed,United States of America,USA,North America,1971.0,1986,1/1/1986,3467.2,"USD, 1986",727.91,
+412,13586,Barcelona Sabadell tunnel,Rail,Metro,Spain,ESP,Europe,2007.0,2017,7/1/2017,430.0,"EUR, 2012",4.4,4
+413,13587,"Boston Old Colony Rehabilitation, 1988-1997; 110804 krause em bf",Rail,Conventional,United States of America,USA,North America,1988.0,1997,1/1/1997,565.0,"USD, 1995",100,14
+414,13589,Botlek - Europoort,Rail,Conventional,Netherlands,NLD,Europe,1990.0,1995,1/1/1995,10.59,"EUR, 1995",13,
+415,13590,Boxtel-Liempde,Rail,Conventional,Netherlands,NLD,Europe,1994.0,2001,1/1/2001,85.19,"EUR, 1995",3.5,
+416,13593,"Brisbane Airtrain, 2001",Rail,Conventional,Australia,AUS,Oceania,,2001,5/1/2001,220.0,AUD,13,6
+417,13597,Barcelona Terrassa tunnel,Rail,Metro,Spain,ESP,Europe,2008.0,2015,7/1/2015,401.0,"EUR, 2012",4.5,3
+418,13602,"Buffalo LRT, 1977-1986",Rail,Light rail,United States of America,USA,North America,1977.0,1989,1/1/1989,722.0,"USD, 1988",10.3,14
+419,13608,Barcelona Metro Line 11,Rail,Metro,Spain,ESP,Europe,,2003,12/1/2003,84.0,"EUR, 2002",2.3,5
+420,13609,"Butler Rail Extension, Perth",Rail,Station & Extension,Australia,AUS,Oceania,40360.0,2014,9/21/2014,241.0,AUD 2013,7.5,1
+421,13611,Bybanen i Bergen,Rail,Metro,Norway,NOR,Europe,,2010,6/22/2010,1956.823,"NOK, 2007",10,
+422,13615,"Calcutta (Kolkata) Metro, tilføj (data fra Singh 2002) 1972-1984",Rail,Metro,India,IND,Asia,1972.0,1984,10/24/1984,684.0,"USD, 1984",3.4,5
+423,13616,Calgary CTrain,Rail,Light rail,Canada,CAN,North America,,1981,5/1/1981,,,12.9,
+424,13618,"Camden-Trenton South Jersey River line, 1996-2004",Rail,Light rail,United States of America,USA,North America,1996.0,2004,3/1/2004,850.0,const,55,20
+425,13619,"Barcelona Trambaix Network (T1, T2, and T3 Lines)",Rail,Light rail,Spain,ESP,Europe,,2007,4/1/2007,301.0,"EUR, 2004",15.1,29
+426,13620,Canada Line,Rail,Transit,Canada,CAN,North America,,,,,,,
+427,13622,"Caracas metro, Line 3",Rail,Metro,Venezuela (Bolivarian Republic of),VEN,South America,,1994,1/1/1994,372.0,USD,7,5
+428,13625,"Central Line upgrade, London",Rail,Rolling stock,United Kingdom,GBR,Europe,,,,500.0,GBP 2022,,
+429,13630,"Barcelona Trambesos Network (T4, T5, and T6 Lines)",Rail,Light rail,Spain,ESP,Europe,,2008,6/1/2008,277.0,"EUR, 2006",14,27
+430,13632,"Channel Tunnel Rail Link, High Speed 1",Rail,Highspeed,United Kingdom,GBR,Europe,1996.0,2003,9/1/2003,6163.0,GBP,108,4
+431,13634,"Charlotte's LYNX line; South Corridor Light Rail Line, aka Lynx Blue line, 1998-2007",Rail,Light Rail Transit,United States of America,USA,North America,1998.0,2007,11/1/2007,462.8,"USD, 2007",15.4,15
+432,13636,"Chengdu-Kunming line, 1993-2001",Rail,Conventional,China,CHN,Asia,1993.0,2001,12/1/2001,4454.6,"CNY, 1993",1094,
+433,13641,Berlin U5-U55 connection,Rail,Metro,Germany,DEU,Europe,2010.0,2020,12/4/2020,525.0,"EUR, 2015",2.2,3
+434,13645,"Chicago Douglas Branch Reconstruction, 2000-2005",Rail,Heavy Rail,United States of America,USA,North America,2000.0,2005,1/1/2005,440.8,"USD, 2004",10.62,8
+435,13646,"Chicago Metra North Central, 1998-2006",Rail,Heavy Rail,United States of America,USA,North America,1998.0,2006,1/1/2006,216.8,"USD, 2004",18.6,22
+436,13647,"Chicago Metra Southwest Corridor, 1998-2006",Rail,Heavy Rail,United States of America,USA,North America,1998.0,2006,1/1/2006,185.3,"USD, 2004",11,12
+437,13648,"Chicago Metra UP West, 1998-2006",Rail,Heavy Rail,United States of America,USA,North America,1998.0,2006,1/1/2006,106.1,"USD, 2004",8.5,3
+438,13649,Chicago O'Hare Blue Line (110930 cantarelli em flyvbjerg),Rail,Conventional,United States of America,USA,North America,,1984,1/1/1984,,,23.5,
+439,13650,"Chicago Orange Line SW Transitway, 1982-1993",Rail,Heavy Rail,United States of America,USA,North America,1982.0,1993,10/1/1993,522.0,"USD, 1990",14.5,8
+440,13651,"Chicago Skokie Swift transit, 1962-1966",Rail,Heavy Rail,United States of America,USA,North America,1962.0,1966,1/1/1966,0.8,"USD, 1966",8.2,2
+441,13653,Bilbao Line 3,Rail,Metro,Spain,ESP,Europe,2009.0,2017,4/1/2017,279.0,"EUR, 2013",5.9,7
+442,13656,"Chongqing-Guiyang, 1986-1994",Rail,Conventional,China,CHN,Asia,1986.0,1994,12/1/1994,887.1,"CNY, 1994",456,
+443,13662,"Cleveland transit Southeast, 1960-1967",Rail,Conventional,United States of America,USA,North America,1960.0,1967,1/1/1967,34.9,"USD, 1967",,
+444,13664,Bilbao Line A Tram,Rail,Light rail,Spain,ESP,Europe,1999.0,2002,12/1/2002,40.0,"EUR, 2001",5.6,14
+445,13666,Cologne metro,Rail,Metro,Germany,DEU,Europe,1968.0,1970,1/1/1970,299.9,"USD, 1970",,
+446,13667,Cologne subway (see email BF to CC 15 May 2013),Rail,Metro,Germany,DEU,Europe,2002.0,,,2300.0,EUR,6.6,
+447,13671,Copenhagen airport link,Rail,Conventional,Denmark,DNK,Europe,,,,,,,
+448,13672,"Copenhagen metro, stage 1, Vestamager-Amagerbro-Nørreport, Lergravsparken-Amagerbro/Chr Møllers Pl",Rail,Metro,Denmark,DNK,Europe,1992.0,2002,10/1/2002,6800.0,"DKK, 2007",11,11
+449,13673,"Copenhagen metro, stage 2A+B, Nørreport-Vanløse",Rail,Metro,Denmark,DNK,Europe,1992.0,2003,1/1/2003,3500.0,"DKK, 2007",5.8,5
+450,13674,"Copenhagen metro, stage 3, Lergravsparken-Lufthavnen",Rail,Metro,Denmark,DNK,Europe,1992.0,2007,9/28/2007,2100.0,"DKK, 2007",4.2,6
+451,13675,Boston Green Line Extension,Rail,Heavy Rail,United States of America,USA,North America,2014.0,2021,12/1/2021,2300.0,"USD, 2018",6.9,6
+452,13685,"Dallas North Central LRT Extension, 1996-2002",Rail,Light rail,United States of America,USA,North America,1996.0,2002,12/1/2002,437.3,"USD, 2001",20.12,10
+453,13686,Brescia Metro,Rail,Light Rail Transit,Italy,ITA,Europe,2004.0,2013,3/1/2013,935.0,"EUR, 2013",13.7,17
+454,13688,"Dallas South Oak Cliff LRT, 1990-1996",Rail,Light rail,United States of America,USA,North America,1990.0,1996,6/1/1996,360.0,"USD, 1994",15.4,13
+455,13690,"Datong-Taiyuan, 1984-1989",Rail,Conventional,China,CHN,Asia,1984.0,1989,12/1/1989,697.3,"CNY, 1984",540,
+456,13693,Degermyr banan,Rail,Conventional,Sweden,SWE,Europe,,1994,1/1/1994,,,,
+457,13696,Delhi - Airport Rail Link,Rail,Metro,India,IND,Asia,,2011,1/1/2011,,,22.7,6
+458,13697,Calgary Blue Line West Extension,Rail,Light Rail Transit,Canada,CAN,North America,,2012,12/1/2012,1500.0,"CAD, 2010",8.2,6
+459,13698,"Delhi metro, aka New Delhi metro, (Phase I & II) 1998-2011",Rail,Metro,India,IND,Asia,1998.0,2011,8/27/2011,2160.0,"USD, 2002",189.63,145
+460,13699,Den Haag-Rijswijk 4-sporig,Rail,Conventional,Netherlands,NLD,Europe,1992.0,1998,1/1/1998,115.13,"EUR, 1995",5.5,
+461,13702,"Denver Southeast LRT Corridor, 1997-2006",Rail,Light rail,United States of America,USA,North America,1997.0,2006,11/1/2006,850.8,"USD, 2003",30.77,13
+462,13703,"Denver Southwest LRT, 1995-2000",Rail,Light rail,United States of America,USA,North America,1995.0,2000,7/1/2000,177.7,"USD, 1999",14,5
+463,13704,"Detroit DPM, 1980-1987",Rail,Conventional,United States of America,USA,North America,1980.0,1987,1/1/1987,215.0,"USD, 1988",4.7,13
+464,13708,Calgary Northeast LRT Extension to Saddle Ridge,Rail,Light Rail Transit,Canada,CAN,North America,,2012,8/1/2012,124.0,"CAD, 2011",2.9,2
+465,13709,Disneyland Resort Line (DRL),Rail,Metro,"China, Hong Kong Special Administrative Region",HKG,Asia,2002.0,2005,8/1/2005,,,3.3,2
+466,13711,Dobbeltspor Barkåker-Tønsberg (Vestfold railway),Rail,Conventional,Norway,NOR,Europe,,,1/1/2007,1743.0,"NOK, 2013",5.7,
+467,13712,Dobbeltspor Lysaker-Sandvika (Asker line),Rail,Conventional,Norway,NOR,Europe,,,1/1/2006,3632.0,"NOK, 2013",3.4,
+468,13713,Dobbeltspor Sandnes Stavanger,Rail,Conventional,Norway,NOR,Europe,,2010,1/1/2005,2530.0,"NOK, 2013",,
+469,13714,Dobbeltspor Sandnes-Stavanger,Rail,Conventional,Norway,NOR,Europe,,2010,1/1/2005,2068.0,"NOK, 2013",,
+470,13715,Dobbeltspor Sandvika Asker (Asker line),Rail,Conventional,Norway,NOR,Europe,,2005,,3721.0,"NOK, 2013",9.97,
+471,13716,Docklands Light Railway Lewisham Extension,Rail,Light rail,United Kingdom,GBR,Europe,1996.0,1999,12/1/1999,200.0,GBP 2019,4.2,3
+472,13717,"Domnarvet Växelförbindelse, 2009",Rail,Shunting yard,Sweden,SWE,Europe,2004.0,2009,1/1/2009,96.9,"SEK, 2009",,
+473,13719,Calgary Northwest LRT Extension to Rocky Ridge/Tuscany,Rail,Light Rail Transit,Canada,CAN,North America,,2014,8/1/2014,114.0,"CAD, 2012",2.3,1
+474,13723,"Dubai metro, na-2009",Rail,Metro,United Arab Emirates,ARE,Asia,,2009,9/1/2009,76000.0,USD,75,47
+475,13764,Copenhagen City Circle Line,Rail,Metro,Denmark,DNK,Europe,2011.0,2020,3/1/2020,24520.0,"DKK, 2016",15.5,17
+476,13775,Copenhagen M1 and M2 Lines (initial segment and extension to Airport),Rail,Metro,Denmark,DNK,Europe,1996.0,2007,9/1/2007,11400.0,"DKK, 2002",21,23
+477,13783,East Coast Main Line  refurbishment,Rail,Conventional,United Kingdom,GBR,Europe,,,,306.0,"GBP, 1984",632,
+478,13786,Copenhagen M4 to North Harbour,Rail,Metro,Denmark,DNK,Europe,,2020,3/1/2020,3200.0,"EUR, 2017",1.4,2
+479,13787,"Edänge, 2005",Rail,Conventional,Sweden,SWE,Europe,1994.0,2005,1/1/2005,227.2,"SEK, 2005",,
+480,13797,Dallas Blue Line Extension to Rowlett,Rail,Light Rail Transit,United States of America,USA,North America,2009.0,2012,12/1/2012,310.0,"USD, 2011",7.4,1
+481,13799,EIB98:1,Rail,Conventional,,,,,1991,1/1/1991,,,,
+482,13807,EIB98:2,Rail,Conventional,,,,,1991,1/2/1991,,,,
+483,13809,EIB98:3,Rail,Conventional,,,,,1991,1/3/1991,,,,
+484,13810,EIB98:4,Rail,Conventional,,,,,1991,1/4/1991,,,,
+485,13811,EIB98:5,Rail,Conventional,,,,,1991,1/5/1991,,,,
+486,13812,EIB98:6,Rail,Conventional,,,,,1991,1/6/1991,,,,
+487,13813,EIB98:7,Rail,Conventional,,,,,1991,1/7/1991,,,,
+488,13819,Dallas Orange Line Phase 1 to Irving,Rail,Light Rail Transit,United States of America,USA,North America,2009.0,2012,7/1/2012,500.0,"USD, 2011",8.7,3
+489,13829,Flevolijn Gooiboog,Rail,Conventional,Netherlands,NLD,Europe,1998.0,2003,1/1/2003,54.96,"EUR, 1995",1.8,
+490,13830,Dallas Orange Line Phase 2 to Belt Line,Rail,Light Rail Transit,United States of America,USA,North America,2009.0,2012,12/1/2012,400.0,"USD, 2011",6.3,2
+491,13831,Florida High Speed Rail,Rail,Highspeed,United States of America,USA,North America,,,,,,,
+492,13837,Fouracre 01,Rail,Conventional,,,,,1980,1/1/1980,93.5,"USD, 1987",,
+493,13838,Fouracre 02,Rail,Conventional,,,,,1980,1/1/1980,93.5,"USD, 1987",,
+494,13839,Fouracre 03,Rail,Conventional,,,,,1980,1/1/1980,93.5,"USD, 1987",,
+495,13840,Fouracre 04,Rail,Conventional,,,,,1980,1/1/1980,93.5,"USD, 1987",,
+496,13841,Dallas Orange Line Phase 3 to DFW,Rail,Light Rail Transit,United States of America,USA,North America,2012.0,2014,8/1/2014,397.0,"USD, 2013",7.6,1
+497,13842,Fouracre 05,Rail,Conventional,,,,,1980,1/1/1980,93.5,"USD, 1987",,
+498,13843,Fouracre 06,Rail,Conventional,,,,,1980,1/1/1980,93.5,"USD, 1987",,
+499,13844,Fouracre 07,Rail,Conventional,,,,,1980,1/1/1980,93.5,"USD, 1987",,
+500,13845,Fouracre 08,Rail,Conventional,,,,,1980,1/1/1980,93.5,"USD, 1987",,
+501,13846,Fouracre 09,Rail,Conventional,,,,,1980,1/1/1980,93.5,"USD, 1987",,
+502,13847,Fouracre 10,Rail,Conventional,,,,,1980,1/1/1980,93.5,"USD, 1987",,
+503,13848,Fouracre 11,Rail,Conventional,,,,,1980,1/1/1980,93.5,"USD, 1987",,
+504,13849,Fouracre 12,Rail,Conventional,,,,,1980,1/1/1980,93.5,"USD, 1987",,
+505,13852,Dallas South Oak Cliff/UNT Blue Line Extension,Rail,Light Rail Transit,United States of America,USA,North America,2014.0,2016,10/1/2016,195.0,"USD, 2015",4.2,2
+506,13856,Gaasperdammerweg/Diemen - Weesp,Rail,Conventional,Netherlands,NLD,Europe,1992.0,1998,1/1/1998,48.25,"EUR, 1995",6,
+507,13859,Gardermoen airport link,Rail,Highspeed,Norway,NOR,Europe,1992.0,1998,10/1/1998,7743.0,"NOK, 1998",48,
+508,13862,Gautrain,Rail,Conventional,South Africa,ZAF,Africa,2010.0,,,12000.0,"ZAR, 2002",80,10
+509,13863,Denver A Line,Rail,Commuter Rail,United States of America,USA,North America,2010.0,2016,4/1/2016,1403.0,"USD, 2013",37.8,7
+510,13864,"Gävle-Östersund, 2007",Rail,Conventional,Sweden,SWE,Europe,1994.0,2007,1/1/2007,317.4,"SEK, 2007",,
+511,13868,Gevingåsen tunnel,Rail,Conventional,Norway,NOR,Europe,,,1/1/2008,732.0,"NOK, 1987",4.4,
+512,13872,"Godstågsviadukten, 2009",Rail,Freight train viaduct,Sweden,SWE,Europe,2004.0,2009,1/1/2009,336.5,"SEK, 2009",,
+513,13873,Gold Coast Light Rail,Rail,Light Rail,Australia,AUS,Oceania,,,7/20/2014,1600.0,AUD 2014,13,16
+514,13875,Denver Gold G Line,Rail,Commuter Rail,United States of America,USA,North America,2011.0,2019,4/1/2019,505.0,"USD, 2015",18,7
+515,13879,"Göteborg C, 2007",Rail,Conventional,Sweden,SWE,Europe,2004.0,2007,1/1/2007,154.5,"SEK, 2007",,
+516,13880,Gouda - Gouda Oost,Rail,Conventional,Netherlands,NLD,Europe,1992.0,1998,1/1/1998,32.9,"EUR, 1995",3,
+517,13881,Gouda Westzijde 5e spoor,Rail,Conventional,Netherlands,NLD,Europe,1993.0,1999,1/1/1999,12.09,"EUR, 1995",,
+518,13886,Denver R Line,Rail,Light Rail Transit,United States of America,USA,North America,2013.0,2017,2/1/2017,654.0,"USD, 2015",16.9,8
+519,13888,Grenoble tramway line 1,Rail,Light rail,France,FRA,Europe,1983.0,1987,1/1/1987,146.0461585,"EUR, 1987",8.8,
+520,13889,Grödingebanan,Rail,Conventional,Sweden,SWE,Europe,1982.0,1994,1/1/1994,2739.0,"SEK, 1994",,
+521,13890,Groningen-Leeuwarden,Rail,Conventional,Netherlands,NLD,Europe,1995.0,2001,1/1/2001,51.8,"EUR, 1995",50,
+522,13891,Groningen-Sauwerd,Rail,Conventional,Netherlands,NLD,Europe,1998.0,2003,1/1/2003,34.61,"EUR, 1995",7,
+523,13893,"Guang-Mei-Shan Railway, 1992-1995",Rail,Conventional,China,CHN,Asia,1992.0,1995,12/1/1995,3657.7,"CNY, 1992",479.3,
+524,13897,Denver Southeast Extension,Rail,Light Rail Transit,United States of America,USA,North America,,2019,5/1/2019,209.0,"USD, 2018",3.7,3
+525,13899,"Hallsberg
+rangerbangård, 2005",Rail,Shunting yard,Sweden,SWE,Europe,2004.0,2005,1/1/2005,483.0,"SEK, 2005",,
+526,13900,"Hallsberg rangerbangård, 2000",Rail,Shunting yard,Sweden,SWE,Europe,1998.0,2000,1/1/2000,306.9,"SEK, 2000",,
+527,13901,"Hamnbanan, 2005",Rail,Electrification,Sweden,SWE,Europe,1998.0,2005,1/1/2005,100.8,"SEK, 2005",,
+528,13907,Heerhugowaard-Schagen 2-sporig,Rail,Conventional,Netherlands,NLD,Europe,1992.0,1998,1/1/1998,34.36,"EUR, 1995",15,
+529,13910,"Hefei-Jiujiang Railway, 1993-1995",Rail,Conventional,China,CHN,Asia,1993.0,1995,6/1/1995,1952.0,"CNY, 1993",320,11
+530,13911,Hemboog,Rail,Conventional,Netherlands,NLD,Europe,1999.0,2003,1/1/2003,99.07,"EUR, 1995",0.3,
+531,13917,Holmån banan,Rail,Conventional,Sweden,SWE,Europe,,1994,1/1/1994,,,,
+532,13918,"Hong Kong Airport Railway (includes two lines: 1, Airport Express (express service wihout intermediate stops) and 2, Tung Chung Line (slower stopping service on same alignment) Correct",Rail,Metro,China,CHN,Asia,,1998,7/1/1998,,,,
+533,13919,Dusseldorf Wehrhahn Line,Rail,Metro,Germany,DEU,Europe,2007.0,2016,2/20/2016,929.0,"EUR, 2012",3.4,6
+534,13920,"Hong Kong Metro, na-1979",Rail,Metro,"China, Hong Kong Special Administrative Region",HKG,Asia,,1979,9/1/1979,,,211.6,
+535,13922,Hoorn - Hoorn Kersenboogerd,Rail,Conventional,Netherlands,NLD,Europe,1992.0,1994,1/1/1994,16.57,"EUR, 1995",2.5,
+536,13924,HSL South (HSL Zuid),Rail,Highspeed,Netherlands,NLD,Europe,,2009,9/1/2009,,,125,
+537,13925,"HSR 1 Southeast, Paris-Lyon",Rail,Highspeed,France,FRA,Europe,,1981,1/1/1981,,,380,
+538,13926,"HSR 2 Atlantic, Paris-Le Mans/Tours",Rail,Highspeed,France,FRA,Europe,1983.0,1992,1/1/1992,,"EUR, 1992",285,5
+539,13927,"HSR 3 North, Paris-Lille-Calais/Channel tunnel",Rail,Highspeed,France,FRA,Europe,1987.0,1993,5/1/1993,,"EUR, 1995",350,
+540,13928,"HSR 4 Rhone Alps, Montanay Jct–Satolas Airport–St Marcel les Valence",Rail,Highspeed,France,FRA,Europe,1988.0,1994,1/1/1994,1261.0,"EUR, 2003",106,
+541,13929,"HSR 5 Mediterranean, Valence–Marseille/Nîmes",Rail,Highspeed,France,FRA,Europe,1992.0,2001,6/1/2001,4362.0,"EUR, 2003",250,9
+542,13931,"HSR 6 Interconnection, Paris, connects diff HSR lines",Rail,Highspeed,France,FRA,Europe,1988.0,1994,1/1/1994,1397.0,"EUR, 2003",102,
+543,13932,"HSR 7 East, first phase",Rail,Highspeed,France,FRA,Europe,1996.0,2007,1/1/2007,3797.0,"EUR, 2003",299,
+544,13933,"HSR Madrid-Barcelona- French Frontier (Figueres), 1988 - 2008/2012
+",Rail,Highspeed,Spain,ESP,Europe,1988.0,2008,1/1/2008,9000.0,EUR,664,
+545,13935,"HSR Rhin-Rhone, East, first stage, 2011",Rail,Highspeed,France,FRA,Europe,2002.0,2011,12/1/2011,2349.0,"EUR, 2016",140,
+546,13936,"HSR Seville-Madrid, 1992
+",Rail,Highspeed,Spain,ESP,Europe,,1992,4/1/1992,,"EUR, 1992",471.8,5
+547,13937,"Hudson-Bergen light rail MOS-1, New Jersey, 1992-2002",Rail,Light rail,United States of America,USA,North America,1992.0,2002,1/1/2002,,,,
+548,13938,"Hudson-Bergen light rail MOS-2, New Jersey, 1992-2006",Rail,Light rail,United States of America,USA,North America,,2006,1/1/2006,,,,
+549,13941,Hamburg U4 to Elbbrücken,Rail,Metro,Germany,DEU,Europe,2015.0,2018,12/1/2018,148.0,"EUR, 2017",1.3,1
+550,13952,Hamburg U4 to HafenCity U,Rail,Metro,Germany,DEU,Europe,2007.0,2012,11/1/2012,326.0,"EUR, 2010",3.9,2
+551,13963,Houston Green Line,Rail,Light Rail Transit,United States of America,USA,North America,2009.0,2015,5/1/2015,587.0,"USD, 2012",5.2,7
+552,13974,Houston Purple Line,Rail,Light Rail Transit,United States of America,USA,North America,2009.0,2015,5/1/2015,728.0,"USD, 2015",10.8,11
+553,13980,"Jacksonville Skyway Express ASE AGT, 1982-2000",Rail,Light rail,United States of America,USA,North America,1982.0,2000,11/1/2000,137.3,"USD, 1994",4,8
+554,14050,Seoul - Busan (Gyeongbu high-speed railway phase I and II),Rail,Highspeed,Republic of Korea,KOR,Asia,1991.0,2004,3/1/2004,22000.0,"KRW,1999",408,
+555,14051,Beijing - Tianjin,Rail,Highspeed,China,CHN,Asia,2004.0,2008,8/1/2008,2340.0,"USD, 2008",117,9
+556,14085,"ERTMS, Västerdalsbanan",Rail,,Sweden,SWE,Europe,,,1/1/2014,117.0,"SEK, 2014",,
+557,14086,Kalix-Morjärv-Boden,Rail,,Sweden,SWE,Europe,,,1/1/2014,4082.0,"SEK, 2014",,
+558,14093,Umeå ny godsbangård inkl om-byggnad av personbangård,Rail,,Sweden,SWE,Europe,,,1/1/2013,1321.0,"SEK, 2013",,
+559,14094,Förslöv Ängelholm,Rail,,Sweden,SWE,Europe,,,1/1/2013,857.0,"SEK, 2013",,
+560,14095,Trädsäkra järnvägar,Rail,,Sweden,SWE,Europe,,,1/1/2013,494.0,"SEK, 2013",,
+561,14096,"Emmaboda–Karlskrona/Kalmar, fjärrblockering samt spårupprust-ning och hastighetsanpassning till 160 km/h",Rail,,Sweden,SWE,Europe,,,1/1/2013,956.0,"SEK, 2013",,
+562,14097,"Gävle–Sundsvall, ökad kapacitet (inkl. planering Dingersjö)",Rail,,Sweden,SWE,Europe,,,1/1/2013,679.0,"SEK, 2013",,
+563,14098,"Stockholm C, förstärkt kraftför-sörjning",Rail,,Sweden,SWE,Europe,,,1/1/2013,345.0,"SEK, 2013",,
+564,14099,"Eskilstuna, omformastation",Rail,,Sweden,SWE,Europe,,,1/1/2013,108.0,"SEK, 2013",,
+565,14100,"Kil–Skåre, ny mötesstation",Rail,,Sweden,SWE,Europe,,,1/1/2013,134.0,"SEK, 2013",,
+566,14101,Södertälje Hamn bytespunkt,Rail,,Sweden,SWE,Europe,,,1/1/2013,1143.0,"SEK, 2013",,
+567,14102,"Alvesta resecentrum, Örsjö mötes-station, Åryd mötesstation och Växjö bangårdsombyggnad",Rail,,Sweden,SWE,Europe,,,1/1/2013,410.0,"SEK, 2013",,
+568,14115,Sundsvall–Nyland (Ådalsbanan),Rail,,Sweden,SWE,Europe,,,1/1/2012,8636.0,"SEK, 2012",,
+569,14116,"Malmbanan, övr uppgraderings-åtgärder",Rail,,Sweden,SWE,Europe,,,1/1/2012,296.0,"SEK, 2012",,
+570,14117,"Västerhaninge– Nynäshamn, ökad kapacitet",Rail,,Sweden,SWE,Europe,,,1/1/2012,966.0,"SEK, 2012",,
+571,14118,"Nynäsbanan, Nynäsgård mötes-station",Rail,,Sweden,SWE,Europe,,,1/1/2012,134.0,"SEK, 2012",,
+572,14119,Kraftsamling Öresund,Rail,,Sweden,SWE,Europe,,,1/1/2012,549.0,"SEK, 2012",,
+573,14120,Nykroppa– Kristinehamn,Rail,,Sweden,SWE,Europe,,,1/1/2012,240.0,"SEK, 2012",,
+574,14121,"Motala–Mjölby, dubbelspår",Rail,,Sweden,SWE,Europe,,,1/1/2012,2921.0,"SEK, 2012",,
+575,14122,Mötesspår Blekinge kustbana,Rail,,Sweden,SWE,Europe,,,1/1/2012,61.0,"SEK, 2012",,
+576,14123,Trollhättan Göteborg (Olskroken),Rail,,Sweden,SWE,Europe,,,1/1/2012,8694.0,"SEK, 2012",,
+577,14131,Uppsala bangårdsombyggnad inkl. resecentrum,Rail,,Sweden,SWE,Europe,,,1/1/2011,1912.0,"SEK, 2011",,
+578,14132,Hamnbanan kapacitetsåtgärder (Göteborg),Rail,,Sweden,SWE,Europe,,,1/1/2011,79.0,"SEK, 2011",,
+579,14133,"Malmbanan, ökad kapacitet enl. 2004 - 2015 års plan",Rail,,Sweden,SWE,Europe,,,1/1/2011,195.0,"SEK, 2011",,
+580,14134,"Delar av malmbanan, ökad kapaci-tet, enl. 2010 - 2021 års plan",Rail,,Sweden,SWE,Europe,,,1/1/2011,129.0,"SEK, 2011",,
+581,14135,"Malmö Bangård, anpassning av personbangård",Rail,,Sweden,SWE,Europe,,,1/1/2011,1004.0,"SEK, 2011",,
+582,14136,"Sunderby sjukhus, ny sidoplatt-form",Rail,,Sweden,SWE,Europe,,,1/1/2011,45.0,"SEK, 2011",,
+583,14147,"Bohusbanan,  fjärrstyrt  trafikstyrningssystem",Rail,,Sweden,SWE,Europe,,,1/1/2010,303.0,"SEK, 2010",,
+584,14148,"Åstorp–Teckomatorp,  hastighetsanpassning (160 km/tim), mötesstation,  fjärrblockering",Rail,,Sweden,SWE,Europe,,,1/1/2010,144.0,"SEK, 2010",,
+585,14149,Botniabanan,Rail,,Sweden,SWE,Europe,1992.0,2012,8/1/2012,19111.0,"SEK, 2010",,
+586,14154,"Godsstråket genom bergslagen delen Örebro lillån, planskild korsning",Rail,,Sweden,SWE,Europe,,,1/1/2009,48.0,"SEK, 2009",,
+587,14155,"”Göteborg närställ-verksområde delen  Olskroken–Gubbero,  godstågsviadukten”",Rail,,Sweden,SWE,Europe,,,1/1/2009,357.0,"SEK, 2009",,
+588,14159,Bollnäs resecentrum (stråk: Norra stambanan),Rail,,Sweden,SWE,Europe,,,1/1/2008,34.0,"SEK, 2008",,
+589,14169,"Norra stambanan Gävle–Östersund, snabbtågs-anpassning",Rail,,Sweden,SWE,Europe,,,1/1/2007,395.0,"SEK, 2007",,
+590,14170,"Bergslagsbanan klenshyttan,  bangårdsanpassning",Rail,,Sweden,SWE,Europe,,,1/1/2007,47.0,"SEK, 2007",,
+591,14171,"Ostkustbanan mehedeby, Älvkarleö och marma resecentrum inkl. statsbidrag",Rail,,Sweden,SWE,Europe,,,1/1/2007,27.0,"SEK, 2007",,
+592,14172,"mälarbanan kolbäck, bangårdsombyggnad",Rail,,Sweden,SWE,Europe,,,1/1/2007,331.0,"SEK, 2007",,
+593,14173,"stockholm C,  provisorisk kapacitetsåtgärd",Rail,,Sweden,SWE,Europe,,,1/1/2007,488.0,"SEK, 2007",,
+594,14174,"Norge/vänernbanan marieholm–Olskroken, triangelspår",Rail,,Sweden,SWE,Europe,,,1/1/2007,328.0,"SEK, 2007",,
+595,14182,"Stockholm, plattformsanpassning (SL-området)",Rail,,Sweden,SWE,Europe,,,1/1/2006,136.0,"SEK, 2006",,
+596,14187,South East Sydney Light Rail,Rail,Tram,Australia,AUS,Oceania,,,4/3/2020,3147.0,"USD, 2020",12,19
+597,14188,"Modernisation of E59 railway line on the Wroclaw-Poznan section, stage II, Section: Wroclaw - border of Lower Silesia province",Rail,Conventional,Poland,POL,Europe,,,12/31/2018,,,,
+598,14189,New Lyon-Turin Rail Link - Franco-Italian Common Part of the International Section (Studies and Works),Rail,Highspeed,France,FRA,Europe,,2032,12/31/2015,,,,
+599,14192,High speed railway line Paris-Madrid: Section Victoria-Dax,Rail,Highspeed,France,FRA,Europe,,2024,12/31/2015,,,,
+600,14202,"Charlotte, LYNX Blue Line Extension - Northeast Corridor",Rail,Metro,United States of America,USA,North America,2002.0,,1/1/2018,1159.0,"USD, 2018",,
+601,14206,Dulles Corridor Metrorail Project - Extension to Wiehle Avenue (Phase 1),Rail,Metro,United States of America,USA,North America,2003.0,2014,1/1/2014,2900.0,"USD, 2014",,
+602,14207,Los Angeles Metro Gold Line Eastside Extension Project,Rail,Light rail,United States of America,USA,North America,1995.0,2009,11/1/2009,899.1,"USD, 2009",9.656064,
+603,14212,"Phoenix, Central Phoenix/East Valley LRT Corridor",Rail,Light Rail Transit,United States of America,USA,North America,1998.0,2008,1/1/2008,1405.0,"USD, 2008",,
+604,14217,Sacramento South LRT (Phase 2),Rail,Light rail,United States of America,USA,North America,2005.0,,1/1/2015,260.0,"USD, 2015",6.9,4
+605,14219,Seattle/University Link LRT Extension,Rail,Light rail,United States of America,USA,North America,2005.0,,3/1/2016,1674.8,"USD, 2016",5.07,
+606,14222,San Francisco Central Subway,Rail,Heavy rail,United States of America,USA,North America,2010.0,2022,2/1/2022,1561.0,"USD, 2016",,3
+607,14223,Washington DC Silver Line Phase 2,Rail,Heavy rail,United States of America,USA,North America,2014.0,2022,9/1/2022,2778.0,"USD, 2018",,6
+608,14227,Cleveland Euclid Corridor Transportation Project,Rail,Bus Rapid Transit,United States of America,USA,North America,1997.0,2008,1/1/2008,197.0,"USD, 2008",7.1,
+609,14228,Portland South Corridor I-205/Portland Mall LRT,Rail,Light Rail Transit,United States of America,USA,North America,,2009,1/1/2009,576.0,"USD, 2009",13.5,20
+610,14229,Flagstaff Mountain Links BRT,Rail,Bus Rapid Transit,United States of America,USA,North America,,2011,8/1/2011,8.0,"USD, 2011",10.9435392,
+611,14232,Houston North Corridor LRT,Rail,Light Rail Transit,United States of America,USA,North America,,2013,1/1/2013,601.0,"USD, 2013",,
+612,14233,Fort Collins Mason Corridor BRT,Rail,Bus Rapid Transit,United States of America,USA,North America,2004.0,2014,5/1/2014,83.0,"USD, 2014",8.5,
+613,14234,Austin MetroRapid BRT,Rail,Bus Rapid Transit,United States of America,USA,North America,2004.0,2014,9/1/2014,39.0,"USD, 2014",61.56,77
+614,14235,Hartford New Britain - Hartford Busway,Rail,Bus Rapid Transit,United States of America,USA,North America,2000.0,2015,3/1/2015,546.0,"USD, 2015",15.13,11
+615,14236,Portland Streetcar Loop expansion (Central Loop Line),Rail,Streetcar,United States of America,USA,North America,,2012,9/1/2012,148.8,"USD, 2012",5.3,28
+616,14237,Ballarat Line Upgrade Stage 1,Rail,Service upgrade,Australia,AUS,Oceania,,2019,12/1/2019,631.12,"AUD, 2019",18,1
+617,14238,Bayside Rail Improvement Project (Frankston – Werribee Line),Rail,Conventional,Australia,AUS,Oceania,,,,115.0,"AUD, 2015",42.7,
+618,14247,Mernda rail extension project (Mernda),Rail,Conventional,Australia,AUS,Oceania,,2018,8/1/2018,575.0,"AUD, 2018",8,3
+619,14249,More E Class Trams and Infrastructure,Rail,Rolling stock,Australia,AUS,Oceania,,2021,12/19/2021,215.462,"AUD, 2021",,
+620,14250,More Regional Trains  New VLocity trains,Rail,Rolling stock,Australia,AUS,Oceania,,,,259.42,"AUD, 2021",,
+621,14251,New Trams metropolitan various Stage 2 EClass Trams 6051 to 6070,Rail,Rolling stock,Australia,AUS,Oceania,,,,280.0,AUD,,
+622,14252,New VLocity Carriages for the Regional Network,Rail,Rolling stock,Australia,AUS,Oceania,,,,250.6,"AUD, 2021",,
+623,14253,Nine Additional XTrapolis Trains,Rail,Rolling stock,Australia,AUS,Oceania,,,,174.64,"AUD, 2018",,
+624,14255,Tram Procurement & Supporting Infrastructure,Rail,Rolling stock,Australia,AUS,Oceania,,,,804.21,"AUD, 2021",,
+625,14258,Wyndham Vale Stabling Yard,Rail,Train stabling facility,Australia,AUS,Oceania,,,,164.257,"AUD, 2020",3.5,1 (see comment)
+626,14262,Washington Red & Blue,Rail,Heavy rail,United States of America,USA,North America,,1986,,7968.0,,97.36507,
+627,14268,Portland Eastside,Rail,Light Rail Transit,United States of America,USA,North America,,1988,,266.0,,24.301034,
+628,14269,Sacramento Initial,Rail,Light Rail Transit,United States of America,USA,North America,,1988,,188.0,,29.450922,
+629,14273,Seattle DT Tunnel,Rail,Trolleybus,United States of America,USA,North America,,1990,,469.0,,2.092142,
+630,14275,Houston Southwest,Rail,Bus Rapid Transit,United States of America,USA,North America,,1993,,98.0,,15.610598,
+631,14278,Denver North l-25,Rail,Bus Rapid Transit,United States of America,USA,North America,,1994,,228.0,,8.529502,
+632,14281,San Francisco Colma,Rail,Heavy rail,United States of America,USA,North America,,1996,,180.0,,1.448406,
+633,14288,Pittsburgh Airport,Rail,Bus Rapid Transit,United States of America,USA,North America,,2000,,322.0,,9.816974,
+634,14298,Boston Piers,Rail,Bus Rapid Transit,United States of America,USA,North America,,2004,,600.0,,1.60934,
+635,14307,Chicago UP West,Rail,Commuter Rail,United States of America,USA,North America,,2006,,106.0,,13.67939,
+636,14309,Chicago Southwest Expansion,Rail,Commuter Rail,United States of America,USA,North America,,2006,,185.0,,17.70274,
+637,14313,New Jersey Hudson-Bergen,Rail,Light Rail Transit,United States of America,USA,North America,,2006,,1756.0,"USD, 2006",24.783836,24
+638,14319,Portland WES,Rail,YR,United States of America,USA,North America,,2008,,162.0,,23.657298,
+639,14320,San Diego Sprinter,Rail,YR,United States of America,USA,North America,,2008,,478.0,,35.40548,
+640,14334,Orlando Central Florida,Rail,Commuter Rail,United States of America,USA,North America,,2014,,357.0,,51.49888,
+641,14337,"Stockholm, The City Line (expansion of the Third Track, 1998)",Rail,,Sweden,SWE,Europe,1991.0,2017,1/1/2017,20100.0,"SEK, 2017",,
+642,15892,Railway tunnel through Hallandsåsen in southern Sweden,Rail,,Sweden,SWE,Europe,1975.0,,1/1/2015,,,8.7,
+643,15894,Edinburgh light rail,Rail,Light rail transit,United Kingdom,GBR,Europe,,,5/1/2014,776.0,GBP 2014,14.2,15
+644,15896,"Rail Baltic/Rail Baltica (RB) corridor through Estonia, Latvia and Lithuania",Rail,,,,,,,12/31/2022,,,,
+645,15897,"Rail Baltic/Rail Baltica (RB) corridor through Estonia, Latvia and Lithuania (Part II)",Rail,,,,,,,12/31/2023,,,,
+646,15898,"Rail Baltic / Rail Baltica - railway line development in Estonia, Latvia and Lithuania (Part III)",Rail,,,,,,,12/31/2023,,,,
+647,15902,Construction of rail connection between the ports of Szczecin and Świnoujście,Rail,Conventional,Poland,POL,Europe,,,6/30/2022,,,96,
+648,15903,Cross-border section of new international Lyon-Turin rail connection – Mont-Cenis Base Tunnel,Rail,Conventional,,,,,,12/31/2021,,,,
+649,15907,Atlantic Corridor: Section Bergara-San Sebastian-Bayonne. Studies and works and services for follow-up works. Phase 1,Rail,Conventional,,,,,,12/31/2023,,,,
+650,15956,TGV Paris Southeast Line,Rail,Highspeed,France,FRA,Europe,1976.0,1983,9/1/1983,1660.169798,"EUR, 1995",,
+651,15957,TGV Atlantic Line,Rail,Highspeed,France,FRA,Europe,1984.0,1980,9/1/1980,1859.87801,"EUR, 1995",275,
+652,15958,TGV North Line,Rail,Highspeed,France,FRA,Europe,1987.0,1993,9/26/1993,2423.939374,"EUR, 1995",333,
+653,15960,Grödingebanen,Rail,Conventional,Sweden,SWE,Europe,,1994,12/1/1994,2739.0,"SEK, 1994",,
+654,16584,Metro parisien L13 (prolongation vers Asnieres) (2008),Rail,Metro,France,FRA,Europe,,2008,1/1/2008,178.0,"EUR, 2009",,
+655,16585,Tramway T3 Grenoble (connu maintenant sous la de nomination lignes C et D St Martin D’Heres- Universites) (2006-2007) – Pas d’avis du CGEDD,Rail,Light rail,France,FRA,Europe,,2007,1/1/2007,365.0,"EUR, 2006",13.5,
+656,16586,"Reouverture Grande Ceinture Ouest entre St-Germain en Laye et Noisy le Roy (2014, mis en service en 2004)",Rail,rapid transit,France,FRA,Europe,1990.0,2004,12/12/2004,166.0,"EUR, 2011",,
+657,16587,Remise en service de la liaison Ermont-Eaubonne- Paris Saint-Lazare (2006),Rail,passenger and freight,France,FRA,Europe,2000.0,2006,1/1/2006,340.0,"EUR, 2011",,
+658,16588,"LGV Est-europeenne phase 1 (Paris/Vaires – Baudre court) (2007, DUP 1996)",Rail,Highspeed,France,FRA,Europe,1996.0,2007,6/10/2007,4316.0,"EUR, 2009",344,
+659,16589,"Extension de l’aeroport de Paris-CDG (2001-2003, DUP en 1995)",Rail,Metro,France,FRA,Europe,1995.0,2003,1/1/2003,35.97796807,"EUR, 1996",,
+660,16791,Hovedstadsområdet: Ringbanen,Rail,Metro,Denmark,DNK,Europe,,2007,,1439.170601,"DKK, 2007",,
+661,16792,Storebælt: Storebæltsforbindelsen,Rail,Conventional,Denmark,DNK,Europe,,1997,,29896.18981,"DKK, 1988",7.4,
+662,16793,Øresund: Øresundbron,Rail,Conventional,Denmark,DNK,Europe,,2000,,31844.9044,"DKK, 2000",,
+663,16794,Østjylland: Århus Nærbane (1979),Rail,Metro,Denmark,DNK,Europe,,1979,,,,,
+664,16795,Frederikssund: Fredeikssundbanen,Rail,Metro,Denmark,DNK,Europe,,2002,,1035.621711,"DKK, 2002",,
+665,16796,Københavns Metro: Metro1,Rail,Metro,Denmark,DNK,Europe,,2002,,9368.455987,"DKK, 2004",,
+666,16797,Københavns Metro: Metro2,Rail,Metro,Denmark,DNK,Europe,,2003,,1934.789823,"DKK, 2004",,
+667,16798,Nordjylland: Aalborg Nærbane,Rail,Metro,Denmark,DNK,Europe,,2003,,226.8832745,"DKK, 2006",,
+668,16799,Fyn: Svendborg,Rail,Conventional,Denmark,DNK,Europe,,2003,,223.0377952,"DKK, 2007",,
+669,16801,Oslo: T-Bane Ringen,Rail,Metro,Norway,NOR,Europe,,2006,,,,,
+670,16803,Vestfoldbanen: Drammen - Skien,Rail,Conventional,Norway,NOR,Europe,,2003,,1429.097035,"NOK, 2002",138,13
+671,16804,Gardermobanen: Flytoget,Rail,Highspeed,Norway,NOR,Europe,,1999,,9472.167847,"NOK, 1998",,
+672,16805,Bergensbanen: Finsetunnelen,Rail,Conventional,Norway,NOR,Europe,,1999,,9638.363904,"NOK, 2000",10300,
+673,16806,Västkustbanan: Trönninge - Båsted,Rail,Conventional,Sweden,SWE,Europe,,1995,,963.4064223,"SEK, 1993",,
+674,16807,Ostkustbanan: Vattholma - Skyttorp,Rail,Conventional,Sweden,SWE,Europe,,1995,,199.9225746,"SEK, 1993",,
+675,16808,Ostkustbanan: Gävle - Hilleby,Rail,Conventional,Sweden,SWE,Europe,,1995,,47.22580502,"SEK, 1993",,
+676,16809,Norra stambanan: Erikstadssvängen,Rail,Conventional,Sweden,SWE,Europe,,1995,,121.2128995,"SEK, 1993",,
+677,16810,Norge/Vänernbanan: Etapp 1,Rail,Conventional,Sweden,SWE,Europe,,1995,,279.0657898,"SEK, 1992",,
+678,16811,Malmö: Citytunneln,Rail,Conventional,Sweden,SWE,Europe,,2010,12/1/2010,8690.0,"SEK, 2010",17,
+679,16812,Skåne: Ystad - Simrishamn,Rail,Conventional,Sweden,SWE,Europe,,2003,9/1/2003,,,,
+680,16813,Skåne: Malmö - Ystad,Rail,Conventional,Sweden,SWE,Europe,,1997,,626.5290132,"SEK, 1993",,
+681,16814,Arlanda: Arlanda Express,Rail,Conventional,Sweden,SWE,Europe,,2000,,7838.58195,"SEK, 2000",,
+682,16815,Mälarbanan: Mälarbanan,Rail,Conventional,Sweden,SWE,Europe,,2001,,6.551919194,"SEK, 2001",,
+683,16816,Olskroken: Bangårdsombygnnad,Rail,Conventional,Sweden,SWE,Europe,,2002,,129.2101003,"SEK, 1999",,
+684,16817,Sheffield: Supertram,Rail,Light rail,United Kingdom,GBR,Europe,1990.0,1995,10/23/1995,252.181484,"GBP, 2004",29,48
+685,16819,Croydon: Tramlink,Rail,Light Rail,United Kingdom,GBR,Europe,1994.0,2000,5/10/2000,209.2792398,"GBP, 2004",28,38
+686,18052,Coleraine to Derry Track Relay,Rail,Conventional,United Kingdom,GBR,Europe,,2017,10/31/2017,45.849958,GBP,53,
+687,18306,"Perris Valley Commuter Rail Extension; Riverside County, CA",Rail,Commuter rail,United States of America,USA,North America,2007.0,2016,6/1/2016,248.3,"USD, 2016",38.6,4
+688,18311,La première ligne de tramway de Reims,Rail,Light rail,France,FRA,Europe,2005.0,2011,4/14/2011,,,11.2,23
+689,18312,Hong Kong: LOHAS Park Spur Line,Rail,Metro,"China, Hong Kong Special Administrative Region",HKG,Asia,,2009,,,,1.8,
+690,18314,Cairo: Line 3 Phase 4,Rail,Metro,Egypt,EGY,Africa,2023.0,2022,,,,12.1,8
+691,18315,Perth: Forrestfield-Airport Link,Rail,Airport rail link,Australia,AUS,Oceania,2016.0,2021,,1860.0,"AUD, 2018",8.5,3
+692,18316,Bahrain: Phase 1 (Red & Blue),Rail,Metro,Bahrain,BHR,Asia,2018.0,2023,,453.0,"BHD, 2021",28.6,20
+693,18317,Dhaka: Line 6,Rail,Metro,Bangladesh,BGD,Asia,2014.0,2025,,,,20,16
+694,18318,Sofia: Line 1 northern,Rail,Metro,Bulgaria,BGR,Europe,2009.0,2012,,,,5.1,4
+695,18319,Salvador: Lines 1-2,Rail,Metro,Brazil,BRA,South America,2000.0,2017,7/11/2011,4800.0,"BRL, 2012",33,20
+696,18320,Rio de Janeiro: Line 4,Rail,Metro,Brazil,BRA,South America,2010.0,2016,7/30/2016,10300.0,"BRL, 2013",16,7
+697,18321,Sao Paulo: Line 5 extension,Rail,Metro,Brazil,BRA,South America,2010.0,2018,9/8/2018,3781.0,USD 2014,12,11
+698,18322,Sao Paulo: Line 6 phase 1,Rail,Metro,Brazil,BRA,South America,2015.0,2023,,9600.0,"BRL, 2020",15.9,15
+699,18324,Toronto: Vaughan,Rail,Metro,Canada,CAN,North America,2009.0,2017,,3200.0,"CAD, 2013",8.6,6
+700,18325,Toronto: Eglinton Crosstown,Rail,Light rail,Canada,CAN,North America,2011.0,2022,,5300.0,"CAD, 2016",19,25
+701,18326,Lucerne: Zentralbahn - extension to 2 tracks and put underground,Rail,Conventional,Switzerland,CHE,Europe,2008.0,2013,,220.2,"CHF, 2010",1.5,1
+702,18327,Zurich: Durchmesserlinie,Rail,Metro,Switzerland,CHE,Europe,2007.0,2014,,2030.0,"CHF, 2010",9.6,1
+703,18328,Geneva: CEVA,Rail,Metro,Switzerland,CHE,Europe,2013.0,2019,,1567.0,"CHF, 2016",8.8,4
+704,18329,Shenzhen: Line 3,Rail,Metro,China,CHN,Asia,2007.0,2010,12/28/2010,,,41.5,30
+705,18330,Shenzhen: Line 1 Phase 2,Rail,Metro,China,CHN,Asia,2007.0,2011,6/15/2011,,,23.5,15
+706,18331,Shenzhen: Line 2 (Phase 1 and 2),Rail,Metro,China,CHN,Asia,,2011,6/28/2011,17787.0,"CNY, 2011",35.8,29
+707,18332,Shenzhen: Line 4 Phase 2,Rail,Metro,China,CHN,Asia,,2011,,,,15.94,10
+708,18333,Shenzhen: Line 5 Phase 1,Rail,Metro,China,CHN,Asia,2007.0,2011,6/22/2011,20450.0,"CNY, 2011",42.4,34
+709,18334,Shenzhen: Line 9,Rail,Metro,China,CHN,Asia,2012.0,2016,,,,25.33,22
+710,18335,Beijing: Line 8 Phase 2 North,Rail,Metro,China,CHN,Asia,,2011,,,,10.7,6
+711,18336,Beijing: Line 8 Phase 2 South,Rail,Metro,China,CHN,Asia,,2013,,,,4.447,6
+712,18337,Shenzhen: Line 11 Phase 1,Rail,Metro,China,CHN,Asia,2011.0,2016,6/28/2016,,,53.1,19
+713,18338,Shenzhen: Line 7,Rail,Metro,China,CHN,Asia,2012.0,2016,10/28/2016,,,30.2,27
+714,18339,Shenzhen: Line 8 Phase 1,Rail,Metro,China,CHN,Asia,2015.0,2020,,,,12.341,6
+715,18340,Shenzhen: Line 8 Phase 2,Rail,Metro,China,CHN,Asia,2017.0,,,,,8,4
+716,18341,Beijing: Line 1 Phase 1,Rail,Metro,China,CHN,Asia,1965.0,1969,,,,23.6,17
+717,18342,Shanghai: Line 1 (Shanghai Railway Station to Jinjiang Park),Rail,Metro,China,CHN,Asia,1990.0,1995,,,,16.1,13
+718,18343,Shanghai: Line 2 Phase 1,Rail,Metro,China,CHN,Asia,1995.0,1999,,,,16.3,12
+719,18344,Shanghai: Line 3,Rail,Metro,China,CHN,Asia,1997.0,2000,,,,24.975,29
+720,18345,Shanghai: Line 2 Eastern Extension 1,Rail,Metro,China,CHN,Asia,1999.0,2000,,,,2.72,1
+721,18346,Beijing: Line 13,Rail,Metro,China,CHN,Asia,1999.0,2003,9/28/2002,,,40.85,17
+722,18347,Wuhan: Line 1 Phase 1,Rail,Light rail,China,CHN,Asia,2000.0,2003,,,,10.234,10
+723,18348,Nanjing: Line 1 Phase 1,Rail,Metro,China,CHN,Asia,2000.0,2005,,,,28.42,16
+724,18349,Shanghai: Line 5 Phase 1,Rail,Metro,China,CHN,Asia,2000.0,2002,,,,17.206,11
+725,18350,Shanghai: Line 8 Phase 1,Rail,Metro,China,CHN,Asia,2001.0,2007,,,,23.2,22
+726,18351,Shanghai: Line 6,Rail,Metro,China,CHN,Asia,2002.0,2011,,,,33.09,28
+727,18352,Shanghai: Line 2 Western Extension 1,Rail,Metro,China,CHN,Asia,2001.0,2006,,,,6.155,4
+728,18353,Beijing: Line 5,Rail,Metro,China,CHN,Asia,2002.0,2007,,,,27.6,23
+729,18354,Shanghai: Line 4 Phase 1,Rail,Metro,China,CHN,Asia,2000.0,2005,12/31/2005,12600.0,"CNY, 2005",22.032,9
+730,18355,Beijing: Line 10 North and East,Rail,Metro,China,CHN,Asia,2003.0,2008,,,,24.64,22
+731,18356,Beijing: Capital Airport Express ,Rail,Metro,China,CHN,Asia,2005.0,2008,,,,28.1,4
+732,18357,Beijing: Line 8 Phase 1 for Olympics,Rail,Metro,China,CHN,Asia,2005.0,2008,,,,4.528,4
+733,18358,Beijing: Line 4,Rail,Metro,China,CHN,Asia,2004.0,2009,9/28/2009,,,28.2,24
+734,18359,Wuhan: Line 1 Phase 2,Rail,Metro,China,CHN,Asia,2005.0,2010,,,,18.25,16
+735,18360,Shanghai: Line 3 Northern Extension,Rail,Metro,China,CHN,Asia,,2006,,3500.0,"CNY, 2006",15.365,10
+736,18361,Shanghai: Line 7 Phase 1,Rail,Metro,China,CHN,Asia,2005.0,2009,,,,34.4,27
+737,18362,Shanghai: Line 9 Phase 2,Rail,Metro,China,CHN,Asia,2005.0,2009,,8940.0,"CNY, 2009",14.5,10
+738,18363,Shanghai: Line 10 Phase 1,Rail,Metro,China,CHN,Asia,2005.0,2010,,,,36.221,31
+739,18364,Beijing: Daxing Line,Rail,Metro,China,CHN,Asia,2007.0,2010,,,,21.8,11
+740,18365,Hangzhou: Line 1 Phase 1,Rail,Metro,China,CHN,Asia,2007.0,2012,11/24/2012,,,48,31
+741,18366,Beijing: Line 10 South and West,Rail,Metro,China,CHN,Asia,2007.0,2012,,,,32.46,24
+742,18367,Shanghai: Line 9 Phase 1,Rail,Metro,China,CHN,Asia,,2008,12/28/2008,19000.0,"CNY, 2008",30.687,13
+743,18368,Shanghai: Line 11 Phase 1,Rail,Metro,China,CHN,Asia,2007.0,2009,12/31/2009,18950.0,"CNY, 2009",45.8,20
+744,18369,Shanghai: Line 2 Eastern Extension 2,Rail,Metro,China,CHN,Asia,2006.0,2010,,,,30.8,10
+745,18370,Wuhan: Line 4 Phase 1,Rail,Metro,China,CHN,Asia,2009.0,,,,,15.4,15
+746,18371,Shanghai: Line 8 Phase 2,Rail,Metro,China,CHN,Asia,,2009,,,,14.44,8
+747,18372,Wuhan: Line 2 Phase 1,Rail,Metro,China,CHN,Asia,2006.0,2012,,,,28,21
+748,18373,Beijing: Line 6 Phase 1 and 2,Rail,Metro,China,CHN,Asia,2009.0,2014,,,,53.4,34
+749,18374,Shanghai: Line 2 Western Extension 2,Rail,Metro,China,CHN,Asia,,2010,,2500.0,"CNY, 2010",8.53,3
+750,18375,Shanghai: Line 7 Northern Extension,Rail,Metro,China,CHN,Asia,2009.0,2011,,,,9.978,5
+751,18376,Shanghai: Line 9 Phase 3,Rail,Metro,China,CHN,Asia,2009.0,2012,,,,5.372,
+752,18377,Beijing: Line 15 Phase 1,Rail,Metro,China,CHN,Asia,2009.0,2014,,,,41.4,18
+753,18378,Kunming: Line 1 Phase 1 and Line 2 Phase 1,Rail,Metro,China,CHN,Asia,2010.0,2014,,,,42.1,31
+754,18379,Shanghai: Line 16,Rail,Metro,China,CHN,Asia,2010.0,2014,12/28/2014,,,54.8,13
+755,18380,Guiyang: Line 1 Phase 1,Rail,Metro,China,CHN,Asia,2013.0,2018,,,,35.1,25
+756,18381,Wuhan: Line 1 Phase 3 Hankou North,Rail,Metro,China,CHN,Asia,2011.0,2013,,,,5.7,3
+757,18382,Beijing: Line 8 Northern Extension,Rail,Metro,China,CHN,Asia,2011.0,2013,,,,6.328,3
+758,18383,Beijing: Line 14 West,Rail,Metro,China,CHN,Asia,2010.0,2014,,,,12.4,7
+759,18384,Hefei: Line 1 Phase 1+2,Rail,Metro,China,CHN,Asia,2012.0,2016,12/23/2016,,,24.6,23
+760,18385,Beijing: Line 14 East,Rail,Metro,China,CHN,Asia,2010.0,2015,,,,31.4,23
+761,18386,Changsha: Line 2 West Extension Phase 1,Rail,Metro,China,CHN,Asia,2012.0,2015,,,,4.5,4
+762,18387,Shanghai: Line 11 (to Disney),Rail,Metro,China,CHN,Asia,,2016,,,,9.15,3
+763,18388,Lanzhou: Line 1 Phase 1,Rail,Metro,China,CHN,Asia,2014.0,2019,,,,25.9,20
+764,18389,Changsha: Line 3 Phase 1,Rail,Metro,China,CHN,Asia,2012.0,2020,6/28/2020,,,35.6,25
+765,18390,Taiyuan: Line 2 Phase 1,Rail,Metro,China,CHN,Asia,2012.0,2016,,,,25.1,22
+766,18391,Changsha: Line 4 Phase 1,Rail,Metro,China,CHN,Asia,2013.0,2017,,,,33.5,24
+767,18392,Changsha: Line 5 Phase 1,Rail,Metro,China,CHN,Asia,2014.0,2020,6/1/2018,,,22.7,18
+768,18393,Taiyuan: Line 1 Phase 1,Rail,Metro,China,CHN,Asia,2018.0,2024,,,,28.6,24
+769,18394,Shanghai: Line 10 Phase 2,Rail,Metro,China,CHN,Asia,2015.0,2020,,,,10.09,6
+770,18395,Lanzhou: Line 2 Phase 1,Rail,Metro,China,CHN,Asia,2015.0,2020,,,,9.4,8
+771,18396,Shanghai: Line 11 Phase 2,Rail,Metro,China,CHN,Asia,2008.0,2013,,12965.0,"CNY, 2013",22.886,13
+772,18397,Shanghai: Line 11 Huaqiao,Rail,Metro,China,CHN,Asia,,2013,,,,82.4,
+773,18398,Chongqing: Line 6 Branch (EXPO) Phase 1,Rail,Metro,China,CHN,Asia,,2013,,,,12.2,6
+774,18399,Kunming: Line 1 Feeder,Rail,Metro,China,CHN,Asia,2013.0,2015,,,,5.2,4
+775,18400,Kunming: Line 1 Southern Extension,Rail,Metro,China,CHN,Asia,2013.0,2015,,,,7.3,3
+776,18401,Kunming: Line 6,Rail,Metro,China,CHN,Asia,2013.0,2015,,,,25.4,8
+777,18402,Chongqing: Ring Line,Rail,Metro,China,CHN,Asia,2012.0,2020,2/4/2021,,,50.47,34
+778,18403,Kunming: Line 1 Northwestern Extension,Rail,Metro,China,CHN,Asia,2014.0,2016,,,,7.9,7
+779,18404,Guangzhou: Line 13 Phase 1,Rail,Metro,China,CHN,Asia,2013.0,2017,,,,27.03,11
+780,18405,Chongqing: Line 5 Phase 1,Rail,Metro,China,CHN,Asia,2013.0,2017,,,,48.6,32
+781,18406,Chongqing: Line 4 Phase 1,Rail,Metro,China,CHN,Asia,2013.0,2018,,,,15.77,9
+782,18407,Kunming: Line 5,Rail,Metro,China,CHN,Asia,2015.0,2018,,,,24,22
+783,18408,Kunming: Line 3 Phase 2,Rail,Metro,China,CHN,Asia,2016.0,2018,,,,4,3
+784,18409,Chongqing: Line 9 Phase 1,Rail,Metro,China,CHN,Asia,2015.0,2019,,,,28.2,21
+785,18410,Kunming: Line 4,Rail,Metro,China,CHN,Asia,2016.0,2019,,,,43.4,29
+786,18411,Kunming: Line 2 Phase 2,Rail,Metro,China,CHN,Asia,2017.0,2019,,,,9.2,8
+787,18412,Chongqing: Line 9 Phase 2,Rail,Metro,China,CHN,Asia,2016.0,2020,,,,10.77,5
+788,18413,Shanghai: Line 14,Rail,Metro,China,CHN,Asia,2016.0,2021,,,,38.5,30
+789,18414,Beijing: Line 16,Rail,Metro,China,CHN,Asia,2013.0,2021,,,,46.2,28
+790,18415,Wuhan: Line 2 Southern Extension,Rail,Metro,China,CHN,Asia,,2019,2/19/2019,,,13.35,10
+791,18416,Wenzhou: S1 Phase 1,Rail,Metro,China,CHN,Asia,,2019,,18606.83,"CNY, 2014",53.5,18
+792,18417,Wenzhou: S2 Phase 1,Rail,Metro,China,CHN,Asia,2015.0,2023 (exp),4/13/2023,,,62.9,20
+793,18418,Beijing: Line 7 Phase 1,Rail,Metro,China,CHN,Asia,2009.0,2014,12/28/2014,16000.0,"CNY, 2014",23.7,21
+794,18419,Beijing: Line 8 Phase 3 South,Rail,Metro,China,CHN,Asia,2014.0,2018,,,,13,11
+795,18420,Hefei: Line 3 Phase 1,Rail,Metro,China,CHN,Asia,2014.0,2019,,,,37.7,32
+796,18421,Hefei: Line 4 Phase 1,Rail,Metro,China,CHN,Asia,2015.0,2021,12/26/2021,,,36,28
+797,18422,Shanghai: Line 15,Rail,Metro,China,CHN,Asia,2015.0,2021,,,,42.3,30
+798,18423,Hefei: Line 5 Phase 1,Rail,Metro,China,CHN,Asia,2016.0,2020,12/26/2020,,,40.2,33
+799,18424,Wuhan: Line 2 Northern Extension,Rail,Metro,China,CHN,Asia,,,,,,15,5
+800,18425,Tianjin: M3 Phase 2,Rail,Metro,China,CHN,Asia,,,,,,3.9,3
+801,18426,Wuhan: Line 21,Rail,Metro,China,CHN,Asia,,2017,,,,34.5,16
+802,18427,Shanghai: Line 9 Phase 3 Eastern Extension,Rail,Metro,China,CHN,Asia,2013.0,2017,,,,13.828,9
+803,18428,Wuhan: Line 1 Phase 4 (Jinghe),Rail,Metro,China,CHN,Asia,2015.0,2017,,,,3.97,2
+804,18429,Nanjing: Line 3 Phase 3,Rail,Metro,China,CHN,Asia,2015.0,2017,,,,6.6,2
+805,18430,Nanchang: Line 2 Western Extension,Rail,Metro,China,CHN,Asia,2015.0,2018,,,,8.5,7
+806,18431,Wuhan: Line 4 Western Extension,Rail,Metro,China,CHN,Asia,2016.0,2018,,,,4,2
+807,18432,Beijing: Line 8 Phase 4,Rail,Metro,China,CHN,Asia,2016.0,2018,,,,3.4,2
+808,18433,Shanghai: Line 8 Phase 3 (Pujiang Line),Rail,Metro,China,CHN,Asia,2016.0,2018,,,,6.689,6
+809,18434,Nanjing: Line 1 Northern Extension,Rail,Metro,China,CHN,Asia,2015.0,2019,,,,6.5,5
+810,18435,Fuzhou: Line 6 Phase 1,Rail,Metro,China,CHN,Asia,2015.0,2022,8/28/2022,,,40.5,17
+811,18436,Nanning: Line 4 Phase 1,Rail,Metro,China,CHN,Asia,2015.0,2019,,,,21.4,16
+812,18437,Nanning: Line 3 Phase1,Rail,Metro,China,CHN,Asia,2015.0,2019,6/6/2019,,,27.9,23
+813,18438,Nanchang: Line 3,Rail,Metro,China,CHN,Asia,2015.0,2020,12/26/2020,,,26.8,22
+814,18439,Nanjing: Line 5,Rail,Metro,China,CHN,Asia,2015.0,2023 (exp),,,,37.5,30
+815,18440,Tianjin: M10 Phase 1 - Rvw,Rail,Metro,China,CHN,Asia,2015.0,2020,,,,24,23
+816,18441,Tianjin: B1 Phase 1,Rail,Metro,China,CHN,Asia,2016.0,2024 (exp),,,,31.4,22
+817,18442,Tianjin: Z4 Phase 1,Rail,Metro,China,CHN,Asia,2015.0,2024 (exp),,,,42.4,23
+818,18443,Wuhan: Line 7 South ,Rail,Metro,China,CHN,Asia,2016.0,2020,,,,17,7
+819,18444,Fuzhou: Line 5 Phase 1 (Jingxi Houyu — Ancient Luozhou Town),Rail,Metro,China,CHN,Asia,2016.0,2022,4/29/2022,,,22.4,17
+820,18445,Nanjing: Line 9 Phase 1,Rail,Metro,China,CHN,Asia,2016.0,2020,,,,18,15
+821,18446,Nanjing: Line 7,Rail,Metro,China,CHN,Asia,2016.0,2020,12/28/2022,,,13.8,10
+822,18447,Nanjing: Line 6,Rail,Metro,China,CHN,Asia,2019.0,2023 (exp),,,,34.8,19
+823,18448,Nanning: Line 5 Phase 1,Rail,Metro,China,CHN,Asia,2016.0,2020,,,,20.6,17
+824,18449,Nanchang: Line 2 Eastern Extension,Rail,Metro,China,CHN,Asia,2017.0,2020,,,,4.7,4
+825,18450,Beijing: Line 25 Phase 2 (Fangshan Northern Extension),Rail,Metro,China,CHN,Asia,2017.0,2020,,,,5,4
+826,18451,Nanjing: Line 10 Phase 2,Rail,Metro,China,CHN,Asia,2017.0,2020,,,,12.1,7
+827,18452,Nanjing: Line 2 Western Extension,Rail,Metro,China,CHN,Asia,2017.0,2020,,,,5.6,4
+828,18453,Tianjin: M8 Phase 1,Rail,Metro,China,CHN,Asia,2017.0,2021,12/28/2021,,,13.4,18
+829,18454,Tianjin: M7 Phase 1,Rail,Metro,China,CHN,Asia,2017.0,2020,,,,26.9,24
+830,18455,Tianjin: M11 Phase 1 - Rvw,Rail,Metro,China,CHN,Asia,2017.0,2020,,,,25.4,25
+831,18456,Tianjin: Z2 Phase 1,Rail,Metro,China,CHN,Asia,2017.0,,,,,52.8,17
+832,18457,Beijing: Line 3 Phase 1+2,Rail,Metro,China,CHN,Asia,2016.0,2024 (exp),,,,15.6,10
+833,18458,Nanchang: Line 4 Phase 1,Rail,Metro,China,CHN,Asia,2016.0,2021,,,,38.2,29
+834,18459,Wuhan: Line 11 Eastern Phase 1 and 2,Rail,Metro,China,CHN,Asia,2017.0,2021,,,,32.1,20
+835,18460,Beijing: Line 12,Rail,Metro,China,CHN,Asia,2017.0,2023 (exp),,,,29.2,21
+836,18461,Beijing: Line 19 Phase 1,Rail,Metro,China,CHN,Asia,2017.0,2022,7/30/2022,,,22.4,10
+837,18462,Fuzhou: Line 4 Phase 1,Rail,Metro,China,CHN,Asia,2016.0,2023 (exp),,,,24.2,21
+838,18463,Wuhan: Line 5,Rail,Metro,China,CHN,Asia,2017.0,2021,,,,31.9,27
+839,18464,Wuhan: Line 8 Phase 2,Rail,Metro,China,CHN,Asia,2018.0,2021,,,,16.7,12
+840,18465,Nanchang: Line 1 Eastern Extension,Rail,Metro,China,CHN,Asia,2018.0,2021,,,,4.1,2
+841,18466,Beijing: Line 27 Phase 2 (Changping Southern Extension),Rail,Metro,China,CHN,Asia,2019.0,2021,,,,16.6,8
+842,18467,Beijing: Line 17,Rail,Metro,China,CHN,Asia,2015.0,2024 (exp),,,,49.7,21
+843,18468,Shanghai: Line 5 Southern Extension,Rail,Metro,China,CHN,Asia,2014.0,2018,,,,19.628,8
+844,18469,Beijing: Line 7 Phase 2 (Eastern Extension),Rail,Metro,China,CHN,Asia,2016.0,2020,,,,17.2,9
+845,18470,Chengdu: Line 8 Phase 1,Rail,Metro,China,CHN,Asia,2016.0,2020,12/18/2020,,,29.1,25
+846,18471,Guiyang: S1 Phase 1,Rail,Metro,China,CHN,Asia,2016.0,2024,,,,30.3,12
+847,18472,Nanjing: Line 4 Phase 2,Rail,Metro,China,CHN,Asia,2016.0,2020,,,,9.7,6
+848,18473,Xiamen: Line 2 Phase 2,Rail,Metro,China,CHN,Asia,2016.0,2020,,,,15.5,9
+849,18474,Xiamen: Line 3 Phase 2,Rail,Metro,China,CHN,Asia,2016.0,2020,,,,22.6,13
+850,18475,Hangzhou: Line 2 Phase 3,Rail,Metro,China,CHN,Asia,2017.0,2020,,988.0,"CNY, 2016",1.6,1
+851,18476,Hangzhou: Line 5 Phase 2,Rail,Metro,China,CHN,Asia,2017.0,2020,,,,3.2,2
+852,18477,Nanjing: Line S8 Southern Extension,Rail,Metro,China,CHN,Asia,2017.0,2020,,,,2.5,2
+853,18478,Guiyang: S2 Phase 1 North,Rail,Metro,China,CHN,Asia,,,,,,75.1,33
+854,18479,Hangzhou: Line 3 Phase 1,Rail,Metro,China,CHN,Asia,2017.0,2022,,,,57.5,39
+855,18480,Hangzhou: Line 7,Rail,Metro,China,CHN,Asia,2017.0,2020,12/30/2020,,,47.5,24
+856,18481,Nanjing: Line 11 Phase 1,Rail,Metro,China,CHN,Asia,2017.0,2025 (exp),,,,26.7,20
+857,18482,Hangzhou: Line 1 Phase 3,Rail,Metro,China,CHN,Asia,2017.0,2022,,,,11.5,5
+858,18483,Guiyang: Line 2 Phase 2,Rail,Metro,China,CHN,Asia,2017.0,2022,,,,12.8,8
+859,18484,Hangzhou: Line 9 Phase 1,Rail,Metro,China,CHN,Asia,2017.0,2022,,,,17.8,14
+860,18485,Hangzhou: Line 6 Phase 2,Rail,Metro,China,CHN,Asia,2017.0,2022,,,,8.3,6
+861,18486,Hangzhou: Line 4 Phase 2,Rail,Metro,China,CHN,Asia,2017.0,2022,2/21/2022,,,26,14
+862,18487,Xiamen: Line 6,Rail,Metro,China,CHN,Asia,2016.0,2023 (exp),,,,49.8,30
+863,18488,Xiamen: Line 4,Rail,Metro,China,CHN,Asia,2015.0,2024 (exp),,,,71.2,19
+864,18489,Hangzhou: Line 10 Phase 1,Rail,Metro,China,CHN,Asia,2018.0,2022,,,,15.9,13
+865,18490,Hangzhou: Line 8 Phase 1,Rail,Metro,China,CHN,Asia,2018.0,2022,,,,17.2,8
+866,18491,Shenzhen: Line 6 Phase 1,Rail,Metro,China,CHN,Asia,2015.0,2020,8/18/2020,16800.0,"CNY, 2020",37.626,20
+867,18492,Chengdu: Line 9 Phase 1,Rail,Metro,China,CHN,Asia,2017.0,2020,12/18/2020,,,22.2,13
+868,18493,Guangzhou: Line 22,Rail,Metro,China,CHN,Asia,2017.0,2022,3/31/2022,,,30.8,8
+869,18494,Guangzhou: Line 18,Rail,Metro,China,CHN,Asia,2017.0,2020,,,,58.3,8
+870,18495,Guangzhou: Line 13 Phase 2,Rail,Metro,China,CHN,Asia,2017.0,2024 (exp),,,,34.2,23
+871,18496,Changsha: Line 2 West Extension Phase 2,Rail,Metro,China,CHN,Asia,2017.0,2021,,,,14.72,11
+872,18497,Changsha: Line 6 Central,Rail,Metro,China,CHN,Asia,2017.0,2022,6/28/2022,,,26.5,20
+873,18498,Changsha: Line 7 Phase 1,Rail,Metro,China,CHN,Asia,2017.0,2021,,,,21.6,16
+874,18499,Changsha: Line 1 North Extension Phase 1,Rail,Metro,China,CHN,Asia,2017.0,2021,,,,9.93,5
+875,18500,Guangzhou: Line 14 Phase 2,Rail,Metro,China,CHN,Asia,2017.0,2021,,9494.0,"CNY, 2017",11.6,7
+876,18501,Nanning: Line 2 Eastern Extension,Rail,Metro,China,CHN,Asia,2017.0,2021,,,,6.5,4
+877,18502,Shenzhen: Line 12,Rail,Metro,China,CHN,Asia,2017.0,2022,,,,40.5,33
+878,18503,Changsha: Line 4 North Extension,Rail,Metro,China,CHN,Asia,2018.0,2022,,,,14.26,8
+879,18504,Changsha: Line 5 South Extension,Rail,Metro,China,CHN,Asia,2018.0,2022,,,,8.43,7
+880,18505,Changsha: Line 6 West,Rail,Metro,China,CHN,Asia,2018.0,2022,,,,10.05,7
+881,18506,Changsha: Line 6 East,Rail,Metro,China,CHN,Asia,2018.0,2022,,,,12.15,5
+882,18507,Guangzhou: Line 5 Eastern Extension,Rail,Metro,China,CHN,Asia,2018.0,2022,,,,9.7,6
+883,18508,Guangzhou: Line 7 Phase 2,Rail,Metro,China,CHN,Asia,2018.0,2022,5/1/2022,,,21.8,11
+884,18509,Shenzhen: Line 14,Rail,Metro,China,CHN,Asia,2018.0,2022,,,,50.3,18
+885,18510,Changsha: Line 5 North Extension,Rail,Metro,China,CHN,Asia,2019.0,2022,,,,3.65,2
+886,18511,Guangzhou: Line 3 Eastern Extension,Rail,Metro,China,CHN,Asia,2019.0,2022,,,,9.6,4
+887,18512,Shenzhen: Line 13,Rail,Metro,China,CHN,Asia,2018.0,2025 (exp),,,,48.1,25
+888,18513,Shenzhen: Line 16,Rail,Metro,China,CHN,Asia,2018.0,2022,12/28/2022,,,29.2,24
+889,18514,Guangzhou: Line 12,Rail,Metro,China,CHN,Asia,2018.0,2024 (exp),,,,37.6,25
+890,18515,Guiyang: Line 3 Phase 1,Rail,Metro,China,CHN,Asia,2018.0,2023 (exp),,,,43.135,29
+891,18516,Guangzhou: Line 8 Northern Extension,Rail,Metro,China,CHN,Asia,2019.0,2023,,,,16.4,13
+892,18517,Shanghai: Line 1 Western Extension,Rail,Metro,China,CHN,Asia,,,,,,1.2,1
+893,18518,Wuhan: Line 7 Northern Extension (Garden Expo North - Hengdian),Rail,Metro,China,CHN,Asia,2018.0,2022,12/30/2022,,,21.2,7
+894,18519,Wuhan: Line 8 Phase 3,Rail,Metro,China,CHN,Asia,,,,,,4.9,2
+895,18520,Changchun: Line 6,Rail,Metro,China,CHN,Asia,2017.0,2023,4/30/2023,,,29.2,22
+896,18521,Changchun: Line 4 Southern Extension,Rail,Light rail,China,CHN,Asia,,,,,,4,6
+897,18522,Changchun: Line 3 Southern Extension,Rail,Light rail,China,CHN,Asia,,,,,,3,2
+898,18523,Shanghai: Line 20 Phase 1,Rail,Metro,China,CHN,Asia,2018.0,2030 (exp),,,,20,16
+899,18524,Shanghai: Line 19,Rail,Metro,China,CHN,Asia,2018.0,2027 (exp),,,,46.2,37
+900,18525,Shanghai: Line 21 Phase 1,Rail,Metro,China,CHN,Asia,2018.0,2026 (exp),,,,42.1,23
+901,18526,Shanghai: Line 13 Western Extension,Rail,Metro,China,CHN,Asia,2021.0,2025 (exp.),,,,9.8,5
+902,18527,Shanghai: Line 23 Phase 1,Rail,Metro,China,CHN,Asia,2016.0,2027 (exp),,,,28.6,22
+903,18528,Shanghai: Shanghai Rail Transit Jiamin Line,Rail,Metro,China,CHN,Asia,2018.0,2027 (exp),,,,44.2,15
+904,18530,Suzhou: Line 7,Rail,Metro,China,CHN,Asia,2019.0,2024 (exp),,,,27,23
+905,18531,Suzhou: Line 8,Rail,Metro,China,CHN,Asia,2019.0,2024 (exp),,,,35.2,26
+906,18532,Suzhou: Line S1 (Line 11),Rail,Metro,China,CHN,Asia,2018.0,2023,6/24/2023,,,41.3,28
+907,18533,Wuhan: Line 19,Rail,Metro,China,CHN,Asia,2019.0,,,,,20.6,6
+908,18534,Wuhan: Line 6 Phase 2,Rail,Metro,China,CHN,Asia,,,,4558.0,"CNY, 2018",7,5
+909,18535,Wuhan: Xingang,Rail,Metro,China,CHN,Asia,,,,17681.0,"CNY, 2018",30.2,11
+910,18536,Wuhan: Line 16,Rail,Metro,China,CHN,Asia,2018.0,2021,12/26/2021,,,32.3,12
+911,18537,Chongqing: Line 10,Rail,Metro,China,CHN,Asia,2014.0,2017,,31098.0,"CNY, 2017",44.5,27
+912,18538,Beijing: Capital Airport Express west extenion,Rail,Metro,China,CHN,Asia,2016.0,2021,12/31/2021,,,1.83,1
+913,18539,Chongqing: Line 6 Branch (EXPO) Phase 2,Rail,Metro,China,CHN,Asia,2016.0,2020,,,,13.99,7
+914,18540,Guangzhou: Line 10,Rail,Metro,China,CHN,Asia,2017.0,2024 (exp),,,,25.4,19
+915,18541,Shenzhen: Line 6 (feeder),Rail,Metro,China,CHN,Asia,2018.0,2022,,,,6.13,4
+916,18542,Suzhou: Line 6,Rail,Metro,China,CHN,Asia,2018.0,2024 (exp),,,,34.2,28
+917,18543,Wuhan: Line 11 Phase 3,Rail,Metro,China,CHN,Asia,2019.0,2021,,13515.0,"CNY, 2019",9.9,6
+918,18544,Beijing: Line 22 (Pinggu line),Rail,Metro,China,CHN,Asia,2019.0,2025 (exp),,,,81.2,21
+919,18545,Shenyang: Line 2 Southern Extension,Rail,Metro,China,CHN,Asia,,,,,,14.3,8
+920,18546,Xi'an: Line 8,Rail,Metro,China,CHN,Asia,2019.0,2024 (exp),,,,49.9,37
+921,18547,Xi'an: Line 1 Phase 3,Rail,Metro,China,CHN,Asia,,2023,,,,10.5,7
+922,18548,Xi'an: Line 2 Phase 2,Rail,Metro,China,CHN,Asia,,,,4289.0,"CNY, 2019",7,4
+923,18549,Xi'an: Line 14 East section,Rail,Metro,China,CHN,Asia,,,,,,13.8,8
+924,18550,Xi'an: Line 10 Phase 1,Rail,Metro,China,CHN,Asia,,,,17660.0,"CNY, 2019",31.4,23
+925,18551,Zhengzhou: Line 14 Phase 1,Rail,Metro,China,CHN,Asia,,,9/19/2019,,,8.3,6
+926,18552,Zhengzhou: Line 6 Phase 1,Rail,Metro,China,CHN,Asia,2019.0,2022,,,,43.4,28
+927,18553,Zhengzhou: Line 7 Phase 1,Rail,Metro,China,CHN,Asia,2020.0,2024 (exp),,,,26.7,20
+928,18554,Zhengzhou: Line 12 Phase 1,Rail,Metro,China,CHN,Asia,,,,12600.0,"CNY, 2019",17.036,12
+929,18556,Zhengzhou: Line 8 Phase 1,Rail,Metro,China,CHN,Asia,2020.0,2024 (exp),,,,50.3,23
+930,18557,Zhengzhou: Line 3 Phase 2,Rail,Metro,China,CHN,Asia,,,,3746.0,"CNY, 2019",6.1,4
+931,18558,Beijing: Daxing Airport Express Phase 2,Rail,Metro,China,CHN,Asia,2019.0,,,,,3.5,2
+932,18559,Beijing: Daxing Airport Express Phase 1,Rail,Metro,China,CHN,Asia,2020.0,2024 (exp),,,,3.5,3
+933,18560,Beijing: Line 28,Rail,Metro,China,CHN,Asia,2017.0,2025 (exp.),,,,8.9,9
+934,18561,Beijing: Line 8 Phase 3 North,Rail,Metro,China,CHN,Asia,2019.0,2021,,,,3.6,3
+935,18562,Beijing: Line 11 West,Rail,Metro,China,CHN,Asia,2019.0,2021,,,,4,4
+936,18563,Beijing: Line 13A,Rail,Metro,China,CHN,Asia,2019.0,2022,,,,30.2,18
+937,18564,Beijing: Line 13B,Rail,Metro,China,CHN,Asia,2019.0,2022,,,,32.2,15
+938,18565,Shenzhen: Line 13 Northern Extension,Rail,Metro,China,CHN,Asia,2020.0,2025 (exp),,,,18.8,11
+939,18566,Wenzhou: M1 ,Rail,Metro,China,CHN,Asia,2020.0,2025 (exp),,,,32.5,23
+940,18567,Wenzhou: M2 ,Rail,Metro,China,CHN,Asia,2020.0,2027 (exp),,,,27.9,23
+941,18568,Shenzhen: Line 20 Phase 1,Rail,Metro,China,CHN,Asia,2020.0,2021,,,,8.43,5
+942,18569,Shenzhen: Line 3 Phase 4,Rail,Metro,China,CHN,Asia,,2022,,,,9.35,7
+943,18570,Prague: Line C to Letnany ; Segment IV.C2,Rail,Metro,Czech Republic,CZE,Europe,2004.0,2008,,15000.0,"CZK, 2006",4.6,3
+944,18571,"Prague: Line A extension, sector V.A Dejvická-Nemocnice Motol",Rail,Metro,Czech Republic,CZE,Europe,2010.0,2015,,20200.0,"CZK, 2012",6.1,4
+945,18572,Cairo: Line 1,Rail,Metro,Egypt,EGY,Africa,1982.0,1987,,973.0,"EGP, 1987",44,35
+946,18573,Cairo: Line 2,Rail,Metro,Egypt,EGY,Africa,1993.0,2005,,9700.0,"EGP, 2005",22,20
+947,18574,Cairo: Line 3 Phase 1,Rail,Metro,Egypt,EGY,Africa,2006.0,2012,,4200.0,"EGP, 2009",4.3,5
+948,18575,Cairo: Line 3 Phase 2,Rail,Metro,Egypt,EGY,Africa,2009.0,2014,,498.0,"EUR, 2009",7.2,5
+949,18576,Cairo: Line 3 Phase 3,Rail,Metro,Egypt,EGY,Africa,2023.0,2022,,0.27,"EUR, 2016",11.6,12
+950,18577,Berlin: U2 to Pankow,Rail,Metro,Germany,DEU,Europe,1997.0,2000,,54.0,"EUR, 1998",0.8,1
+951,18578,Paris: RER D Gare de Lyon-Les Halles,Rail,Metro,France,FRA,Europe,1991.0,1995,,321.0,"EUR, 2003",2.5,0
+952,18579,Vienna: Lainz Tunnel,Rail,Conventional,Austria,AUT,Europe,1999.0,2012,,1300.0,"EUR, 2005",12.8,0
+953,18582,Berlin: U55,Rail,Metro,Germany,DEU,Europe,2004.0,2009,,320.0,"EUR, 2006",1.8,3
+954,18583,Bursa: Bursaray,Rail,Light rail Transit,Turkey,TUR,Asia,1997.0,2014,,425.0,"EUR, 2014",39,38
+955,18584,Munich: U3 to Moosach,Rail,Metro,Germany,DEU,Europe,2004.0,2010,11/11/2010,,,1.7,2
+956,18585,Cologne: North-South Stadtbahn,Rail,Metro,Germany,DEU,Europe,2003.0,2015,,,,4,6
+957,18587,Sofia: Line 2,Rail,Metro,Bulgaria,BGR,Europe,2008.0,2012,,,,17,11
+958,18588,Rome: Line C - section T6a,Rail,Metro,Italy,ITA,Europe,2007.0,2013,,,,2.8,4
+959,18589,Rome: Line C - section T4-5,Rail,Light Rail Transit,Italy,ITA,Europe,2007.0,2013,,1090.0,"EUR, 2013",7.3,9
+960,18591,Naples: Line 6,Rail,Light Rail Transit,Italy,ITA,Europe,2002.0,2024 (exp),,,,5.5,8
+961,18593,Helsinki: Ring Rail Line,Rail,Metro,Finland,FIN,Europe,2009.0,2015,,773.8,"EUR, 2012",18,5
+962,18594,Paris: RER E extension,Rail,Metro,France,FRA,Europe,2018.0,2022,,,,8,2
+963,18595,Helsinki: West Metro,Rail,Metro,Finland,FIN,Europe,2009.0,2017,,1186.0,"EUR, 2013",13.5,8
+964,18596,Sofia: Line 1 southern,Rail,Metro,Bulgaria,BGR,Europe,2013.0,2015,,,,3,3
+965,18597,Sofia: Line 2 extension,Rail,Metro,Bulgaria,BGR,Europe,2012.0,2016,,,,1.3,1
+966,18598,Thessaloniki: Main line,Rail,Metro,Greece,GRC,Europe,2006.0,2020,,,,9.5,13
+967,18599,Paris: Line 11,Rail,Metro,France,FRA,Europe,2016.0,2023,,,,6.3,6
+968,18600,Karlsruhe: Kombilösung,Rail,other,Germany,DEU,Europe,2010.0,2021,,1487.0,"EUR,2015",4.8,6
+969,18601,Turin: Line 1 (phase 4),Rail,Metro,Italy,ITA,Europe,2006.0,2011,3/1/2011,193.5,"EUR, 2016",1.9,2
+970,18602,Athens: Line 3 to Piraeus,Rail,Metro,Greece,GRC,Europe,2012.0,2021,,742.0,"EUR, 2016",7.6,6
+971,18603,Naples: Line 1,Rail,Metro,Italy,ITA,Europe,1976.0,1993,,3037.068,"EUR, 2017",18,19
+972,18604,Thessaloniki: Kalamaria Extension,Rail,Conventional,Greece,GRC,Europe,2013.0,2021,,,,4.8,5
+973,18605,Sofia: Line 3,Rail,Metro,Bulgaria,BGR,Europe,2016.0,2021,,,,12,12
+974,18606,Istanbul: M4 Phase 3,Rail,Metro,Turkey,TUR,Asia,2015.0,2022,,170.0,"EUR, 2020",7.5,4
+975,18607,Rome: Line C - section T3,Rail,Light Rail,Italy,ITA,Europe,2013.0,2025 (exp),,,,2.8,2
+976,18608,Hamburg: U4 to Dannerallee,Rail,Metro,Germany,DEU,Europe,2020.0,,,,,2.6,3
+977,18609,Milan: Line 4,Rail,Metro,Italy,ITA,Europe,2015.0,2024 (exp),,,,15.2,21
+978,18610,Naples: Line 1 airport extension,Rail,Metro,Italy,ITA,Europe,2014.0,2024 (exp),,,,3.5,4
+979,18611,Berlin: U8 to Wittenau,Rail,Metro,Germany,DEU,Europe,1985.0,1994,,520.0,"EUR, 2020",3.6,4
+980,18612,Lyon: Line B to Hospital-Sud,Rail,Metro,France,FRA,Europe,2017.0,2023,,,,2.5,2
+981,18613,Turin: Line 1 west (phase 5),Rail,Metro,Italy,ITA,Europe,2012.0,2024 (exp),,,,3.4,4
+982,18614,Sofia: Line 3 extension (Third Stage),Rail,Metro,Bulgaria,BGR,Europe,2021.0,,,,,3.1,4
+983,18615,"Porto: Pink line, yellow line",Rail,Metro,Portugal,PRT,Europe,2019.0,2023,,,,6,7
+984,18616,Lisbon: Circular line,Rail,Metro,Portugal,PRT,Europe,2021.0,2023,,,,2,2
+985,18617,Kharkiv: M3 extension,Rail,Metro,Ukraine,UKR,Europe,2018.0,,,,,3.5,2
+986,18620,Hong Kong: Modified Initial System,Rail,Metro,"China, Hong Kong Special Administrative Region",HKG,Asia,1975.0,1980,,,,15.6,15
+987,18621,Hong Kong: Tsuen Wan Extension,Rail,Metro,"China, Hong Kong Special Administrative Region",HKG,Asia,1978.0,1982,5/10/1982,3900.0,"HKD, 1978",10.5,10
+988,18622,Hong Kong: Island Line,Rail,Metro,"China, Hong Kong Special Administrative Region",HKG,Asia,1980.0,1985,,8748.0,"HKD, 1980",12.5,14
+989,18628,Hong Kong: Airport Express Extension,Rail,Metro,"China, Hong Kong Special Administrative Region",HKG,Asia,,2005,12/20/2005,,,1.3,1
+990,18629,Hong Kong: West Island Line ,Rail,Metro,"China, Hong Kong Special Administrative Region",HKG,Asia,2009.0,2016,,18500.0,"HKD, 2012",3,3
+991,18632,Hong Kong: Sha Tin-Central Link,Rail,Metro,"China, Hong Kong Special Administrative Region",HKG,Asia,2012.0,2022,5/15/2022,90700.0,"HKD, 2021",17,9
+992,18633,Budapest: Line 4,Rail,Metro,Hungary,HUN,Europe,2006.0,2014,,452000.0,"HUF, 2010",7.4,10
+993,18634,Jakarta: MRT first phase,Rail,Metro,Indonesia,IDN,Asia,2010.0,2019,,17400000.0,"IDR, 2019",15.7,13
+994,18635,Gurgaon: Phase 1,Rail,Metro,India,IND,Asia,2009.0,2013,,,,5.5,6
+995,18636,Bangalore: Phase 1,Rail,Metro,India,IND,Asia,2006.0,2017,,,,42.3,41
+996,18637,Jaipur: Phase 1,Rail,Metro,India,IND,Asia,2011.0,2020,,,,12.1,13
+997,18638,Chennai: Phase 1,Rail,Metro,India,IND,Asia,2009.0,2019,,,,45.1,34
+998,18639,Mumbai: Monorail,Rail,Metro,India,IND,Asia,2009.0,2014,,30000.0,"INR, 2014",19.5,17
+999,18640,Nagpur: Phase 1,Rail,Metro,India,IND,Asia,2014.0,2022,12/11/2022,,,38.2,42
+1000,18641,Gurgaon: Phase 2,Rail,Metro,India,IND,Asia,2013.0,2017,,,,6.3,5
+1001,18642,Kochi: Metro,Rail,Metro,India,IND,Asia,2013.0,2017,,51810.0,"INR, 2017",13,11
+1002,18643,Lucknow: Line 1,Rail,Metro,India,IND,Asia,2014.0,2017,,,,22.9,21
+1003,18644,Delhi: Phase 3,Rail,Metro,India,IND,Asia,2011.0,2020,,,,160.6,109
+1004,18645,Hyderabad: Phase 1,Rail,Metro,India,IND,Asia,2012.0,2020,2/7/2020,,,72,66
+1005,18646,Mumbai: Line 6,Rail,Metro,India,IND,Asia,2018.0,2025 (exp),,,,15.2,13
+1006,18647,Delhi: Noida Metro,Rail,Metro,India,IND,Asia,2015.0,2019,,,,29.7,21
+1007,18648,Mumbai: Line 4A,Rail,Metro,India,IND,Asia,2019.0,2025 (exp),,,,2.7,2
+1008,18649,Nagpur: Phase 2,Rail,Metro,India,IND,Asia,2018.0,2026 (exp),,,,43.8,32
+1009,18650,Chennai: Phase 1 extension,Rail,Metro,India,IND,Asia,2016.0,2021,2/14/2021,,,9.1,9
+1010,18651,Mumbai: Line 2A,Rail,Metro,India,IND,Asia,2016.0,2022,4/1/2022,,,18.6,17
+1011,18652,Mumbai: Line 7,Rail,Metro,India,IND,Asia,2016.0,2022,4/2/2022,,,16.5,14
+1012,18653,Mumbai: Line 3,Rail,Metro,India,IND,Asia,2016.0,2023 (exp),,,,33.5,28
+1013,18654,Ahmedabad: Phase 1,Rail,Metro,India,IND,Asia,2014.0,2023,,,,40,33
+1014,18655,Hyderabad: Airport express,Rail,Metro,India,IND,Asia,2020.0,2026 (exp),,,,31,10
+1015,18656,Mumbai: Line 4,Rail,Metro,India,IND,Asia,2018.0,2025 (exp),,,,32.3,34
+1016,18657,Mumbai: Line 7A + 9,Rail,Metro,India,IND,Asia,2019.0,2022,,,,13.5,11
+1017,18658,Mumbai: Line 2B,Rail,Metro,India,IND,Asia,2018.0,2024 (exp),,,,23.5,20
+1018,18659,Bangalore: Phase 2,Rail,Metro,India,IND,Asia,2017.0,2024 (exp),,,,73.9,62
+1019,18660,Mumbai: Line 5,Rail,Metro,India,IND,Asia,2020.0,2025 (exp),,,,23.4,17
+1020,18661,Tehran: Line 3 extension to SW,Rail,Metro,Iran (Islamic Republic of),IRN,Asia,2012.0,2014,,,,12,11
+1021,18662,Tehran: Line 7,Rail,Metro,Iran (Islamic Republic of),IRN,Asia,,2017,,90000000.0,"IRR, 2017",22,20
+1022,18663,Tehran: Line 6,Rail,Metro,Iran (Islamic Republic of),IRN,Asia,,2020,,,,16.5,13
+1023,18664,Tokyo: Yurikamome,Rail,Metro,Japan,JPN,Asia,1988.0,1995,,,,12,12
+1024,18665,Tokyo: Tama Monorail first phase,Rail,Metro,Japan,JPN,Asia,1991.0,2000,,,,16,19
+1025,18666,Tokyo: Minatomirai Line (mostli underground),Rail,Metro,Japan,JPN,Asia,1993.0,2004,2/1/2004,,,4.1,6
+1026,18667,Tokyo: Oedo Line ring,Rail,Metro,Japan,JPN,Asia,1992.0,2000,,988600.0,"JPY, 2000",27.8,27
+1027,18668,Tokyo: Tsukuba Express,Rail,Commuter Rail,Japan,JPN,Asia,1997.0,2005,8/24/2005,949400.0,"JPY, 2005",58.3,20
+1028,18669,Tokyo: Fukutoshin Line,Rail,Metro,Japan,JPN,Asia,2001.0,2008,,,,8.9,8
+1029,18670,Osaka: Hanshin Namba Line,Rail,Metro,Japan,JPN,Asia,2003.0,2009,,,,3.8,3
+1030,18671,Osaka: Higashi Line,Rail,Metro,Japan,JPN,Asia,1999.0,2019,,,,20.3,0
+1031,18672,Tokyo: Tokyo-Ueno Line,Rail,Commuter Rail,Japan,JPN,Asia,2008.0,2015,,40000.0,"JPY, 2015",3.8,0
+1032,18673,Tokyo: Sotetsu Shin-Yokohama JR Line,Rail,Metro,Japan,JPN,Asia,2010.0,2019,11/1/2019,,,2.7,1
+1033,18674,Tokyo: Sotetsu Shin-Yokohama Tokyu Line,Rail,Metro,Japan,JPN,Asia,2010.0,2023,3/1/2023,,,10,2
+1034,18675,Fukuoka: Nanakuma Line extension,Rail,Metro,Japan,JPN,Asia,2014.0,2023,3/27/2023,,,1.6,1
+1035,18676,Osaka: Tokaido branch relocation,Rail,Conventional,Japan,JPN,Asia,2015.0,2023,,,,2.4,1
+1036,18677,Seoul: Sinbundang,Rail,Metro,Republic of Korea,KOR,Asia,2005.0,2011,10/28/2011,,,17.3,16
+1037,18678,Seoul: Sinbundang phase 2,Rail,Metro,Republic of Korea,KOR,Asia,2011.0,2016,1/30/2016,,,12.8,6
+1038,18679,Busan: Line 1 extension,Rail,Metro,Republic of Korea,KOR,Asia,2009.0,2017,,959000.0,"KRW, 2017",8,6
+1039,18680,Seoul: Gimpo Urban Railway,Rail,Light rail Transit,Republic of Korea,KOR,Asia,2014.0,2019,9/28/2019,,,23.7,10
+1040,18681,Seoul: Line 7 extension ,Rail,Commuter Rail,Republic of Korea,KOR,Asia,2013.0,2021,5/22/2021,,,3.9,2
+1041,18682,Mexico City: Line 12,Rail,Metro,Mexico,MEX,South America,2008.0,2012,,47906.0,"MXN, 2010",24.5,20
+1042,18683,Guadalajara: Line 3,Rail,Metro,Mexico,MEX,South America,2014.0,2020,9/1/2020,31500.0,"MXN, 2017",21.5,18
+1043,18684,Kuala Lumpur: Kajang Line,Rail,Metro,Malaysia,MYS,Asia,2012.0,2017,,21000.0,"MYR, 2017",51,31
+1044,18685,Kuala Lumpur: Putrajaya Line (MRT 2),Rail,Metro,Malaysia,MYS,Asia,2016.0,2023,3/16/2023,30530.0,"MYR, 2023",57.7,41
+1045,18686,Tel Aviv: Red Line,Rail,Light Rail Transit,Israel,ISR,Asia,2015.0,2023 (exp),,,,24,34
+1046,18687,Tel Aviv: Green Line,Rail,Light Rail Transit,Israel,ISR,Asia,2018.0,2028 (exp),,,,35,58
+1047,18688,Auckland: City Rail Link,Rail,Metro,New Zealand,NZL,Oceania,2013.0,,,4419.0,"NZD, 2018",3.5,4
+1048,18689,Manila: Line 7,Rail,Metro,Philippines,PHL,Asia,2015.0,2025 (exp),,,,22.8,14
+1049,18690,Lahore: Orange Line,Rail,Light Rail Transit,Pakistan,PAK,Asia,2015.0,2020,10/25/2020,,,27.1,26
+1050,18691,Warsaw: Line 2,Rail,Metro,Poland,POL,Europe,2010.0,2015,,5900.0,"PLN, 2012",6.5,7
+1051,18692,Warsaw: Line 2 extension to Trocka,Rail,Metro,Poland,POL,Europe,2015.0,2019,,1070.0,"PLN, 2017",3.1,3
+1052,18693,Warsaw: Line 2 extension to KJ,Rail,Metro,Poland,POL,Europe,2015.0,2020,,1148.0,"PLN, 2017",3.4,3
+1053,18694,Warsaw: Line 2 extension to Bródno,Rail,Metro,Poland,POL,Europe,2018.0,2022,,1400.0,"PLN, 2020",4,3
+1054,18695,Łódź: Cross-City Line,Rail,Conventional,Poland,POL,Europe,2018.0,2023,,,,5.25,2
+1055,18696,Bucharest: Line 5,Rail,Metro,Romania,ROU,Europe,2014.0,2019,,,,6.9,10
+1056,18697,Saint Petersburg: Line 3 extension,Rail,Metro,Russian Federation,RUS,Europe,2014.0,2018,,,,5,2
+1057,18698,Nizhniy Novgorod: Line 2 extension,Rail,Metro,Russian Federation,RUS,Europe,2015.0,2018,,,,3.1,1
+1058,18699,Saint Petersburg: Line 5 extension,Rail,Metro,Russian Federation,RUS,Europe,2013.0,2019,10/3/2019,44600.0,"RUB, 2019",6.4,3
+1059,18700,Moscow: Line 1 extension,Rail,Metro,Russian Federation,RUS,Europe,2016.0,2019,6/20/2019,41032.869,"RUB, 2019",11.6,4
+1060,18701,Moscow: Line 11,Rail,Metro,Russian Federation,RUS,Europe,2017.0,2023,3/3/2023,501000.0,"RUB, 2018",66.7,31
+1061,18702,Mecca: Mecca Metro,Rail,Metro,Saudi Arabia,SAU,Asia,2009.0,,,,,188,90
+1062,18703,"Singapore: Downtown MRT Line (stage 1, 2 and 3)",Rail,Metro,Singapore,SGP,Asia,2008.0,2017,10/21/2017,,,41.9,34
+1063,18704,"Singapore: Thomson MRT Line (stage 1,2 and 3)",Rail,Metro,Singapore,SGP,Asia,2014.0,2022,11/13/2022,,,30.4,20
+1064,18705,Bangkok: Sukhumvit Line to Kheha,Rail,Metro,Thailand,THA,Asia,2012.0,2018,,21904.0,"THB, 2018",12.8,9
+1065,18706,Bangkok: Blue Line extension,Rail,Metro,Thailand,THA,Asia,2011.0,2020,,,,26.9,19
+1066,18707,Bangkok: Sukhumvit Line to Khu Khot,Rail,Metro,Thailand,THA,Asia,2015.0,2020,,,,19,16
+1067,18708,Bangkok: Pink Line,Rail,Metro,Thailand,THA,Asia,2017.0,2023 (exp),,,,34.5,30
+1068,18709,Bangkok: Yellow Line,Rail,Metro,Thailand,THA,Asia,2017.0,2023,7/3/2023,,,30.4,23
+1069,18710,Bangkok: Brown Line,Rail,Metro,Thailand,THA,Asia,2020.0,,,,,22.1,20
+1070,18711,Izmir: M1  (Phase 2),Rail,Metro,Turkey,TUR,Asia,2005.0,2014,,,,5.35,6
+1071,18712,Ankara: M4,Rail,Metro,Turkey,TUR,Asia,2003.0,2017,,,,12.5,12
+1072,18713,Izmir: M1 (Phase 3),Rail,Metro,Turkey,TUR,Asia,2010.0,2012,,,,2.25,2
+1073,18714,"Taipei: System to 2012, ex-Neihu",Rail,Metro,Taiwan,TWN,Asia,1988.0,2012,,557286.0,"TWD, 2012",93.9,92
+1074,18715,Kaohsiung: Red and Orange Lines ,Rail,Metro,Taiwan,TWN,Asia,2001.0,2008,,,,43,38
+1075,18716,Taipei: Neihu Line,Rail,Metro,Taiwan,TWN,Asia,2002.0,2009,7/4/2009,,,25.1,24
+1076,18717,Taipei: Xinyi Line,Rail,Metro,Taiwan,TWN,Asia,2002.0,2013,11/24/2013,39000.0,"TWD, 2013",6.5,7
+1077,18719,Kaohsiung: Urban Railway Underground,Rail,Commuter Rail,Taiwan,TWN,Asia,2008.0,2018,,99870.0,"TWD, 2018",15.4,6
+1078,18720,Taichung: Green Line,Rail,Metro,Taiwan,TWN,Asia,2010.0,2020,11/16/2020,,,16.7,18
+1079,18721,Taipei: Circular Line first section,Rail,Metro,Taiwan,TWN,Asia,2011.0,2020,9/20/2020,69970.0,"TWD, 2015",15.4,14
+1080,18722,Taipei: Danhai LRT,Rail,Light rail Transit,Taiwan,TWN,Asia,2014.0,2018,12/23/2018,31357.0,"TWD, 2018",14,20
+1081,18723,Taipei: Xinyi Line East Extension,Rail,Metro,Taiwan,TWN,Asia,2016.0,2022,,,,1.4,1
+1082,18724,Taipei: Sanying Line,Rail,Metro,Taiwan,TWN,Asia,2016.0,2025 (exp),,,,14.3,12
+1083,18725,Taipei: Taoyuan MRT Brown Line,Rail,Metro,Taiwan,TWN,Asia,2006.0,2017,,,,51,21
+1084,18726,Kyiv: M3 to Vynohradar,Rail,Metro,Ukraine,UKR,Europe,2018.0,2022,,,,3.7,2
+1085,18727,Izmir: M1 (Phase 1),Rail,Metro,Turkey,TUR,Asia,1995.0,2000,,600.0,"USD, 2000",11.6,10
+1086,18728,Istanbul: M1A-M1B (LR),Rail,Light rail Transit,Turkey,TUR,Asia,1987.0,2014,,,,26.6,23
+1087,18729,Istanbul: M2,Rail,Metro,Turkey,TUR,Asia,1992.0,2014,,2510.0,"USD, 2014",23.5,17
+1088,18730,Dubai: Phase 1 - Red Line,Rail,Metro,United Arab Emirates,ARE,Asia,2005.0,2010,,,,35,29
+1089,18731,Adana: First stage,Rail,Metro,Turkey,TUR,Asia,1996.0,2010,6/13/2010,534.0,"USD, 2010",13.9,13
+1090,18732,Dubai: Phase 2 - Green Line,Rail,Metro,United Arab Emirates,ARE,Asia,2006.0,2010,,,,22.5,20
+1091,18733,Istanbul: M4 Phase 1,Rail,Metro,Turkey,TUR,Asia,2005.0,2012,,2190.0,"USD, 2012",21.7,16
+1092,18734,Istanbul: BC1,Rail,Commuter Rail,Turkey,TUR,Asia,2004.0,2013,,1823.0,"USD, 2013",13.6,4
+1093,18735,Ad Dammam: Dammam Metro (a-Sharqiya),Rail,Light rail Transit,Saudi Arabia,SAU,Asia,2014.0,,,,,50,
+1094,18736,Istanbul: M3 Phase 1,Rail,Metro,Turkey,TUR,Asia,2006.0,2013,,1344.0,"USD, 2013",16.1,11
+1095,18737,Panama City: Line 1,Rail,Metro,Panama,PAN,South America,2010.0,2014,4/6/2014,2009.0,"USD, 2012",15.7,18
+1096,18738,Riyadh: Blue,Rail,Metro,Saudi Arabia,SAU,Asia,2015.0,2023 (exp),,,,38,22
+1097,18739,Riyadh: Green,Rail,Metro,Saudi Arabia,SAU,Asia,2015.0,2023 (exp),,,,12.9,11
+1098,18740,Riyadh: Orange,Rail,Metro,Saudi Arabia,SAU,Asia,2014.0,2023 (exp),,,,40.7,20
+1099,18741,Riyadh: Purple,Rail,Metro,Saudi Arabia,SAU,Asia,2014.0,2023 (exp),,,,29.9,6
+1100,18742,Riyadh: Red,Rail,Metro,Saudi Arabia,SAU,Asia,2014.0,2023 (exp),,,,25.3,13
+1101,18743,Riyadh: Yellow,Rail,Metro,Saudi Arabia,SAU,Asia,2014.0,2023 (exp),,,,29.6,8
+1102,18744,Istanbul: M6,Rail,Metro,Turkey,TUR,Asia,2013.0,2015,,,,3.3,4
+1103,18745,Istanbul: M4 Phase 2,Rail,Metro,Turkey,TUR,Asia,2013.0,2016,,151.0,"USD, 2016",4.4,3
+1104,18746,Istanbul: M5 Phase 1,Rail,Metro,Turkey,TUR,Asia,2011.0,2018,,866.0,"USD, 2018",19.7,16
+1105,18747,Istanbul: CR3,Rail,Commuter Rail,Turkey,TUR,Asia,2011.0,2019,,1298.0,"USD, 2019",63,36
+1106,18748,Quito: Metro,Rail,Metro,Ecuador,ECU,South America,2012.0,2019,Currently closed ,2010.0,"USD, 2016",22.9,15
+1107,18749,Santiago: Project 63,Rail,Heavy Rail,Chile,CHL,South America,2013.0,2019,,3000.0,"USD, 2016",37,28
+1108,18750,Dubai: Phase 3 (Red Line Extension/Route 2020),Rail,Metro,United Arab Emirates,ARE,Asia,2016.0,2020,,,,15,7
+1109,18752,Panama City: Line 2,Rail,Metro,Panama,PAN,South America,2015.0,2019,4/25/2019,2130.0,"USD, 2017",21,16
+1110,18753,Los Angeles: Crenshaw/LAX Line,Rail,Metro,United States of America,USA,North America,2014.0,2021,,2100.0,"USD, 2017",13.7,9
+1111,18754,Tashkent: Sergeli Line,Rail,Metro,Uzbekistan,UZB,Asia,2017.0,2020,,,,6.94,6
+1112,18755,Tashkent: Yunusabad Line extension,Rail,Metro,Uzbekistan,UZB,Asia,2017.0,2020,,,,2.9,2
+1113,18756,Los Angeles: Regional Connector,Rail,Light rail,United States of America,USA,North America,2014.0,2022,,1756.0,"USD, 2018",3.1,3
+1114,18757,Istanbul: M11 Phase 1,Rail,Metro,Turkey,TUR,Asia,2016.0,2022,,,,37.5,9
+1115,18758,Istanbul: M8,Rail,Metro,Turkey,TUR,Asia,2016.0,2023,,,,14.3,11
+1116,18759,Istanbul: M3 Phase 2,Rail,Metro,Turkey,TUR,Asia,2015.0,2023,4/8/2023,,,8.9,8
+1117,18760,Istanbul: M7 Phase1-2,Rail,Metro,Turkey,TUR,Asia,2014.0,,,,,23.75,19
+1118,18761,Istanbul: M3 Phase 3,Rail,Metro,Turkey,TUR,Asia,2017.0,2022,,,,6.2,4
+1119,18762,Istanbul: M11 Phase 2,Rail,Metro,Turkey,TUR,Asia,2018.0,2023,1/22/2023,,,32,7
+1120,18763,Istanbul: M9,Rail,Metro,Turkey,TUR,Asia,2016.0,2024 (exp),,,,13.4,12
+1121,18764,Istanbul: M12,Rail,Metro,Turkey,TUR,Asia,2017.0,2024 (exp),,,,13,11
+1122,18765,Istanbul: M4 P4-M10,Rail,Metro,Turkey,TUR,Asia,2017.0,2024 (exp),,,,14,8
+1123,18766,Salvador: SkyRail Bahia,Rail,Light Rail,Brazil,BRA,South America,2020.0,2022,5/1/2022,689.0,"USD, 2021",23.3,26
+1124,18767,Hanoi: Line 2,Rail,Metro,Viet Nam,VNM,Asia,2011.0,2020,,,,11.5,12
+1125,18768,Hanoi: Line 3,Rail,Metro,Viet Nam,VNM,Asia,2010.0,2013,,36000000.0,"VND, 2013",12.5,12
+1126,18769,Ho Chi Minh City: Line 1,Rail,Metro,Viet Nam,VNM,Asia,2012.0,2024 (exp),,,,19.7,14
+1127,18774,T3a: les boulevards des Maréchaux Sud à Paris,Rail,light rail,France,FRA,Europe,2000.0,2006,12/16/2006,119.64,"EUR, 2007",7.9,
+1128,18779,Tramway 2,Rail,light rail,France,FRA,Europe,1993.0,1997,7/2/1997,110.5,"EUR, 2004",,
+1129,18790,LGV Nord Europe,Rail,Highspeed,France,FRA,Europe,1989.0,1993,9/1/1993,,,350,
+1130,18791,LGV interconnexion Est Ile de France,Rail,Highspeed,France,FRA,Europe,1990.0,1996,6/1/1996,,,102,
+1131,18792,Tram 1 entre Saint-Denis et Bobigny,Rail,light rail,France,FRA,Europe,1984.0,1992,1/1/1992,118.1479884,"EUR, 1983",9,21
+1132,18793,TGV Atlantique,Rail,Highspeed,France,FRA,Europe,1984.0,1990,9/30/1990,3.145023226,"EUR, 1992",,
+1133,19283,Taiyuan–Zhongwei Railway Project,Rail,Conventional,China,CHN,Asia,2006.0,2012,12/20/2012,6750.0,"USD, 2012",941,40 (+3 Extension)
+1134,19284,"Manchester ""Big Bang"" Extension (Phase 3)",Rail,Light Rail,United Kingdom,GBR,Europe,,,2/1/2017,1500.0,"GBP, 2013",57,57
+1135,19286,1 Line - Initial Segment,Rail,Light Rail,United States of America,USA,North America,,,7/1/2009,2558.0,"USD, 2006",25.11,14
+1136,19287,1995-98 program (Madrid Metro),Rail,Metro Line,Spain,ESP,Europe,1995.0,1999,3/1/1999,1569.0,"USD, 1997",56,34
+1137,19288,1999-2003 program (Madrid Metro),Rail,Metro Line,Spain,ESP,Europe,1999.0,2003,3/1/2003,3157.0,"EUR, 2001",74.7,39
+1138,19292,"2007-08 Extension (Extension of Line B, C, and D)",Rail,Metro,France,FRA,Europe,,,5/1/2008,398.0,"EUR, 2007",,
+1139,19295,7 extension,Rail,Heavy Rail,United States of America,USA,North America,,,9/1/2015,2420.0,"USD, 2011",1.6,1
+1140,19297,7th Railways,Rail,Conventional,China,CHN,Asia,1994.0,2004,9/30/2004,1506.7,"USD, 2004",1044,
+1141,19298,A Line,Rail,Commuter Rail,United States of America,USA,North America,,,4/1/2016,1403.0,"USD, 2013",37.835,7
+1142,19356,Aiport MAX Red Line,Rail,Light Rail,United States of America,USA,North America,,,9/1/2001,125.0,"USD, 2000",8.85,4
+1143,19357,AirportLink metrorail,Rail,Heavy Rail,United States of America,USA,North America,,,7/1/2012,506.0,"USD, 2011",3.8,1
+1144,19373,Angle Lake Extension,Rail,Light Rail,United States of America,USA,North America,,,9/1/2016,331.0,"USD, 2015",2.576,1
+1145,19499,BART - SFO Extension,Rail,Heavy Rail,United States of America,USA,North America,,,6/1/2003,1529.584182,"USD, 2000",13.8572822,4
+1146,19500,BART Warm Springs,Rail,Heavy Rail,United States of America,USA,North America,,,3/1/2017,750.0,"USD, 2013",8.694,1
+1147,19506,Battersea NLE,Rail,Rapid Transit,United Kingdom,GBR,Europe,,,9/20/2021,1200.0,"GBP, 2018",3.2,2
+1148,19595,Blue Line,Rail,Light Rail,United States of America,USA,North America,,,11/1/2007,463.0,"USD, 2006",15.45,15
+1149,19596,Blue Line (Original),Rail,Light Rail,United States of America,USA,North America,,,12/1/1999,295.0,"USD, 1998",24.15,16
+1150,19597,Blue Line Draper Extension,Rail,Light Rail,United States of America,USA,North America,,,8/1/2013,143.0,"USD, 2012",6.118,3
+1151,19598,Blue Line Extension,Rail,Light Rail,United States of America,USA,North America,,,3/1/2018,1200.0,"USD, 2016",14.973,11
+1152,19599,Blue Line Extension  South Corridor Phase 1,Rail,Light Rail,United States of America,USA,North America,,,9/1/2003,224.0,"USD, 2001",10.143,7
+1153,19600,Blue Line Extension - South Corridor Phase II,Rail,Light Rail,United States of America,USA,North America,,,8/1/2015,270.0,"USD, 2013",6.923,4
+1154,19601,Blue Line Extension to Rowlett,Rail,Light Rail,United States of America,USA,North America,,,12/1/2012,310.0,"USD, 2011",7.4,1
+1155,19602,Blue Line West Extension,Rail,Light Rail,Canada,CAN,North America,,,12/1/2012,1500.0,"CAD, 2010",8.2,6
+1156,19699,Canberra Metro,Rail,Light Rail,Australia,AUS,Oceania,,,4/1/2019,675.0,"AUD, 2018",12,13
+1157,19725,Chamartin-Atocha tunnel,Rail,Metro,Spain,ESP,Europe,2004.0,2008,7/1/2008,550.0,"EUR, 2008",7.5,3
+1158,19740,Chongqing–Lichuan Railway Development Project,Rail,Highspeed,China,CHN,Asia,2009.0,2015,5/30/2015,4409.0,"USD, 2015",259,8
+1159,19753,Citybanan,Rail,Commuter Rail,Sweden,SWE,Europe,,,7/1/2017,18510.0,"SEK, 2013",7.4,2
+1160,19756,Citytunneln,Rail,Heavy Rail,Sweden,SWE,Europe,,,12/1/2010,7672.0,"SEK, 2008",17,3
+1161,19761,Coliseum-Oakland International Airport Line,Rail,Heavy Rail,United States of America,USA,North America,,,11/1/2014,484.0,"USD, 2012",5.152,2
+1162,19861,Dali–Lijiang Railway Project,Rail,Conventional,China,CHN,Asia,2005.0,2012,6/15/2012,866.0,"USD, 2012",167,11
+1163,19863,Dallas South Oak Cliff Extension,Rail,Light Rail Transit,United States of America,USA,North America,,,1/1/2002,437.2,"USD, 2002",,
+1164,19865,DART Green Line Extensions to Buckner and North Carrollton,Rail,Light Rail,United States of America,USA,North America,,,12/1/2010,1800.0,"USD, 2009",45.9,16
+1165,19866,Daxian–Wanxian Railway Project ,Rail,Conventional,China,CHN,Asia,1997.0,2002,12/18/2002,2774.3,"CNY, 1996",156,
+1166,19869,Denver West Rail Line LRT,Rail,Light Rail Transit,United States of America,USA,North America,,2013,1/1/2013,707.0,"USD, 2013",,
+1167,19891,eBART,Rail,Commuter Rail,United States of America,USA,North America,,,5/1/2018,525.0,"USD, 2014",16.261,1
+1168,19892,Eccles Line,Rail,Light Rail,United Kingdom,GBR,Europe,,,9/1/2000,160.0,"GBP, 1999",6.4,11
+1169,20003,Expo Line Phase 1,Rail,Light Rail,United States of America,USA,North America,,,4/1/2012,960.0,"USD, 2009",13.84,10
+1170,20004,Expo Line Phase 2,Rail,Light Rail,United States of America,USA,North America,,,5/1/2016,1288.0,"USD, 2014",10.62,7
+1171,20022,Fifth Railway Project,Rail,Conventional,China,CHN,Asia,1990.0,1999,6/30/1999,1550.0,"USD, 1999",,
+1172,20039,Fourth Railway Project,Rail,Conventional,China,CHN,Asia,1989.0,1998,6/1/1998,946.0,"USD, 1998",944,
+1173,20059,Ganzhou–Longyan Railway Project,Rail,Conventional,China,CHN,Asia,2001.0,2007,12/1/2007,781.0,"USD, 2007",290.1,14
+1174,20069,Gilbert Road Extension,Rail,Light Rail,United States of America,USA,North America,,,5/1/2019,184.0,"USD, 2018",3.059,2
+1175,20071,Gold G Line,Rail,Commuter Rail,United States of America,USA,North America,,,4/1/2019,505.0,"USD, 2015",18.032,7
+1176,20072,Gold Line - Eastside Extension,Rail,Light Rail,United States of America,USA,North America,,,11/1/2009,887.0,"USD, 2007",9.66,8
+1177,20074,Gold Line Extension Folsom Corridor,Rail,Light Rail,United States of America,USA,North America,,,10/1/2005,268.0,"USD, 2002",20.75619318,10
+1178,20075,Gold Line Foothill Extension Phase 2A,Rail,Light Rail,United States of America,USA,North America,,,3/1/2016,714.0,"USD, 2013",18.51,6
+1179,20087,Green Line (Airport Extension),Rail,Light Rail,United States of America,USA,North America,,,8/1/2013,350.0,"USD, 2011",9.66,6
+1180,20088,Green Line (West Valley Extension),Rail,Light Rail,United States of America,USA,North America,,,8/1/2011,370.0,"USD, 2010",8.211,4
+1181,20089,Green Line Extension,Rail,Heavy Rail,United States of America,USA,North America,,,12/1/2021,2300.0,"USD, 2018",6.9,6
+1182,20090,Green Line from Anacostia to Branche Avenue,Rail,Heavy Rail,United States of America,USA,North America,,,1/1/2001,850.337905,"USD, 1998",10.74065152,5
+1183,20091,Green Line light rail,Rail,Light Rail,United States of America,USA,North America,,,9/1/2009,388.0,"USD, 2008",6.5,8
+1184,20092,Green Line Mid-City Segment U Street to Fort Totten,Rail,Heavy Rail,United States of America,USA,North America,,,9/1/1999,595.562775,"USD, 1996",4.688210227,2
+1185,20106,Guizhou Shuibai Railway Project ,Rail,Conventional,China,CHN,Asia,1999.0,2004,3/1/2004,393.0,"USD, 2004",121,
+1186,20107,Guizhou-Guangzhou Railway,Rail,Highspeed,China,CHN,Asia,2009.0,2016,12/31/2016,13055.0,"USD, 2016",847,"16 new, 3 upgraded"
+1187,20116,Hampton Roads Tide Light Rail,Rail,Light Rail,United States of America,USA,North America,,,8/1/2011,279.0,"USD, 2009",11.91,11
+1188,20121,Hefei-Xi’an Railway Project ,Rail,Conventional,China,CHN,Asia,2001.0,2007,6/1/2007,2617.0,"USD, 2007",954,52
+1189,20148,Hudson-Bergen light rail,Rail,Light Rail,United States of America,USA,North America,,,1/1/2011,2300.0,"USD, 2004",27.4,24
+1190,20170,Inner Mongolia Local Railway Project,Rail,Conventional,China,CHN,Asia,1988.0,1997,12/1/1997,345.0,"USD, 1997",945,
+1191,20174,Interstate MAX,Rail,Light Rail,United States of America,USA,North America,,,5/1/2004,343.0,"USD, 2002",9.2575,10
+1192,20177,Ion Light Rail,Rail,Light Rail,Canada,CAN,North America,,,6/1/2019,868.0,"CAD, 2017",19,19
+1193,20185,Jilin-Hunchun Railway,Rail,Highspeed,China,CHN,Asia,2011.0,2016,12/31/2016,4768.0,"USD, 2016",360,8
+1194,20186,Jing-Jiu Railway Technical Enhancement Project,Rail,Conventional,China,CHN,Asia,1994.0,1997,6/30/1997,552.0,"USD, 1997",2537,
+1195,20221,Kunming Urban Rail,Rail,Metro,China,CHN,Asia,2011.0,2018,6/30/2018,1842.0,"USD, 2018",19.74,17
+1196,20225,L2 Metro Extension to Badalona,Rail,Metro,Spain,ESP,Europe,2005.0,2010,7/1/2010,70.0,"EUR, 2008",0.7,1
+1197,20226,L3 Metro Extension to Trinitat Nova,Rail,Metro,Spain,ESP,Europe,2003.0,2008,10/1/2008,,,1.9,2
+1198,20228,L5 to Vall d'Hebron,Rail,Metro,Spain,ESP,Europe,2007.0,2010,7/1/2010,320.0,"EUR, 2010",2.5,3
+1199,20246,Lanzhou–Chongqing Railway Development Project,Rail,Conventional,China,CHN,Asia,2008.0,2017,12/29/2017,16082.0,"USD, 2017",886,28
+1200,20248,Laval extension,Rail,Heavy Rail,Canada,CAN,North America,,,4/1/2007,745.0,"CAD, 2005",5.2,3
+1201,20287,Line 1 Tram (Tenerife),Rail,Light Rail,Spain,ESP,Europe,2004.0,2007,6/1/2007,256.0,"EUR, 2007",12.3,21
+1202,20288,Paris Line 12 to Front Populaire,Rail,Metro,France,FRA,Europe,,,12/1/2012,295.0,"EUR, 2010",,
+1203,20289,Line 13 to Courtilles,Rail,Heavy Rail,France,FRA,Europe,,,6/1/2008,158.0,"EUR, 2007",,
+1204,20293,Line 2,Rail,Light Rail,France,FRA,Europe,,,12/1/2006,455.0,"EUR, 2006",,
+1205,20294,Line 2 Tram (Tenerife),Rail,Light Rail,Spain,ESP,Europe,2008.0,2009,5/1/2009,55.0,"EUR, 2009",3.6,6
+1206,20299,Line 9 extension (Madrid),Rail,Metro,Spain,ESP,Europe,2009.0,2015,3/1/2015,191.0,"EUR, 2015",3,2
+1207,20300,Line A - Extension,Rail,Metro,France,FRA,Europe,,,12/1/2003,187.5,"EUR, 2002",,
+1208,20301,Line A - Initial,Rail,Metro,France,FRA,Europe,,,6/1/1993,590.7,"USD, 1991",,
+1209,20303,Line A Tram (Bilbao),Rail,Light Rail,Spain,ESP,Europe,1999.0,2002,12/1/2002,40.3,"EUR, 2001",5.57,14
+1210,20309,Lines 1-2 (Malaga),Rail,Light Rail,Spain,ESP,Europe,2006.0,2014,7/1/2014,870.0,"EUR, 2014",11.3,17
+1211,20321,London Victoria line,Rail,Conventional,United Kingdom,GBR,Europe,1955.0,,1/1/1969,740.5,"EUR, 1969",15.8,
+1212,20322,Løren Line,Rail,Metro,Norway,NOR,Europe,2013.0,2016,4/1/2016,1330.0,"NOK, 2015",1.6,1
+1213,20362,Metro Blue Line (light rail),Rail,Light Rail,United States of America,USA,North America,,,6/1/2004,672.0,"USD, 2003",19.3,19
+1214,20363,Metro Green Line (light rail),Rail,Light Rail,United States of America,USA,North America,,,6/1/2014,957.0,"USD, 2012",15.77,23
+1215,20364,Edmonton Metro Line,Rail,Light Rail,Canada,CAN,North America,,,9/1/2015,665.0,"CAD, 2012",3.3,3
+1216,20365,Metro Line 9 -  Southern Segment to Airport,Rail,Metro,Spain,ESP,Europe,2002.0,2016,2/1/2016,2900.0,"EUR, 2016",16.9,15
+1217,20366,Metro Line A,Rail,Metro,France,FRA,Europe,,,3/1/2002,527.17,"EUR, 2000",,
+1218,20367,Metro Line B,Rail,Metro,France,FRA,Europe,,,9/1/2021,1194.0,"EUR, 2017",,
+1219,20374,Millennium Line - Initial,Rail,Heavy Rail,Canada,CAN,North America,,,8/1/2002,1200.0,"CAD, 2001",20.5,10
+1220,20375,Millennium Line Evergreen Extension SkyTrain,Rail,Heavy Rail,Canada,CAN,North America,,,12/1/2016,1431.0,"CAD, 2014",10.948,4
+1221,20377,ML1 (Madrid),Rail,Light Rail,Spain,ESP,Europe,2004.0,2007,5/1/2007,277.0,"EUR, 2007",5.4,9
+1222,20378,ML2 (Madrid),Rail,Light Rail,Spain,ESP,Europe,2004.0,2007,7/1/2007,283.0,"EUR, 2007",8.7,13
+1223,20379,ML3 (Madrid),Rail,Light Rail,Spain,ESP,Europe,2004.0,2007,7/1/2007,286.0,"EUR, 2007",13.7,14
+1224,20415,"Baoji - Lanzhou, 2001 - 2007",Rail,Conventional,China,CHN,Asia,2001.0,2007,12/31/2007,1333.0,"USD, 2007",482,
+1225,20547,Nicolaisen Rail 01,Rail,Conventional,,,Europe,,1994.969082,,,,,
+1226,20548,Nicolaisen Rail 02,Rail,Conventional,,,Europe,1989.978564,1999.931286,,,,,
+1227,20549,Nicolaisen Rail 03,Rail,Conventional,,,Europe,1984.969358,2000.983722,,,,,
+1228,20550,Nicolaisen Rail 05,Rail,Conventional,,,Europe,1974.994128,1978.98048,,,,15.1,
+1229,20551,Nicolaisen Rail 07,Rail,Conventional,,,Europe,,1995.00164,,,,,
+1230,20552,Nicolaisen Rail 08,Rail,Conventional,,,Europe,,1995.002608,,,,,
+1231,20553,Nicolaisen Rail 10,Rail,Conventional,,,Europe,,1994.979234,,,,,
+1232,20554,Nicolaisen Rail 11,Rail,Conventional,,,Europe,,1998.951608,,,,,
+1233,20555,Nicolaisen Rail 12,Rail,Conventional,,,Europe,1989.978564,1999.945669,,,,,
+1234,20556,Nicolaisen Rail 13,Rail,Conventional,,,Europe,1999.953794,2009.988278,,,,,
+1235,20557,Nicolaisen Rail 14,Rail,Conventional,,,Europe,1991.964973,2002.983807,,,,,
+1236,20558,Nicolaisen Rail 16,Rail,Conventional,,,Europe,,2002.985983,,,,,
+1237,20559,Nicolaisen Rail 17,Rail,Conventional,,,Europe,,1994.989386,,,,,
+1238,20560,Nicolaisen Rail 19,Rail,Conventional,,,Europe,1990.971769,1998.960431,,,,,
+1239,20561,Nicolaisen Rail 21,Rail,Conventional,,,Europe,1996.97418,2001.999295,,,,,
+1240,20562,Nicolaisen Rail 22,Rail,Conventional,,,Europe,1986.99895,1996.981616,,,,,
+1241,20563,Nicolaisen Rail 24,Rail,Conventional,,,Europe,2000.990181,2002.997223,,,,,
+1242,20564,Nicolaisen Rail 25,Rail,Conventional,,,Europe,1990.971769,1998.971429,,,,,
+1243,20565,Nicolaisen Rail 26,Rail,Conventional,,,Europe,,2001.015386,,,,,
+1244,20566,Nicolaisen Rail 27,Rail,Conventional,,,Europe,2001.983386,2010.005682,,,,,
+1245,20567,Nicolaisen Rail 28,Rail,Conventional,,,Europe,1992.008156,1996.990076,,,,,
+1246,20568,Nicolaisen Rail 29,Rail,Conventional,,,Europe,1996.97418,2003.003024,,,,,
+1247,20569,Nicolaisen Rail 30,Rail,Conventional,,,Europe,1996.97418,2010.021272,,,,,
+1248,20570,Nicolaisen Rail 31,Rail,Conventional,,,Europe,1993.994566,2006.000434,,,,,
+1249,20581,Northeast LRT Extension to Saddle Ridge,Rail,Light Rail,Canada,CAN,North America,,,8/1/2012,124.0,"CAD, 2011",2.9,2
+1250,20584,North-South Line,Rail,Metro,Netherlands,NLD,Europe,2002.0,2018,7/1/2018,3100.0,"EUR, 2018",9.8,8
+1251,20586,Northwest Extension Phase 1,Rail,Light Rail,United States of America,USA,North America,,,3/1/2016,327.0,"USD, 2015",5.152,3
+1252,20587,Northwest LRT Extension to Rocky Ridge/Tuscany,Rail,Light Rail,Canada,CAN,North America,,,8/1/2014,114.0,"CAD, 2012",2.25,1
+1253,20588,Nottingham Tram Line 1,Rail,Light Rail,United Kingdom,GBR,Europe,,,3/1/2004,180.0,"GBP, 2002",14,23
+1254,20589,Nottingham Tram Line 2,Rail,Light Rail,United Kingdom,GBR,Europe,2009.0,2015,8/1/2015,570.0,"GBP, 2014",18,28
+1255,20599,Orange Line light rail,Rail,Light Rail,United States of America,USA,North America,,,9/1/2015,1495.0,"USD, 2013",11.74,10
+1256,20600,Orange Line Phase 1 to Irving,Rail,Light Rail,United States of America,USA,North America,,,7/1/2012,500.0,"USD, 2011",8.694,3
+1257,20601,Orange Line Phase 2 to Belt Line,Rail,Light Rail,United States of America,USA,North America,,,12/1/2012,400.0,"USD, 2011",6.279,2
+1258,20602,Orange Line Phase 3 to DFW,Rail,Light Rail,United States of America,USA,North America,,,8/1/2014,397.0,"USD, 2013",7.567,1
+1259,20613,Parla Tram,Rail,Light Rail,Spain,ESP,Europe,2005.0,2008,5/1/2008,140.0,"EUR, 2007",8.4,15
+1260,20670,"Portland LRT, 1978-1987",Rail,Light rail,United States of America,USA,North America,1978.0,1987,1/1/1987,266.0,"USD, 1988",15.1,24
+1261,20687,Purple Line,Rail,Light Rail,United States of America,USA,North America,,,5/1/2015,823.0,"USD, 2012",10.78,11
+1262,20696,R Line,Rail,,United States of America,USA,North America,,,2/1/2017,654.0,"USD, 2015",16.905,8
+1263,20701,Railway VI (Beijing - Zhengzhou and Chengdu - Kunming),Rail,Passenger and freight,China,CHN,Asia,1993.0,1999,6/1/1999,1473.0,"USD, 2001",,
+1264,20757,Red (B) Line Phase 2A and 2B,Rail,,United States of America,USA,North America,,,6/1/1999,1687.0,"USD, 1994",10.7,8
+1265,20758,Red (B) Line Phase 3,Rail,,United States of America,USA,North America,,,6/1/2000,1240.0,"USD, 1997",10.4,3
+1266,20759,Red Line (Mid-Jordan Extension),Rail,,United States of America,USA,North America,,,8/1/2011,481.0,"USD, 2010",17.066,9
+1267,20760,Red Line Extension,Rail,,United States of America,USA,North America,,,12/1/2013,756.0,"USD, 2011",8.53,8
+1268,20761,Red Line Wheaton to Glenmont,Rail,,United States of America,USA,North America,,,7/1/1998,243.809042,"USD, 1996",2.533920455,1
+1269,20880,Riverfront Green Line,Rail,Light Rail,United States of America,USA,North America,,,6/1/2012,44.0,"USD, 2011",1.61,2
+1270,20908,Sabadell tunnel,Rail,Metro,Spain,ESP,Europe,2007.0,2017,7/1/2017,430.0,"EUR, 2012",4.4,4
+1271,20920,"San Francisco BART to SFO Extension, FTA 2008, 1995-2003, DOUBLET (other rejected)",Rail,Heavy Rail,United States of America,USA,North America,1995.0,2003,6/1/2003,1551.6,"USD, 2004",14,4
+1272,20923,"San Juan Tren Urbano, Puerto Rico, FTA 2008, 1995-2005, DOUBLET (other datapoint rejected)",Rail,Heavy Rail,United States of America,USA,North America,,,6/1/2005,2228.4,"USD, 2001",17.06,16
+1273,20950,Second Avenue Phase 1,Rail,Heavy Rail,United States of America,USA,North America,,,1/1/2017,4900.0,"USD, 2012",2.7,3
+1274,20956,Second National Railways Project (Zhe Gan Line) ,Rail,Highspeed,China,CHN,Asia,2004.0,2008,1/31/2008,1848.0,"USD, 2008",942,
+1275,20957,Second Railway Project,Rail,Conventional,China,CHN,Asia,1985.0,1994,6/1/1994,546.0,"USD, 1994",,
+1276,20966,Sevilla Tram,Rail,Light Rail,Spain,ESP,Europe,2006.0,2007,10/1/2007,53.0,"EUR, 2007",2.2,5
+1277,20974,Shenmu-Yanan Railway Project ,Rail,Conventional,China,CHN,Asia,1999.0,2003,3/15/2003,5813.5,"CNY, 1997",382,21
+1278,20978,ShiZheng Railway,Rail,Highspeed,China,CHN,Asia,2008.0,2015,11/30/2015,5197.0,"USD, 2012",355,6
+1279,20984,Silver Line phase 1,Rail,Heavy Rail,United States of America,USA,North America,,,7/1/2014,2982.0,"USD, 2012",18.83,5
+1280,21000,South Corridor/Portland Mall MAX,Rail,Light Rail,United States of America,USA,North America,,,9/1/2009,559.0,"USD, 2008",13.47582197,20
+1281,21001,South Oak Cliff/UNT Blue Line Extension,Rail,Light Rail,United States of America,USA,North America,,,10/1/2016,195.0,"USD, 2015",4.186,2
+1282,21002,Southeast Extension,Rail,Light Rail,United States of America,USA,North America,,,5/1/2019,209.0,"USD, 2018",3.703,3
+1283,21004,Southern NJ Light Rail Transit System,Rail,Light Rail,United States of America,USA,North America,,,3/1/2004,699.0,"USD, 2002",45.09143466,21
+1284,21071,Terrassa tunnel,Rail,Metro,Spain,ESP,Europe,2008.0,2015,7/1/2015,401.0,"EUR, 2012",4.5,3
+1285,21082,"Third National Railway Project (Chongqing-Guiyang
+and Yingtan-Xiamen)",Rail,Conventional,China,CHN,Asia,2005.0,2013,6/30/2013,1640.0,"USD, 2013",,16
+1286,21083,Yingtan-Xiamen,Rail,Conventional,China,CHN,Asia,1986.0,1995,4/1/1995,676.0,"USD, 1995",,
+1287,21102,Tram 3a - initial,Rail,Light Rail,France,FRA,Europe,,,12/1/2006,312.0,"EUR, 2005",,
+1288,21108,Tram Line 11 (Barcelona),Rail,Light Rail,Spain,ESP,Europe,2001.0,2003,12/1/2003,84.0,"EUR, 2002",2.3,5
+1289,21112,"Trambaix Network (T1, T2, and T3 Lines)",Rail,Light Rail,Spain,ESP,Europe,2001.0,2007,4/1/2007,301.0,"EUR, 2007",15.1,29
+1290,21113,"Trambesos Network (T4, T5, and T6 Lines) - Barcelona",Rail,Light Rail,Spain,ESP,Europe,2003.0,2008,6/1/2008,277.0,"EUR, 2006",14,27
+1291,21174,"Tyne and Wear Metro (Initial Phase, 1991 Extension, and 2002 Extension)",Rail,Light Rail,United Kingdom,GBR,Europe,,,,397.0,"GBP, 1991",77,57
+1292,21181,U-Link,Rail,Light Rail,United States of America,USA,North America,,,3/1/2016,1756.0,"USD, 2013",5.1,2
+1293,21247,Vitoria Tram,Rail,Light Rail,Spain,ESP,Europe,2006.0,2008,12/1/2008,100.0,"EUR, 2007",7.2,18
+1294,21249,W Line,Rail,Light Rail,United States of America,USA,North America,,,4/1/2013,735.0,"USD, 2010",19.481,12
+1295,21277,Yichang–Wanzhou Railway Project ,Rail,Conventional,China,CHN,Asia,2004.0,2011,12/1/2011,4125.0,"USD, 2011",377,
+1296,21284,Zaragoza Tram,Rail,Light Rail,Spain,ESP,Europe,2009.0,2011,4/1/2011,400.0,"EUR, 2011",12.8,25
+1297,21286,Zhengzhou‒Xi’an Railway Project,Rail,Highspeed,China,CHN,Asia,2006.0,2014,12/11/2014,6899.0,"USD, 2014",459,9
+1298,21828,"Alvkarleby-Bomansberget, 2005",Rail,Conventional,Sweden,SWE,Europe,1994.0,,,,,,
+1299,21829,"Attarp onnestad, 2005, 2005",Rail,Conventional,Sweden,SWE,Europe,1998.0,,,,,,
+1300,21830,"Bergen line Finse, upgrading",Rail,Conventional,Norway,NOR,Europe,,1999,,,,,
+1301,21831,"BorlŠnge-LŒngsele, 2007",Rail,Conventional,Sweden,SWE,Europe,1998.0,,,,,,
+1302,21833,"Edange, 2005",Rail,Conventional,Sweden,SWE,Europe,1994.0,,,,,,
+1303,21834,"Gavle-ostersund, 2007",Rail,Conventional,Sweden,SWE,Europe,1994.0,,,,,,
+1304,21835,Gršdingebanan,Rail,Conventional,Sweden,SWE,Europe,1982.0,1994,,,,,
+1305,21836,HolmŒn banan,Rail,Conventional,Sweden,SWE,Europe,,1994,,,,,
+1306,21838,"Kavlinge–Lund, 2005",Rail,Conventional,Sweden,SWE,Europe,1994.0,2005,,,,,
+1307,21839,Kuala Lumpur KTM Komuter,Rail,Commuter rail,Malaysia,MYS,Asia,,1995,,,,,
+1308,21840,"LekarekulleÐFrillesŒs, 2005",Rail,Conventional,Sweden,SWE,Europe,1994.0,2005,,,,,
+1309,21844,"Oxnered-Trollhattan, 2006",Rail,Conventional,Sweden,SWE,Europe,1994.0,2006,,,,,
+1310,21845,"Oxnered, 2005",Rail,Conventional,Sweden,SWE,Europe,1998.0,,,,,,
+1311,21846,Paris-Charles de Gaulle - RER B (110930 cantarelli em flyvbjerg),Rail,Metro,France,FRA,Europe,,1981,,,,16.09,
+1312,21847,RP2 KallhŠll KungsŠngen,Rail,Conventional,Sweden,SWE,Europe,1990.0,2003,,,,7,
+1313,21848,RP4 Degeršn Stenstorp,Rail,Conventional,Sweden,SWE,Europe,1993.0,2001,,,,15,
+1314,21849,Seoul Incheon (110930 cantarelli em flyvbjerg),Rail,Conventional,Republic of Korea,KOR,Asia,1997.0,2007,,,,37.6,
+1315,21850,"South West Corridor Railway, Perth, Australia",Rail,Conventional,Australia,AUS,Australia,,2007,,,,70.1,
+1316,21851,"Sthlm S–Arstaberg, 2005",Rail,Conventional,Sweden,SWE,Europe,1994.0,2005,,,,,
+1317,21852,"ToreboÐHedberg, 2008",Rail,Conventional,Sweden,SWE,Europe,1998.0,2008,,,,,
+1318,21853,"Unterinntalbahn, Austria (completion expected in 2012)",Rail,Highspeed,Austria,AUT,Europe,2002.0,,,,,40,
+1319,21854,"Vannas–Bastutrask, 2008",Rail,Conventional,Sweden,SWE,Europe,2004.0,2008,,,,1,
+1320,21855,"Varnamo - Alvesta, 2007",Rail,Conventional,Sweden,SWE,Europe,1998.0,,,,,,
+1321,21856,Vastkystrail Hamra BreŒs,Rail,Conventional,Sweden,SWE,Europe,1990.0,1993,,,,,
+1322,21859,"HSR Est (East), second stage",Rail,Highspeed,France,FRA,Europe,2009.0,2016,,,,106,
+1323,21860,"HSR Madrid-Barcelona- French Frontier (Figueres), 1988 - 2008/2012
+
+",Rail,Highspeed,Spain,ESP,Europe,1988.0,2012,,,,804,
+1324,21862,HSR Perpignan to Figueres,Rail,Highspeed,France,FRA,Europe,,,,,,44.4,
+1325,21865,RP1 TŒngaberg Varberg,Rail,Conventional,Sweden,SWE,Europe,1990.0,1998,,,,6.4,
+1326,21866,RP3 Sšderhamn EnŒnger,Rail,Conventional,Sweden,SWE,Europe,1993.0,2000,,,,30,
+1327,21867,Shinkansen Kyushu north,Rail,Highspeed,Japan,JPN,Asia,,2011,,,,130,
+1328,21869,"Attiko metro, Athens",Rail,Metro,Greece,GRC,Europe,1985.0,2003,,,,17.6,
+1329,21870,"Bergen bybane, stage 1, downtown-Nesttun",Rail,Light rail,Norway,NOR,Europe,,2010,,,,9.8,
+1330,21871,Bilbao metro - Line 1 extension: Casco Viejo - Bolueta,Rail,Metro,Spain,ESP,Europe,1987.0,1997,,,,31,
+1331,21872,Bilbao metro - Line 1: Casco Viejo-Plentzia,Rail,Metro,Spain,ESP,Europe,1987.0,1995,,,,31,
+1332,21873,Bilbao metro - Line 2 extension: Portugalete - Pe–ota - Santurtzi,Rail,Metro,Spain,ESP,Europe,1987.0,2004,,,,1.7,
+1333,21874,Bilbao metro - Line 2 extension: Sestao - Portugalete,Rail,Metro,Spain,ESP,Europe,1987.0,2007,,,,1.9,
+1334,21875,Bilbao metro - Line 2 extension: Urbinaga - Sestao,Rail,Metro,Spain,ESP,Europe,1987.0,2005,,,,1,
+1335,21876,Bilbao tram - Line A extension: San Marmes - Basurto Hospital,Rail,light rail,Spain,ESP,Europe,,2004,,,,0.55,
+1336,21877,Bilbao tram - Line A: Uribitarte - San Marmes,Rail,light rail,Spain,ESP,Europe,,2003,,,,,
+1337,21884,"Kuala Lumpur Monorail, 2003",Rail,Metro,Malaysia,MYS,Asia,,2003,8/31/2003,,,8.6,11
+1338,21887,"Manchester Metrolink, phase 1",Rail,Light Rail,United Kingdom,GBR,Europe,1989.0,1992,4/6/1992,145.0,GBP 1992,31,20
+1339,21888,"Manchester Metrolink, phase 2",Rail,Light Rail,United Kingdom,GBR,Europe,1996.0,2000,1/9/2000,160.0,GBP 2000,8.2,
+1340,21889,Mexico city metro line 1,Rail,Metro,Mexico,MEX,South America,1967.0,1970,,,,,
+1341,21890,"Mexico City Metro line 2, Tasque–a to Cuatro Caminos",Rail,Metro,Mexico,MEX,South America,1967.0,1970,,,,23.4,
+1342,21891,"Mexico City Metro Line 4, Mart’n Carrera to Santa Anita",Rail,Metro,Mexico,MEX,South America,1980.0,1981,8/29/1981,,,10.7,10
+1343,21902,"Santiago metro, Line 5 extension, na-2000",Rail,Conventional,Chile,CHL,South America,,,4/5/1997,,,29,30
+1344,21903,Singapore metro - Circle Line,Rail,Metro,Singapore,SGP,Asia,,2009,,,,35.7,
+1345,21906,"Sydney airport link, 2000",Rail,Conventional,Australia,AUS,Australia,,2000,,,,10,
+1346,22058,Newcastle Light Rail,Rail,Light Rail,Australia,AUS,Oceania,,,2/1/2019,368.0,AUD 2017,2.7,6
+1347,22059,Mernda Rail Extension,Rail,Heavy Rail,Australia,AUS,Oceania,,,9/1/2018,555.0,AUD 2018,8,3
+1348,22060,Gawler Extension,Rail,Heavy Rail,Australia,AUS,Oceania,,,6/1/2022,842.0,AUD 2022,20,
+1349,22061,Moretan Bay Extension,Rail,Heavy Rail,Australia,AUS,Oceania,,,10/1/2016,1300.0,AUD 2016,12,
+1350,22062,Forrestfield Extension,Rail,Heavy Rail,Australia,AUS,Oceania,,,10/9/2022,1860.0,AUD 2022,9,3
+1351,22063,South West Rail Link,Rail,Heavy Rail,Australia,AUS,Oceania,,,10/1/2016,1800.0,AUD 2016,11,3
+1352,22064,Regional Rail Link,Rail,City line,Australia,AUS,Oceania,,,6/1/2015,3650.0,AUD 2015,48,2
+1353,22065,LXRA,Rail,Level Crossing,Australia,AUS,Oceania,,,,8300.0,AUD 2017,,
+1354,22067,Sydney Light Rail,Rail,Light Rail,Australia,AUS,Oceania,,,8/31/1997,3147.0,AUD 2020,25,42
+1355,22068,Inner West Extension,Rail,Light Rail,Australia,AUS,Oceania,,,3/1/2014,176.0,AUD 2014,6,9
+1356,22071,South Morang Extention,Rail,Heavy Rail,Australia,AUS,Oceania,,,4/1/2012,650.0,AUD 2012,8,3
+1357,22072,Parrramatta LRT,Rail,Light Rail,Australia,AUS,Oceania,,,5/1/2024,3500.0,AUD 2022,12,16
+1358,22073,Gold Coast LRT - 3A,Rail,Light Rail,Australia,AUS,Oceania,,,,1200.0,AUD 2022,7,8
+1359,22074,Gold Coast LRT - 2,Rail,Light Rail,Australia,AUS,Oceania,,,12/1/2017,420.0,AUD 2016,7,3
+1360,22075,Hurstbridge Line Upgrade,Rail,Heavy Rail,Australia,AUS,Oceania,,,,603.0,AUD 2021,5,2
+1361,22076,Shepperaton Upgrade,Rail,Heavy Rail,Australia,AUS,Oceania,,,,747.0,AUD 2022,251,
+1362,22077,Flinders Link,Rail,Heavy Rail,Australia,AUS,Oceania,,,12/5/2020,141.0,AUD 2020,0.65,1
+1363,22078,Sydney Metro NWRL,Rail,Heavy Rail,Australia,AUS,Oceania,,,5/1/2019,7300.0,AUD 2019,36,8
+1364,22079,Cross River Rail,Rail,Heavy Rail,Australia,AUS,Oceania,,,,6900.0,AUD 2019,10,
+1365,22081,Sunbury Electrification,Rail,Heavy Rail,Australia,AUS,Oceania,,,,270.0,AUD 2012,40,
+1366,22082,Yanchep Extension,Rail,Heavy Rail,Australia,AUS,Oceania,,,,607.0,AUD 2022,15,3
+1367,22083,Byford Extension,Rail,Heavy Rail,Australia,AUS,Oceania,,,,707.0,AUD 2022,8,1

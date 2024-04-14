@@ -1,0 +1,11 @@
+---
+title: "HMT Long Term Tracking"
+categories:
+    - communications
+---
+
+For those wanting to use longer term polling data of the same topics, carried out by HMT (His Majesty's Treasury).
+
+Available via our S3 bucket as hmt_long_term_tracking.zip, [or download here](https://evidence-house-public.s3.eu-west-2.amazonaws.com/hmt_long_term_tracking.zip)
+
+HMT Polling Long Term Tracking Code Book (1).csv is the codebook for the HMT data

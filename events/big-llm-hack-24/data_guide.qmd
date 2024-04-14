@@ -1,0 +1,58 @@
+---
+title: "Data Access Guide"
+---
+We provide pre-processed datasets through our Evidence House S3 bucket.
+
+The easiest option to download is either by clicking the links in our data guide, or querying them directly (eg, using wget)
+
+```
+$ https://evidence-house-public.s3.eu-west-2.amazonaws.com/YOUR_FILE_NAME
+```
+
+### AWS CLI
+
+To access the Hackathon data, you will need to download and install the AWS CLI tool. You can find instructions for this [here](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+
+To verify the AWS CLI has installed properly you can run:
+
+```
+$ aws --version
+```
+
+Which should return something like:
+
+`aws-cli/2.10.0 Python/3.11.2 Darwin/18.7.0 botocore/2.4.5`
+
+You might need to restart your terminal for the AWS CLI to be available.
+
+---
+
+### Hackathon Data
+
+The data for the hackathon can be downloaded from AWS using the command:
+
+```
+aws s3 cp s3://evidence-house-public <YOUR_FILE_NAME> --no-sign-request
+```
+
+Eg, 
+
+```
+aws s3 cp s3://evidence-house-public gapminder.csv --no-sign-request
+```
+
+---
+
+The files come in a variety of formats:
+
+- OpenOffice Documents
+- PDFs
+- Excel Spreadsheets
+- CSVs
+- HTML documents
+
+If you are using `Python` to operate on the data you might find the [`odfpy`](https://pypi.org/project/odfpy/) module helpful for reading OpenOffice documents.
+
+If ypu are using `R` you might find the [`readODS`](https://rdrr.io/cran/readODS/) or [`trinker/textreadr`](https://rdrr.io/github/trinker/textreadr/man/read_odt.html) packages helpful for reading OpenOffice documents.
+
+

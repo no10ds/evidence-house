@@ -4,11 +4,16 @@
     "items": [
       "/events/big-llm-hack-24/data/companies_house.html",
       "/events/big-llm-hack-24/data/find_a_grant.html",
+      "/events/big-llm-hack-24/data/focus_groups.html",
       "/events/big-llm-hack-24/data/gov_projects.html",
+      "/events/big-llm-hack-24/data/hmt_long_term_tracking.html",
       "/events/big-llm-hack-24/data/legislation.html",
       "/events/big-llm-hack-24/data/correspondence.html",
+      "/events/big-llm-hack-24/data/news_list.html",
+      "/events/big-llm-hack-24/data/newscatcher.html",
       "/events/big-llm-hack-24/data/ojo_data.html",
       "/events/big-llm-hack-24/data/global_projects.html",
+      "/events/big-llm-hack-24/data/savanta.html",
       "/events/big-llm-hack-24/data/spotlight.html"
     ]
   },

@@ -32,8 +32,8 @@ Expect more information in the next few days.
 ![](schedule.png){width=100vw}
 
 ## Datasets
-We've prepared a selection of datasets for the event, and these can be viewed on our [datasets page.](data.qmd)
+We've prepared a selection of datasets for the event, and these can be viewed on our [datasets page.](data_guide.qmd)
 
-Where data has been pre-prepared, we have hosted it on a S3 bucket - we will provide access and details on the day of the hack.
+Where data has been pre-prepared, [we have hosted it on a S3 bucket.](data_)
 
 ## Tools and Resources (TBC)

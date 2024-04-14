@@ -1,0 +1,9 @@
+---
+title: "National News List"
+categories:
+    - communications
+---
+
+For those wishing to scrape their own data, an excel list of the names of news organisations and websites covering the North East can be found here
+
+Available via our S3 bucket as news_publications_list.zip, [or download here](https://evidence-house-public.s3.eu-west-2.amazonaws.com/news_publications_list.zip)

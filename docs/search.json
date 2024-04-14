@@ -249,7 +249,7 @@
     "href": "events/big-llm-hack-24/data.html",
     "title": "Evidence House",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nCategories\n\n\n\n\n\n\nCompanies House\n\n\ngrants\n\n\n\n\nFind Government Grants\n\n\ngrants\n\n\n\n\nGOV.UK Major Projects Data\n\n\nprojects\n\n\n\n\nLegislation API\n\n\nlegislation\n\n\n\n\nMinisterial Correspondence\n\n\ncorrespondence\n\n\n\n\nOJO Job Adverts\n\n\nskills\n\n\n\n\nOxford Global Projects Data\n\n\nprojects\n\n\n\n\nSpotlight\n\n\ngrants\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nCategories\n\n\n\n\n\n\nCompanies House\n\n\ngrants\n\n\n\n\nFind Government Grants\n\n\ngrants\n\n\n\n\nFocus Group Data\n\n\ncommunications\n\n\n\n\nGOV.UK Major Projects Data\n\n\nprojects\n\n\n\n\nHMT Long Term Tracking\n\n\ncommunications\n\n\n\n\nLegislation API\n\n\nlegislation\n\n\n\n\nMinisterial Correspondence\n\n\ncorrespondence\n\n\n\n\nNational News List\n\n\ncommunications\n\n\n\n\nNewscatcher API\n\n\ncommunications\n\n\n\n\nOJO Job Adverts\n\n\nskills\n\n\n\n\nOxford Global Projects Data\n\n\nprojects\n\n\n\n\nSavanta Polling Data\n\n\ncommunications\n\n\n\n\nSpotlight\n\n\ngrants\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "events/big-llm-hack-24/data/legislation.html",
@@ -501,7 +501,7 @@
     "href": "events/big-llm-hack-24/imperial-llm-hack-event.html#datasets",
     "title": "10x AI Hackathon",
     "section": "Datasets",
-    "text": "Datasets\nWe’ve prepared a selection of datasets for the event, and these can be viewed on our datasets page.\nWhere data has been pre-prepared, we have hosted it on a S3 bucket - we will provide access and details on the day of the hack."
+    "text": "Datasets\nWe’ve prepared a selection of datasets for the event, and these can be viewed on our datasets page.\nWhere data has been pre-prepared, we have hosted it on a S3 bucket."
   },
   {
     "objectID": "events/big-llm-hack-24/imperial-llm-hack-event.html#tools-and-resources-tbc",
@@ -515,7 +515,7 @@
     "href": "events/big-llm-hack-24/data/correspondence.html",
     "title": "Ministerial Correspondence",
     "section": "",
-    "text": "Thanks to our partners at the National Archives, we will provide a dataset of PDF files containing historical correspondence.\nThe dataset will be available on the S3 bucket.\nhttps://evidence-house-public.s3.eu-west-2.amazonaws.com/national_archive_records.zip"
+    "text": "Thanks to our partners at the National Archives, we will provide a dataset of PDF files containing historical correspondence.\nAvailable via our S3 bucket as national_archive_records.zip, or download here"
   },
   {
     "objectID": "events/gen-ai-hack/timetable.html#day-2",
@@ -732,7 +732,7 @@
     "href": "events/big-llm-hack-24/data/companies_house.html",
     "title": "Companies House",
     "section": "",
-    "text": "Companies House data\nThe dataset will be available on the S3 bucket."
+    "text": "Detailed data on UK companies is provided through the Companies House data product, available free online.\nA subset is available via our S3 bucket as focus_group_data.zip, or download here"
   },
   {
     "objectID": "events/big-llm-hack-24/challenges/situations/situations.html#situations-and-crises",
@@ -859,5 +859,40 @@
     "title": "OJO Job Adverts",
     "section": "",
     "text": "OJO Job Advert data provided by NESTA.\nData descriptions as well as access are available here."
+  },
+  {
+    "objectID": "events/big-llm-hack-24/data/hmt_long_term_tracking.html",
+    "href": "events/big-llm-hack-24/data/hmt_long_term_tracking.html",
+    "title": "HMT Long Term Tracking",
+    "section": "",
+    "text": "For those wanting to use longer term polling data of the same topics, carried out by HMT (His Majesty’s Treasury).\nAvailable via our S3 bucket as hmt_long_term_tracking.zip, or download here\nHMT Polling Long Term Tracking Code Book (1).csv is the codebook for the HMT data"
+  },
+  {
+    "objectID": "events/big-llm-hack-24/data/news_list.html",
+    "href": "events/big-llm-hack-24/data/news_list.html",
+    "title": "National News List",
+    "section": "",
+    "text": "For those wishing to scrape their own data, an excel list of the names of news organisations and websites covering the North East can be found here\nAvailable via our S3 bucket as news_publications_list.zip, or download here"
+  },
+  {
+    "objectID": "events/big-llm-hack-24/data/savanta.html",
+    "href": "events/big-llm-hack-24/data/savanta.html",
+    "title": "Savanta Polling Data",
+    "section": "",
+    "text": "Savanta polling excel spreadsheets relating to crime and more general polling topics.\nAvailable via our S3 bucket as savanta.zip, or download here"
+  },
+  {
+    "objectID": "events/big-llm-hack-24/data/newscatcher.html",
+    "href": "events/big-llm-hack-24/data/newscatcher.html",
+    "title": "Newscatcher API",
+    "section": "",
+    "text": "Link to Newscatcher: https://www.newscatcherapi.com/"
+  },
+  {
+    "objectID": "events/big-llm-hack-24/data/focus_groups.html",
+    "href": "events/big-llm-hack-24/data/focus_groups.html",
+    "title": "Focus Group Data",
+    "section": "",
+    "text": "PDFs for a number of focus groups containing qualitative data on crime.\nAvailable via our S3 bucket as focus_group_data.zip, or download here"
   }
 ]

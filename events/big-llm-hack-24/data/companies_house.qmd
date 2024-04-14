@@ -4,6 +4,6 @@ categories:
     - grants
 ---
 
-Companies House data
+Detailed data on UK companies is provided through the Companies House data product, [available free online.](https://download.companieshouse.gov.uk/en_output.html)
 
-The dataset will be available on the S3 bucket.
+A subset is available via our S3 bucket as focus_group_data.zip, [or download here](https://evidence-house-public.s3.eu-west-2.amazonaws.com/focus_group_data.zip)

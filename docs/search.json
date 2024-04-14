@@ -249,7 +249,7 @@
     "href": "events/big-llm-hack-24/data.html",
     "title": "Evidence House",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nCategories\n\n\n\n\n\n\nCompanies House\n\n\ngrants\n\n\n\n\nFind Government Grants\n\n\ngrants\n\n\n\n\nFocus Group Data\n\n\ncommunications\n\n\n\n\nGOV.UK Major Projects Data\n\n\nprojects\n\n\n\n\nHMT Long Term Tracking\n\n\ncommunications\n\n\n\n\nLegislation API\n\n\nlegislation\n\n\n\n\nMinisterial Correspondence\n\n\ncorrespondence\n\n\n\n\nNational News List\n\n\ncommunications\n\n\n\n\nNewscatcher API\n\n\ncommunications\n\n\n\n\nOJO Job Adverts\n\n\nskills\n\n\n\n\nOxford Global Projects Data\n\n\nprojects\n\n\n\n\nSavanta Polling Data\n\n\ncommunications\n\n\n\n\nSpotlight\n\n\ngrants\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nTitle\n\n\nCategories\n\n\n\n\n\n\nCompanies House\n\n\ngrants\n\n\n\n\nFind Government Grants\n\n\ngrants\n\n\n\n\nFocus Group Data\n\n\ncommunications\n\n\n\n\nGOV.UK Major Projects Data\n\n\nprojects\n\n\n\n\nHMT Long Term Tracking\n\n\ncommunications\n\n\n\n\nLegislation API\n\n\nlegislation\n\n\n\n\nMinisterial Correspondence\n\n\ncorrespondence\n\n\n\n\nNational News List\n\n\ncommunications\n\n\n\n\nNewscatcher API\n\n\ncommunications\n\n\n\n\nOJO Job Adverts\n\n\nskills\n\n\n\n\nOxford Global Projects Data\n\n\nprojects\n\n\n\n\nPublic Health Incident Data\n\n\nsituations\n\n\n\n\nSavanta Polling Data\n\n\ncommunications\n\n\n\n\nSpotlight\n\n\ngrants\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "events/big-llm-hack-24/data/legislation.html",
@@ -268,9 +268,9 @@
   {
     "objectID": "events/big-llm-hack-24/challenges/correspondence/correspondence.html#data",
     "href": "events/big-llm-hack-24/challenges/correspondence/correspondence.html#data",
-    "title": "Problem 3 - Communications",
+    "title": "Problem 1 - Ministerial Correspondence",
     "section": "Data",
-    "text": "Data\nFor this challenge, we have pre-scraped a range of tweets from social media and press articles, both about the emergency alert test in April of this year, and the recent heatwave."
+    "text": "Data"
   },
   {
     "objectID": "events/big-llm-hack-24/challenges/legislation/hackathon_demo_legislation_api.html",
@@ -466,7 +466,7 @@
     "href": "events/big-llm-hack-24/challenges/legislation/legislation.html#data",
     "title": "Problem 3 - Legislation",
     "section": "Data",
-    "text": "Data\nFor this challenge, we have pre-scraped a range of tweets from social media and press articles, both about the emergency alert test in April of this year, and the recent heatwave."
+    "text": "Data\nThe legislation team have provided guidance on how to query the legislation API, as well as detailed documentation below.\nThe legislation team have split up their datasets into two parts, from two challenge statements\n\nCan an AI help write explanatory notes for legislation?\nDocs associated with this are:\n\n‘Ex notes for existing Acts …’\n‘Draft Policy Instructions…’ (fictitious example written for the Hackathon, but designed to be representative of the type of policy instructions MoJ Legal Advisors might be asked to work with)\n‘Theft Act 1968.docx’\n‘Treason offences.docx’\nhackathon_demo_legislation_api.ipynb\n\n\n\nCan an AI write draft legislation based on simple drafting instructions?\nDoc associated with this:\n\n‘REGULATION OF SKATEBOARDS.docx’ (includes fictitious instructions written for the Hackathon, again designed to be representative of a typical request for licensing legislation)"
   },
   {
     "objectID": "events/big-llm-hack-24/imperial-llm-hack-event.html",
@@ -480,7 +480,7 @@
     "href": "events/big-llm-hack-24/imperial-llm-hack-event.html#key-challenges",
     "title": "10x AI Hackathon",
     "section": "Key Challenges",
-    "text": "Key Challenges\nHow could we use AI to…\n\nMinisterial Correspondence : Help government and No10 manage and act upon incoming correspondence\nEmerging Situations and Crises : Help the National Situation Centre react to new and emerging biosafety threats\nLegislation : Write better legislation, with better evidence, that’s better understood\nCommunications : Brief the Prime Minister and help us deliver effective and informative communications\nMeetings and Transcription : Understand, digest, summarise and share information from meetings across the civil service\nManage Major Projects : Measure, manage and deliver major projects\nGrants and awards : Ensure government effectively distributes grants and financial assistance tot hose who need it\nSkills : Make sure the UK economy is ready for the AI led skills revolution"
+    "text": "Key Challenges\nHow could we use AI to…\n\nMinisterial Correspondence : Help government and No10 manage and act upon incoming handwritten correspondence\nEmerging Situations and Crises : Help the National Situation Centre react to new and emerging biosafety threats\nLegislation : Write better legislation, with better evidence, that’s better understood\nCommunications : Brief the Prime Minister and help us deliver effective and informative communications\nMeetings and Transcription : Understand, digest, summarise and actionise meetings across the civil service\nManage Major Projects : Measure, manage and deliver major projects\nGrants and awards : Ensure government effectively distributes grants and financial assistance tot hose who need it\nSkills : Make sure the UK economy is ready for the AI led skills revolution"
   },
   {
     "objectID": "events/big-llm-hack-24/imperial-llm-hack-event.html#teams",
@@ -894,5 +894,33 @@
     "title": "Focus Group Data",
     "section": "",
     "text": "PDFs for a number of focus groups containing qualitative data on crime.\nAvailable via our S3 bucket as focus_group_data.zip, or download here"
+  },
+  {
+    "objectID": "events/big-llm-hack-24/data_guide.html",
+    "href": "events/big-llm-hack-24/data_guide.html",
+    "title": "Data Access Guide",
+    "section": "",
+    "text": "We provide pre-processed datasets through our Evidence House S3 bucket.\nThe easiest option to download is either by clicking the links in our data guide, or querying them directly (eg, using wget)\n$ https://evidence-house-public.s3.eu-west-2.amazonaws.com/YOUR_FILE_NAME\n\nAWS CLI\nTo access the Hackathon data, you will need to download and install the AWS CLI tool. You can find instructions for this here\nTo verify the AWS CLI has installed properly you can run:\n$ aws --version\nWhich should return something like:\naws-cli/2.10.0 Python/3.11.2 Darwin/18.7.0 botocore/2.4.5\nYou might need to restart your terminal for the AWS CLI to be available.\n\n\n\nHackathon Data\nThe data for the hackathon can be downloaded from AWS using the command:\naws s3 cp s3://evidence-house-public &lt;YOUR_FILE_NAME&gt; --no-sign-request\nEg,\naws s3 cp s3://evidence-house-public gapminder.csv --no-sign-request\n\nThe files come in a variety of formats:\n\nOpenOffice Documents\nPDFs\nExcel Spreadsheets\nCSVs\nHTML documents\n\nIf you are using Python to operate on the data you might find the odfpy module helpful for reading OpenOffice documents.\nIf ypu are using R you might find the readODS or trinker/textreadr packages helpful for reading OpenOffice documents."
+  },
+  {
+    "objectID": "events/big-llm-hack-24/challenges/correspondence/correspondence.html#correspondence",
+    "href": "events/big-llm-hack-24/challenges/correspondence/correspondence.html#correspondence",
+    "title": "Problem 1 - Ministerial Correspondence",
+    "section": "Correspondence",
+    "text": "Correspondence\nHelp government and No10 manage and act upon incoming handwritten correspondence"
+  },
+  {
+    "objectID": "events/big-llm-hack-24/data/companies_house copy.html",
+    "href": "events/big-llm-hack-24/data/companies_house copy.html",
+    "title": "Public Health Incident Data",
+    "section": "",
+    "text": "For this challenge, we have provided links to a range of datasets about public health situations and crises - these are detailed below.\nNOIDS reports by UKHSA: https://www.gov.uk/government/collections/notifications-of-infectious-diseases-noids\nNOIDS reports by CSV: https://www.data.gov.uk/dataset/e37520b0-ddb4-4cfa-b53f-a9c50ef21965/notification-of-infectious-diseases\nWikipedia links to each notifiable disease page, which includes information on at risk individuals, epidemiology and prognosis: https://en.wikipedia.org/wiki/Notifiable_diseases_in_the_United_Kingdom\nLinks to notifiable disease pages information, including transmission and symptoms: https://patient.info/doctor/notifiable-diseases\nWHO publications relating to UK notifiable diseases: https://www.who.int/publications/i Examples: https://www.who.int/publications/i/item/9789240091672 https://www.who.int/publications/i/item/B09017 https://www.who.int/publications/i/item/WER-9842-509-511 https://www.who.int/publications/i/item/9789240080195\nWHO Factsheets on notifiable diseases: https://www.who.int/news-room/fact-sheets Examples: https://www.who.int/news-room/fact-sheets/detail/brucellosis https://www.who.int/news-room/fact-sheets/detail/chikungunya https://www.who.int/news-room/fact-sheets/detail/cholera https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue\nOHID/DHSC API https://fingertips.phe.org.uk/profile/guidance/supporting-information/api\nWHO global news tracker (includes some notifiable diseases) https://portal.who.int/pandemichub/newsmap/\nUN page on health https://www.un.org/en/global-issues/health\nWHO/UN world health statistics https://www.who.int/publications/i/item/9789240074323\nFLUID https://www.who.int/teams/global-influenza-programme/surveillance-and-monitoring/influenza-surveillance-outputs\nWateraid fact sheets https://www.wateraid.org/facts-and-statistics\nWHO fact sheets: https://worldhealthorg.shinyapps.io/mpx_global/\nGlobal Reported cases of vaccine-preventable diseases (VPDs) https://immunizationdata.who.int/\nAction for global health Annual health coverage review https://actionforglobalhealth.org.uk/wp-content/uploads/2023/04/2023-High-Level-Meeting-on-Universal-Health-Coverage.pdf\nhttps://www.nhs.uk/"
+  },
+  {
+    "objectID": "events/big-llm-hack-24/data/health_situations.html",
+    "href": "events/big-llm-hack-24/data/health_situations.html",
+    "title": "Public Health Incident Data",
+    "section": "",
+    "text": "For this challenge, we have provided links to a range of datasets about public health situations and crises - these are detailed below.\n\nNOIDS reports by UKHSA\nNOIDS reports by CSV\nWikipedia links to each notifiable disease page, which includes information on at risk individuals, epidemiology and prognosis\nLinks to notifiable disease pages information, including transmission and symptoms\nWHO publications relating to UK notifiable diseases (examples below)\n\nhttps://www.who.int/publications/i/item/9789240091672\nhttps://www.who.int/publications/i/item/B09017\nhttps://www.who.int/publications/i/item/WER-9842-509-511\nhttps://www.who.int/publications/i/item/9789240080195\n\nWHO Factsheets on notifiable diseases (examples below)\n\nhttps://www.who.int/news-room/fact-sheets/detail/brucellosis\nhttps://www.who.int/news-room/fact-sheets/detail/chikungunya\nhttps://www.who.int/news-room/fact-sheets/detail/cholera\nhttps://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue\n\nOHID/DHSC API\nWHO global news tracker (includes some notifiable diseases)\nUN page on health\nWHO/UN world health statistics\nFLUID\nWateraid fact sheets\nWHO fact sheets\nGlobal Reported cases of vaccine-preventable diseases (VPDs)\nAction for global health Annual health coverage review"
   }
 ]

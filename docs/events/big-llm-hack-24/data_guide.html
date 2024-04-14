@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Evidence House</title>
+<title>Evidence House - Data Access Guide</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,25 +23,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./logo.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<link href="../../logo.png" rel="icon" type="image/png">
+<script src="../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,70 +67,14 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-title"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Evidence House">
+<link rel="stylesheet" href="../../styles.css">
+<meta property="og:title" content="Evidence House - Data Access Guide">
+<meta property="og:description" content="">
 <meta property="og:site_name" content="Evidence House">
-<meta name="twitter:title" content="Evidence House">
+<meta name="twitter:title" content="Evidence House - Data Access Guide">
+<meta name="twitter:description" content="">
 <meta name="twitter:card" content="summary">
 </head>
 
@@ -143,10 +85,10 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./logo.png" alt="" class="navbar-logo">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../logo.png" alt="" class="navbar-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Evidence House</span>
     </a>
   </div>
@@ -157,19 +99,19 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./newsletters.html"> 
+    <a class="nav-link" href="../../newsletters.html"> 
 <span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./events.html" aria-current="page"> 
+    <a class="nav-link" href="../../events.html"> 
 <span class="menu-text">Events</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./playbook/playbook.html"> 
+    <a class="nav-link" href="../../playbook/playbook.html"> 
 <span class="menu-text">The Hackathon Playbook</span></a>
   </li>  
 </ul>
@@ -187,83 +129,72 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#aws-cli" id="toc-aws-cli" class="nav-link active" data-scroll-target="#aws-cli">AWS CLI</a></li>
+  <li><a href="#hackathon-data" id="toc-hackathon-data" class="nav-link" data-scroll-target="#hackathon-data">Hackathon Data</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Data Access Guide</h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
 
-
-
-
-<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-         <option value="listing-title-sort" data-direction="asc">
-          Title
-        </option>
-     </select>
+    
+  
+    
   </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-listing-date-sort="1713135600000" data-listing-file-modified-sort="1713128878490" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="264" data-listing-title-sort="10x AI Hackathon" data-listing-filename-sort="imperial-llm-hack-event.qmd">
-<td>
-<span class="listing-date">Apr 15, 2024</span>
-</td>
-<td>
-<a href="./events/big-llm-hack-24/imperial-llm-hack-event.html" class="title listing-title">10x AI Hackathon</a>
-</td>
-</tr>
-<tr data-index="1" data-listing-date-sort="1690326000000" data-listing-file-modified-sort="1712658436907" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1371" data-listing-title-sort="Generative AI Hack" data-listing-filename-sort="llm-hack-event.qmd">
-<td>
-<span class="listing-date">Jul 26, 2023</span>
-</td>
-<td>
-<a href="./events/gen-ai-hack/llm-hack-event.html" class="title listing-title">Generative AI Hack</a>
-</td>
-</tr>
-<tr data-index="2" data-listing-date-sort="1687474800000" data-listing-file-modified-sort="1712658436924" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="37" data-listing-title-sort="Introduction to Machine Learning in Python" data-listing-filename-sort="ml-in-python-event.qmd">
-<td>
-<span class="listing-date">Jun 23, 2023</span>
-</td>
-<td>
-<a href="./events/ml-in-python/ml-in-python-event.html" class="title listing-title">Introduction to Machine Learning in Python</a>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+  
+
+
+</header>
+
+
+<p>We provide pre-processed datasets through our Evidence House S3 bucket.</p>
+<p>The easiest option to download is either by clicking the links in our data guide, or querying them directly (eg, using wget)</p>
+<pre><code>$ https://evidence-house-public.s3.eu-west-2.amazonaws.com/YOUR_FILE_NAME</code></pre>
+<section id="aws-cli" class="level3">
+<h3 class="anchored" data-anchor-id="aws-cli">AWS CLI</h3>
+<p>To access the Hackathon data, you will need to download and install the AWS CLI tool. You can find instructions for this <a href="https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html">here</a></p>
+<p>To verify the AWS CLI has installed properly you can run:</p>
+<pre><code>$ aws --version</code></pre>
+<p>Which should return something like:</p>
+<p><code>aws-cli/2.10.0 Python/3.11.2 Darwin/18.7.0 botocore/2.4.5</code></p>
+<p>You might need to restart your terminal for the AWS CLI to be available.</p>
+<hr>
+</section>
+<section id="hackathon-data" class="level3">
+<h3 class="anchored" data-anchor-id="hackathon-data">Hackathon Data</h3>
+<p>The data for the hackathon can be downloaded from AWS using the command:</p>
+<pre><code>aws s3 cp s3://evidence-house-public &lt;YOUR_FILE_NAME&gt; --no-sign-request</code></pre>
+<p>Eg,</p>
+<pre><code>aws s3 cp s3://evidence-house-public gapminder.csv --no-sign-request</code></pre>
+<hr>
+<p>The files come in a variety of formats:</p>
+<ul>
+<li>OpenOffice Documents</li>
+<li>PDFs</li>
+<li>Excel Spreadsheets</li>
+<li>CSVs</li>
+<li>HTML documents</li>
+</ul>
+<p>If you are using <code>Python</code> to operate on the data you might find the <a href="https://pypi.org/project/odfpy/"><code>odfpy</code></a> module helpful for reading OpenOffice documents.</p>
+<p>If ypu are using <code>R</code> you might find the <a href="https://rdrr.io/cran/readODS/"><code>readODS</code></a> or <a href="https://rdrr.io/github/trinker/textreadr/man/read_odt.html"><code>trinker/textreadr</code></a> packages helpful for reading OpenOffice documents.</p>
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

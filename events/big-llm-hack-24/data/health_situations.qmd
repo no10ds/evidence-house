@@ -1,0 +1,31 @@
+---
+title: "Public Health Incident Data"
+categories:
+    - situations
+---
+
+For this challenge, we have provided links to a range of datasets about public health situations and crises - these are detailed below.
+
+- [NOIDS reports by UKHSA](https://www.gov.uk/government/collections/notifications-of-infectious-diseases-noids)
+- [NOIDS reports by CSV](https://www.data.gov.uk/dataset/e37520b0-ddb4-4cfa-b53f-a9c50ef21965/notification-of-infectious-diseases)
+- [Wikipedia links to each notifiable disease page, which includes information on at risk individuals, epidemiology and prognosis](https://en.wikipedia.org/wiki/Notifiable_diseases_in_the_United_Kingdom)
+- [Links to notifiable disease pages information, including transmission and symptoms](https://patient.info/doctor/notifiable-diseases)
+- [WHO publications relating to UK notifiable diseases](https://www.who.int/publications/i) (examples below)
+    - https://www.who.int/publications/i/item/9789240091672
+    - https://www.who.int/publications/i/item/B09017
+    - https://www.who.int/publications/i/item/WER-9842-509-511
+    - https://www.who.int/publications/i/item/9789240080195
+- [WHO Factsheets on notifiable diseases](https://www.who.int/news-room/fact-sheets) (examples below)
+    - https://www.who.int/news-room/fact-sheets/detail/brucellosis
+    - https://www.who.int/news-room/fact-sheets/detail/chikungunya
+    - https://www.who.int/news-room/fact-sheets/detail/cholera
+    - https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue
+- [OHID/DHSC API](https://fingertips.phe.org.uk/profile/guidance/supporting-information/api)
+- [WHO global news tracker (includes some notifiable diseases)](https://portal.who.int/pandemichub/newsmap/)
+- [UN page on health](https://www.un.org/en/global-issues/health)
+- [WHO/UN world health statistics](https://www.who.int/publications/i/item/9789240074323)
+- [FLUID](https://www.who.int/teams/global-influenza-programme/surveillance-and-monitoring/influenza-surveillance-outputs)
+- [Wateraid fact sheets](https://www.wateraid.org/facts-and-statistics)
+- [WHO fact sheets](https://worldhealthorg.shinyapps.io/mpx_global/)
+- [Global Reported cases of vaccine-preventable diseases (VPDs)](https://immunizationdata.who.int/)
+- [Action for global health Annual health coverage review](https://actionforglobalhealth.org.uk/wp-content/uploads/2023/04/2023-High-Level-Meeting-on-Universal-Health-Coverage.pdf)

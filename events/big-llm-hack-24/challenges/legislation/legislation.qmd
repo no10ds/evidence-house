@@ -8,4 +8,20 @@ title: "Problem 3 - Legislation"
 **Writing Legislation that is Impactive, Efective and Understandable**
 
 ## [Data](/events/big-llm-hack-24/data.qmd#category=legislation)
-For this challenge, we have pre-scraped a range of tweets from social media and press articles, both about the emergency alert test in April of this year, and the recent heatwave.
+The legislation team have provided guidance on how to query the legislation API, as well as detailed documentation below.
+
+The legislation team have split up their datasets into two parts, from two challenge statements
+
+#### Can an AI help write explanatory notes for legislation?
+Docs associated with this are:
+
+- [‘Ex notes for existing Acts …’](Ex%20notes%20for%20existing%20Acts%20-%20Lex%20hackathon%20proposal.docx)
+- [‘Draft Policy Instructions…’](Ex%20notes%20for%20existing%20Acts%20-%20Lex%20hackathon%20proposal.docx) (fictitious example written for the Hackathon, but designed to be representative of the type of policy instructions MoJ Legal Advisors might be asked to work with)
+- [‘Theft Act 1968.docx’](Theft%20Act%201968.docx)
+- [‘Treason offences.docx’](Treason%20offences.docx)
+- [hackathon_demo_legislation_api.ipynb](hackathon_demo_legislation_api.ipynb)
+
+#### Can an AI write draft legislation based on simple drafting instructions?
+Doc associated with this:
+
+- [‘REGULATION OF SKATEBOARDS.docx’](REGULATION%20OF%20SKATEBOARDS.docx) (includes fictitious instructions written for the Hackathon, again designed to be representative of a typical request for licensing legislation)

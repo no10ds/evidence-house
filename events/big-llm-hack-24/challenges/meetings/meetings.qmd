@@ -8,3 +8,4 @@ title: "Problem 5 - Meetings and Transcription"
 Ensuring we obtain insight and actions from the most senior meetings
 
 ## [Data](/events/big-llm-hack-24/data.qmd#category=meetings)
+At this time, we haven't provided any specific meeting data, however we expect participants should be able to generate meeting data themselves, or obtain recordings from Youtube or similar!

@@ -7,4 +7,4 @@ title: "Problem 1 - Ministerial Correspondence"
 ## [Correspondence](correspondence.pdf)
 Help government and No10 manage and act upon incoming handwritten correspondence
 
-## [Data](https://no10ds.github.io/evidence-house/events/gen-ai-hack/data.html#category=correspondence)
+## [Data](/events/big-llm-hack-24/data.qmd#category=correspondence)

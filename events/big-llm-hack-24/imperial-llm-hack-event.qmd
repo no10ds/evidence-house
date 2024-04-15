@@ -38,6 +38,12 @@ We've prepared a selection of datasets for the event, and these can be viewed on
 
 Where data has been pre-prepared, [we have hosted it on a S3 bucket.](data_guide.qmd)
 
+## Confirming your problem
+
+Remember, you need to confirm a problem by 5PM on day 1! 
+
+Once you've decided, [please can one person per team to submit a form here.](https://docs.google.com/forms/d/e/1FAIpQLSezczTrWcwOCTX-4iDC-vtq91Ll-lTk1pgwOdA8Lg57YV1p2w/viewform)  
+
 ## Tools and Resources 
 ### Problem Statements
 

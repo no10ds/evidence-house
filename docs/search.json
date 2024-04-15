@@ -767,7 +767,7 @@
     "href": "events/big-llm-hack-24/data/spotlight.html",
     "title": "Spotlight",
     "section": "",
-    "text": "We have prepared an anonymous extract of splotlight data.\nThe dataset will be available on the S3 bucket."
+    "text": "We have prepared an anonymous extract of splotlight data.\nAvailable via our S3 bucket as savanta.zip, or download here\nHistoric grant data is also available online."
   },
   {
     "objectID": "events/big-llm-hack-24/challenges/communications/communications.html#communications",

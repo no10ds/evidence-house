@@ -6,4 +6,6 @@ categories:
 
 We have prepared an anonymous extract of splotlight data.
 
-The dataset will be available on the S3 bucket.
+Available via our S3 bucket as savanta.zip, [or download here](https://evidence-house-public.s3.eu-west-2.amazonaws.com/spotlight_data.zip)
+
+[Historic grant data is also available online.](https://www.gov.uk/government/statistics/government-grants-statistics-2022-to-2023)

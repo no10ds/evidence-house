@@ -38,4 +38,26 @@ We've prepared a selection of datasets for the event, and these can be viewed on
 
 Where data has been pre-prepared, [we have hosted it on a S3 bucket.](data_guide.qmd)
 
-## Tools and Resources (TBC)
+## Tools and Resources 
+### Problem Statements
+
+| Problem Statement          | Room                         |                                              |
+| -------------------------- | ---------------------------- | -------------------------------------------- |
+| Handwritten Correspondence | LG19 B                       | Downstairs                                   |
+| National Situation Centre  | LG R                         | Downstairs                                   |
+| Legislation                | LG S                         | Downstairs                                   |
+| Communications             | Room 200 (main lecture hall) | Main lecture hall                            |
+| Meetings                   | 650                          |                                              |
+| Major Projects             | LG19 A                       | Downstairs                                   |
+| Grants & Awards            | 649                          | Take the lifts from beside main lecture hall |
+| Skills                     | 651                          | Take the lifts from beside main lecture hall |
+
+### Armoury Sessions
+
+| Company          | Room                         |
+| ---------------- | ---------------------------- |
+| Google / Ancoris | LG19 B                       |
+| Microsoft        | LG R                         |
+| Open AI          | LG S                         |
+| AWS              | Room 200 (main lecture hall) |
+| Anthropic        | LG19 A                       |

@@ -7,6 +7,4 @@ title: "Problem 2 - Emerging Situations and Crises"
 ## [Situations and Crises](situations.pdf)
 Managing emerging situations and crises
 
-## [Data](https://no10ds.github.io/evidence-house/events/gen-ai-hack/data.html#category=situations)
-
-We have prepared ...
+## [Data](/events/big-llm-hack-24/data.qmd#category=situations)

@@ -10,6 +10,8 @@ The hackathon will take place on the main campus of [Imperial College](https://m
 
 Before you attend, [make sure you're ready to hit the ground running on day 1!](getting-ready.qmd)
 
+For the duration of the event, use the **Imperial-WPA** network, using username **guest980354** and password **TWGkgawJV6dm**.  Alternatively, you can use _The Cloud.
+
 ## Key Challenges
 How could we use AI to...
 

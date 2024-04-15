@@ -4,7 +4,7 @@ title: "Problem 7 - Grants"
 
 ![](grants.png){width=100%}
 
-## [Grants](communications_slides.pdf)
+## [Grants](grants.pdf)
 **Understanding media coverage / public sentiment around major events so that we communicate effectively**
 
 ## [Data](/events/big-llm-hack-24/data.qmd#category=grants)
